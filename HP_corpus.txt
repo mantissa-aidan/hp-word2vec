@@ -1,0 +1,4925 @@
+b"I should've known that you would be here, Professor McGonagall."
+b'Good evening, Professor Dumbledore.'
+b'Are the rumors true, Albus?'
+b"I'm afraid so, professor."
+b'The good and the bad.'
+b'And the boy?'
+b'Hagrid is bringing him.'
+b'Do you think it wise to trust Hagrid with something as important as this?'
+b'Ah, Professor, I would trust Hagrid with my life.'
+b'Professor Dumbledore, sir.'
+b'Professor McGonagall.'
+b'No problems, I trust, Hagrid?'
+b'No, sir.'
+b'Little tyke fell asleep just as we were flying over Bristol.'
+b'Try not to wake him.'
+b'There you go.'
+b"Albus, do you really think it's safe, leaving him with these people?"
+b"I've watched them all day."
+b"They're the worst sort of Muggles, imaginable."
+b'They really are...'
+b'The only family he has.'
+b'This boy will be famous.'
+b"There won't be a child in our world who doesn't know his name."
+b'Exactly.'
+b"He's far better off growing up away from all of that."
+b"Until he's ready."
+b'There, there, Hagrid.'
+b"It's not really goodbye, after all."
+b'Good luck...Harry Potter.'
+b'Up. Get up!'
+b'Now!'
+b'Wake up, cousin!'
+b"We're going to the zoo!"
+b'Here he comes, the birthday boy.'
+b'Happy birthday, son.'
+b"Why don't you just cook the breakfast, and try not to burn anything."
+b'Yes, Aunt Petunia.'
+b"I want everything to be perfect for my Dudley's special day!"
+b'Hurry up! Bring my coffee, boy.'
+b'Yes, Uncle Vernon.'
+b"Aren't they wonderful, darling?"
+b'How many are there?'
+b'36. Counted them myself.'
+b'36?! But last year... last year I had 37!'
+b"But some of them are quite a bit bigger than last year's."
+b"I don't care how big they are!"
+b'Oh, now, now, now. '
+b"This is what we're going to do..."
+b"is that when we go out, we're going to buy you two new presents."
+b"How's that, pumpkin?"
+b'It should be a lovely day at the zoo.'
+b"I'm really looking forward to it."
+b"I'm warning you now, boy."
+b'Any funny business, any at all...'
+b"And you won't have any meals for a week."
+b'Get in.'
+b'Make it move.'
+b'Move!'
+b'Move!'
+b"He's asleep!"
+b"He's boring."
+b'Sorry about him.'
+b"He doesn't understand what it's like, lying there day after day..."
+b'...watching people press their ugly faces in on you.'
+b'Can you hear me?'
+b"It's just, I've never talked to a snake before."
+b'Do you...?'
+b'I mean, do you talk to people often?'
+b"You're from Burma, aren't you?"
+b'Was it nice there?'
+b'Do you miss your family?'
+b"I see. That's me as well."
+b'I never knew my parents either.'
+b'Mummy, Dad, come here! '
+b"you won't believe what this snake is doing!"
+b'Thanks.'
+b'Anytime.'
+b'Snake!'
+b'Mum! Mummy! Help me!'
+b'My darling boy!'
+b'How did you get in there?'
+b'Who did this?'
+b'How did you get in there?'
+b'ls there a snake?'
+b"It's all right, sweetheart."
+b"We'll get you out of these cold clothes."
+b'What happened?'
+b"I swear, I don't know!"
+b'One minute the glass was there and then it was gone, it was like magic.'
+b"There's no such thing as magic."
+b'And smile!'
+b'Vernon, just look at him!'
+b"I can't believe it!"
+b"In just a week, he'll be off to Smeltings."
+b'Caveat Smeltonia.'
+b'Proudest moment of my life.'
+b'Will I have to wear that too?'
+b'What? You? Go to Smeltings?'
+b"Don't be so stupid!"
+b"You're going to go to the state school."
+b'Where you belong.'
+b"This is what you'll going to be wearing, when I finish dyeing it."
+b"That's Dudley's old uniform."
+b"It'll fit me like bits of old elephant skin."
+b"It'll fit you well enough."
+b'Go get the post. Go!'
+b'Marge is ill. Ate a funny whelk.'
+b"Dad, look! Harry's got a letter!"
+b"Hey, give it back! It's mine!"
+b"Yours? Who'd be writing to you?"
+b'No more mail through this letterbox.'
+b'Have a lovely day at the office, dear.'
+b'Shoo! Go on.'
+b'Fine day, Sunday.'
+b'In my opinion, best day of the week.'
+b'Why is that, Dudley?'
+b"Because there's no post on Sundays?"
+b'Right you are, Harry!'
+b'No post on Sunday.'
+b'No blasted letters today! No, sir.'
+b'Not one single bloody letter. Not one!'
+b'No, sir, not one blasted, miserable...'
+b'Stop it!'
+b"Mummy, what's happening?"
+b'Give me that!'
+b'Give me that letter!'
+b'Get off!'
+b"They're my letters!"
+b'Let go of me!'
+b"That's it!"
+b"We're going away!"
+b"Far away, where they can't find us!"
+b"Daddy's gone mad, hasn't he?"
+b'Make a wish, Harry.'
+b"Who's there?"
+b'Sorry about that.'
+b'I demand that you leave at once, Sir!'
+b'You are breaking and entering!'
+b'Dry up, Dursley, you great prune.'
+b"Mind, I haven't seen you since you was a baby, Harry."
+b"But you're a bit more along than I would have expected."
+b"Particularly 'round the middle."
+b"I'm not Harry."
+b'I am.'
+b'Well, of course you are.'
+b'Got something for you.'
+b"Afraid I might have sat on it at somepoint, but I imagine it'll taste fine just the same."
+b'Baked it myself, words and all.'
+b'Thank you.'
+b"It's not every day that your young man turns 11, now is it?"
+b'Excuse me, who are you?'
+b'Rubeus Hagrid, Keeper of Keys and Grounds at Hogwarts.'
+b'Of course, you know all about Hogwarts.'
+b'Sorry, no.'
+b"No? Blimey, Harry, didn't you ever wonder where your mum and dad learned it all?"
+b'Learnt what?'
+b"You're a wizard, Harry."
+b"I'm a what?"
+b'A wizard.'
+b"And a thumping good one, I'd wager, once you're trained up little."
+b"No, you've made a mistake."
+b"I mean...l can't be a wizard."
+b"I mean, I'm just Harry."
+b'Just Harry.'
+b'Well, Just Harry, did you ever make anything happen?'
+b"Anything you couldn't explain, when you were angry or scared?"
+b'Dear Mr. Potter,'
+b'We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry."'
+b'He will not be going there!'
+b"We swore when we took him in we'd put a stop to all this rubbish."
+b'You knew? '
+b'You knew all along and you never told me?'
+b'Of course we knew.'
+b'How could you not be?'
+b'My perfect sister being who she was.'
+b'My mother and father were so proud the day she got her letter.'
+b'We have a witch in the family.'
+b'Isn\'t it wonderful?"'
+b'I was the only one to see her for what she was.'
+b'A freak!'
+b'Then she met that Potter, and then she had you...'
+b'and I knew you would be the same.'
+b'Just as strange, just as abnormal.'
+b'And then, if you please, she went and got herself blown up!'
+b'And we got landed with you.'
+b'Blown up?'
+b'You told me my parents died in a car crash.'
+b'A car crash? '
+b'A car crash killed Lily and James Potter?'
+b'We had to say something.'
+b"It's an outrage!"
+b"It's a scandal!"
+b"He'll not be going."
+b"Oh, and I suppose a great Muggle like yourself's going to stop him, are you?"
+b'Muggle?'
+b'Non-magic folk.'
+b"This boy's had his name down ever since he were born."
+b"He's going to the finest school of witchcraft and wizardry in the world and..."
+b"he'll be under the finest headmaster that Hogwarts has ever seen, Albus Dumbledore."
+b'I will not pay to have some crackpot old fool teach him magic tricks.'
+b'Never insult Albus Dumbledore in front of me.'
+b"Oh, um, I'd appreciate it if you didn't tell anyone at Hogwarts about that."
+b"Strickly speaking, I'm not allowed to do magic."
+b'Okay.'
+b"Ooh, We're a bit behind schedule."
+b'Best be off.'
+b"Unless you'd rather stay, of course."
+b"First year's students will require three sets of plain work robes one wand."
+b'Essential bit of equipment, Harry.'
+b'One pair of dragon hide gloves.'
+b'Hagrid, Do they mean from a real dragon?'
+b"They don't mean a penguin, do they?"
+b"Crikey. I'd love a dragon."
+b"You'd like a dragon?"
+b'Vastly misunderstood beasts, Harry.'
+b'Vastly misunderstood.'
+b'All students must be equipped with one standard size 2 pewter cauldron and may bring, if they desire,\r either an owl, a cat or a toad.'
+b'Can we find all this in London?'
+b'If you know where to go.'
+b'Ah, Hagrid! The usual, I presume?'
+b'No, thanks, Tom.'
+b"I'm on official Hogwarts business."
+b'Just helping young Harry here buy his school supplies.'
+b'Bless my soul.'
+b"It's Harry Potter!"
+b'Welcome back, Mr. Potter.'
+b'Welcome back.'
+b'Doris Crockford, Mr Potter.'
+b"I can't believe I'm meeting you at last."
+b"Harry Potter. Can't tell you how pleased I am to meet you."
+b"Hello, professor. I didn't see you there."
+b'Harry, This is Professor Quirrell. '
+b'He will be your Defense Against the Dark Arts teacher at Hogwarts'
+b'Oh, nice to meet you.'
+b'Fearfully fascinating subject.'
+b'Not that you need it, eh, Potter?'
+b'Yes, well, must be going now.'
+b'Lots to buy.'
+b'Goodbye.'
+b"See, Harry? You're famous."
+b'But why am I famous, Hagrid?'
+b'All those people back there, how is it they know who I am?'
+b"I'm not sure I'm exactly the right person to tell you that, Harry."
+b'Welcome, Harry, to Diagon Alley.'
+b"Here's where you'll get your quills and your ink."
+b'And over there, all your bits and bobs for doing your wizardry.'
+b"It's a world-class racing broom."
+b'Look at it! The new Nimbus 2000!'
+b"It's the fastest model yet."
+b'But, Hagrid, how am I to pay for all this?'
+b"I haven't any money."
+b"Well there's your money, Harry."
+b'Gringotts, the wizard bank.'
+b"Ain't no safer place, not one."
+b'Except perhaps Hogwarts.'
+b'Hagrid, what exactly are these things?'
+b"They're goblins, Harry."
+b'Clever as they come goblins but not the most friendly of beasts.'
+b'Best stay close.'
+b'Mr. Harry Potter wishes to make a withdrawal.'
+b'And does Mr. Harry Potter have his key?'
+b'Oh, Wait a minute.'
+b'Got it here somewhere.'
+b"Ha! Here's the little devil."
+b"Oh, and there's something else as well."
+b'Professor Dumbledore gave me this.'
+b"It's about You-Know-What in vault you-know-which."
+b'Very well.'
+b'Vault 687.'
+b'Lamp, please.'
+b'Key, please.'
+b"Didn't think your mum and dad will leave you with nothing, now did ya?"
+b'Vault 713.'
+b"What's in there, Hagrid?"
+b"Can't tell you, Harry."
+b'Hogwarts business. Very secret.'
+b'Stand back.'
+b'Best not to mention this to anyone, Harry.'
+b'I still need... a wand.'
+b"A wand? Well, you'll want Ollivanders."
+b"There ain't no place better."
+b"Why don't you run along there and wait."
+b' I just got one more thing I gotta do.'
+b" Won't be long."
+b'Hello?'
+b'Hello?'
+b"I wondered when I'd be seeing you, Mr. Potter."
+b'It seems only yesterday that your mother and father were in here buying their first wands.'
+b'Here we are.'
+b'Give it a wave.'
+b'Apparently not.'
+b'Perhaps\xc2\x85 this'
+b'No, no, definitely not.'
+b'No matter.'
+b'I wonder.. Curious.'
+b'Very curious.'
+b"Sorry, but what's curious?"
+b"I remember every wand I've ever sold, Mr. Potter."
+b'It so happens that the phoenix whose tail feather resides in your wand, gave another feather.'
+b'Just one other.'
+b'It is curious that you should be destined for this wand when its brother gave you that scar. '
+b'And who owned that wand?'
+b'We do not speak his name.'
+b'The wand chooses the wizard, Mr. Potter.'
+b"It's not always clear why."
+b'But I think it is clear that we can expect great things from you.'
+b'After all, He-Who-Must-Not-Be-Named did great things.'
+b'Terrible yes, but great'
+b'Harry! Harry!'
+b'Happy birthday.'
+b'You all right, Harry?'
+b'You seem very quiet.'
+b"He killed my parents, didn't he?"
+b'The one who gave me this.'
+b'You know, Hagrid. '
+b'I know you do.'
+b"First, and understand this Harry because it's very important:"
+b'Not all wizards are good.'
+b'Some of them go bad.'
+b'A few years ago there was a one wizard who went as bad as he can go.'
+b' His name was V...'
+b'His name was V...'
+b'Maybe if you wrote it down?'
+b"No, I can't spell it."
+b'All right, Voldemort.'
+b'Voldemort?'
+b'It was dark times, Harry. Dark times.'
+b'Voldemort started to gather some followers.'
+b'Brought them over to the Dark Side.'
+b'Anyone that stood up to him ended up dead.'
+b'Your parents fought against him.'
+b'But nobody lived once he decided to kill them.'
+b'Nobody, not one.'
+b'Except you.'
+b'Me? Voldemort tried to kill me?'
+b"Yes. That ain't no ordinary cut on your forehead, Harry."
+b'A mark like that only comes from being touched by a curse, and an evil curse at that.'
+b'What happened to V...?'
+b'To You-Know-Who?'
+b'Well, some say he died.'
+b'Codswallop, in my opinion.'
+b"Nope, I reckon he's out there still too tired to carry on."
+b"But one thing's absolutely certain. "
+b'Something about you stumped him that night.'
+b"That's why you're famous."
+b"That's why everybody knows your name."
+b"You're the boy who lived."
+b'What are you looking at?'
+b'Blimey, is that the time?'
+b"Sorry, Harry, I'm gonna have to leave you."
+b'Dumbledore will be wanting his...'
+b"Well, he'll be wanting to see me."
+b'Now, uh, your train leaves in 10 minutes.'
+b"Here's your ticket. "
+b"Stick to it, Harry that's very important. "
+b'Stick to your ticket.'
+b'Platform 9 3/4?'
+b'But, Hagrid, there must be a mistake.'
+b'This says platform 9 3/4.'
+b"There's no such thing, is there?"
+b'Sorry.'
+b'Excuse me. Excuse me.'
+b'Right on your left Madam.'
+b'Excuse me Sir, Can you tell me where I might find platform 9 3/4?'
+b"9 3/4? Think you're being funny, do ya?"
+b"It's the same every year, packed with Muggles, Of course. "
+b'Come on!'
+b'Muggles?'
+b'Platform 9 3/4, this way.'
+b'All right, Percy, you first.'
+b'Fred, you next.'
+b"He's not Fred, I am."
+b'Honestly, woman, you call yourself our mother?'
+b"Oh, I'm sorry, George."
+b"I'm only joking. I am Fred."
+b'Excuse me.'
+b'Could you tell me how to...?'
+b'How to get onto the platform?'
+b'Not to worry, dear.'
+b"It's Ron's first time to Hogwarts as well."
+b"All you've got do is walk straight at the wall between platforms 9 and 10."
+b"Best do it at a bit of a run if you're nervous."
+b'Good luck.'
+b'Excuse me. Do you mind?'
+b'Everywhere else is full.'
+b'No. Not at all.'
+b"I'm Ron, by the way."
+b'Ron Weasley.'
+b"I'm Harry. Harry Potter."
+b"So it's true!"
+b'I mean, do you really have the...?'
+b'The what?'
+b'The scar?'
+b'Wicked!'
+b'Anything off the trolley, dears?'
+b"No, thanks. I'm all set."
+b"We'll take the lot."
+b"Bertie Bott's Every Flavor Beans?"
+b'They mean every flavor.'
+b"There's chocolate and peppermint and there's also spinach, liver and tripe."
+b'George sweared he got a bogey-flavoured one once!'
+b"These aren't real frogs, are they?"
+b"It's just a spell."
+b"Besides, It's the cards you want."
+b"Each pack's got a famous witch or wizard."
+b"I've got about 500 myself."
+b'Watch it!'
+b"Oh, that's rotten luck."
+b"They've only got one good jump in them to begin with."
+b"I've got Dumbledore!"
+b'I got about six of him.'
+b"Hey, he's gone!"
+b"Well, you can't expect him to hang around all day, can you?"
+b'This is Scabbers, by the way.'
+b"Pathetic, isn't he?"
+b'Just a little bit.'
+b'Fred gave me a spell as to turn him yellow.'
+b'Want to see?'
+b'Yeah.'
+b'Has anyone seen a toad?'
+b"A boy named Neville's lost one"
+b'No.'
+b'Oh, are you doing magic?'
+b"Let's see, then."
+b'Sunshine, daisies, butter mellow.'
+b'Turn this stupid fat rat yellow.'
+b"Are you sure that's a real spell?"
+b"Well, it's not very good, is it?"
+b"Of course, I've only tried a few simple ones myself but they've all worked for me."
+b'For example:'
+b'Oculus Reparo.'
+b"That's better, isn't it?"
+b"Holy cricket, you're Harry Potter!"
+b"I'm Hermione Granger."
+b'And you are...?'
+b"I'm Ron Weasley."
+b'Pleasure.'
+b'You two better change into robes.'
+b"I expect we'll be arriving soon."
+b"You've got dirt on your nose, by the way."
+b'Did you know?'
+b'Just there.'
+b'Right, then.'
+b'First years, this way, please!'
+b"Come on, now, first years, don't be shy."
+b'Come on now, hurry up.'
+b'Hello, Harry.'
+b'Hey, Hagrid.'
+b'Right, then. This way to the boats.'
+b'Come on, now, follow me.'
+b'Wicked.'
+b'Welcome to Hogwarts.'
+b"Now, in a few moments, you'll pass through these doors and join your classmates."
+b'But before you can take your seats, you must be sorted into your houses.'
+b'They are Gryffindor, Hufflepuff Ravenclaw and Slytherin.'
+b"Now, while you're here, your house will be like your family."
+b'Your triumphs will earn you points.'
+b'Any rule-breaking, and you will lose points.'
+b'At the end of the year, the house with the most points is awarded the house cup'
+b'Trevor! Sorry.'
+b'The Sorting Ceremony will begin momentarily.'
+b"It's true then, what they're saying on the train."
+b'Harry Potter has come to Hogwarts.'
+b'Harry Potter?'
+b'This is Crabbe, and Goyle.'
+b"And I'm Malfoy."
+b'Draco Malfoy.'
+b"Think my name's funny, do you?"
+b"I've no need to ask yours."
+b'Red hair and a hand-me-down robe?'
+b'You must be a Weasley.'
+b"We'll soon find out that some wizarding families are better than others, Potter."
+b"You don't want to go making friends with the wrong sort."
+b'I can help you there.'
+b'I think I can tell the wrong sort for myself, thanks.'
+b"We're ready for you now."
+b'Follow me.'
+b"It's not real, the ceiling. "
+b"It's just bewitched to look like the night sky."
+b'I read about it in Hogwarts: A History.'
+b'All right, will you wait along here, please?'
+b'Now, before we begin Professor Dumbledore would like to say a few words.'
+b'I have a few start-of-term notices I wish to announce.'
+b'The first years, please note that the Dark Forest is strictly forbidden to all students.'
+b'Also, our caretaker, Mr. Filch, has asked me to remind you that the third-floor corridor on the right hand side is out of bounds to everyone who does not wish to die a most painful death.'
+b'Thank you.'
+b'When I call your name, you will come forth.'
+b'I shall place the Sorting Hat on your head and you will be sorted into your houses.'
+b'Hermione Granger.'
+b'Oh, no. Okay, relax.'
+b"Mental, that one, I'm telling you."
+b'Ah, right then... hmm... right.'
+b'Okay. Gryffindor!'
+b'Draco Malfoy.'
+b'Slytherin!'
+b"There isn't a witch or wizard who went bad who wasn't in Slytherin."
+b'Susan Bones.'
+b'Harry, what is it?'
+b"Nothing. Nothing, I'm fine."
+b"Let's see I know! Hufflepuff!"
+b'Ronald Weasley.'
+b'Another Weasley!'
+b'I know just what to do with you.'
+b'Gryffindor!'
+b'Harry Potter.'
+b'Hmm... difficult, very difficult.'
+b'Plenty of courage, I see.'
+b'Not a bad mind, either.'
+b"There's talent, oh, yes."
+b'And a thirst to prove yourself.'
+b'But where to put you?'
+b'Not Slytherin, not Slytherin!'
+b'Not Slytherin, eh? Are you sure?'
+b'You could be great, you know.'
+b"It's all here, in your head."
+b'And Slytherin will help you on the way to greatnesses, no doubt about that.'
+b"No? Well, if you're sure."
+b'Better be...Gryffindor!'
+b'Your attention, please.'
+b'Let the feast begin.'
+b"I'm half and half."
+b"My dad's a Muggle. Mum's a witch."
+b'Bit of a nasty shock for him when he found out.'
+b"Say, Percy, who's that teacher talking to Professor Quirrell?"
+b'Oh, thats Professor Snape, head of Slytherin house.'
+b"What's he teach?"
+b'Potions.'
+b'But everyone knows, its the Dark Arts he fancies.'
+b"He's been after Quirrell's job for years."
+b'Hello! How are you?'
+b'Welcome to Gryffindor.'
+b"Look, It's the Bloody Baron!"
+b'Hello, Sir Nicholas.'
+b'Have a nice summer?'
+b'Dismal. Once again, my request to join the Headless Hunt has been denied.'
+b'I know you.'
+b"You're Nearly Headless Nick."
+b"I prefer Sir Nicholas, if you don't mind."
+b'Nearly headless?'
+b'How can you be nearly headless?'
+b'Like this.'
+b'Gryffindors, follow me please.'
+b'Keep up. Thank you.'
+b'Ravenclaw, follow me. This way.'
+b'This is the most direct path to the dormitories.'
+b'Oh, and keep an eye on the staircases.'
+b'They like to change.'
+b'Keep up, please, and follow me.'
+b'Quickly now, come on. Come on.'
+b"That picture's moving."
+b'Look at that one.'
+b'I think she fancies you.'
+b'Oh, look! Look!'
+b"Who's that girl?"
+b'Welcome to Hogwarts.'
+b'Password?'
+b'Caput Draconis.'
+b'Follow me, everyone. Keep up.'
+b'Quickly, come on.'
+b'Gather around here.'
+b'Welcome to the Gryffindor common room.'
+b"Boys' dormitory is upstairs and down to your left."
+b'Girls, the same on your right.'
+b"You'll find that your belongings have already been brought up."
+b'Made it!'
+b"Can you imagine the look on old McGonagall's face if we were late?"
+b'That was bloody brilliant!'
+b'Thank you for that assessment, Mr Weasley.'
+b"Perhaps, lt'd be more useful if I were to transfigure Mr. Potter and yourself into a pocket-watch."
+b'That way, one of you might be on time.'
+b'We got lost.'
+b'Then perhaps a map?'
+b"I trust you don't need one to find your seats."
+b'There will be no foolish wand-waving or silly incantations in this class.'
+b"As such, I don't expect many of you to appreciate the subtle science and exact art that is potion-making."
+b'However, for those select few who possess the predisposition I can teach you how to bewitch the mind and ensnare the senses.'
+b'I can tell you how to bottle fame brew glory and even put a stopper in death.'
+b'Then again, maybe some of you have come to Hogwarts in possession of abilities so formidable that you feel confident enough to not pay attention.'
+b'Mr. Potter.'
+b'Our new celebrity.'
+b'Tell me, what would I get if I added powdered root of asphodel to an infusion of wormwood?'
+b"You don't know? Well, let's try again."
+b'Where, Mr Potter, would you look if I asked you to find me a bezoar?'
+b"I don't know, Sir."
+b'And what is the difference between monkshood and wolfsbane?'
+b"I don't know, Sir."
+b'Pity.'
+b"Clearly, fame isn't everything is it, Mr. Potter?"
+b'Clearly, Hermione knows.'
+b'Seems a pity not to ask her.'
+b'Silence.'
+b'Put your hand down, you silly girl!'
+b'For your information, Potter'
+b'Asphodel and wormwood make a sleeping potion so powerful it is known as the Draught of the Living Dead.'
+b'A bezoar is a stone taken from the stomach of a goat and it will save you from most poisons.'
+b'As for monkshood and wolfsbane, they are the same plant, which also goes by the name of aconite.'
+b'Well...'
+b"Why aren't you all copying this down?"
+b"And Gryffindors note that five points will be taken from your house for your classmate's cheek."
+b'Eye of rabbit, harp string hum'
+b'Turn this water into rum.'
+b'Eye of rabbit...'
+b"What's Seamus trying to do to that glass of water?"
+b'Turn it into rum. '
+b'Actually managed a weak tea yesterday, before...'
+b"Mail's here."
+b'Can I borrow this? Thanks.'
+b"Hey, look! Neville's got a Remembrall"
+b"I've read about those."
+b"When the smoke turns red, it means you've forgotten something."
+b"The only problem is, I can't remember what I've forgotten."
+b'Hey Ron! Somebody broke into Gringotts.'
+b'Listen.'
+b'Believed to be the work of Dark wizards or witches unknown Gringotts goblins while acknowledging the breach, insist nothing was taken.\r'
+b'The vault in question, number 713, had, in fact, been emptied earlier that very same day."'
+b"That's odd. "
+b"That's the vault Hagrid and I went to."
+b'Good afternoon, class.'
+b'Good afternoon, Madam Hooch.'
+b'Good afternoon, Amanda.'
+b'Good afternoon.'
+b'Welcome to your first flying lesson.'
+b'Well, what are you waiting for? '
+b'Everyone step up to the left side of their broomstick.'
+b'Come on now, hurry up. '
+b'Stick your right hand over the broom and say, "Up."'
+b'Up!'
+b'Up.'
+b'Up. Up!'
+b'With feeling.'
+b'Up. Up. Up!'
+b'Shut up, Harry.'
+b"Now, once you've got hold of your broom, I want you to mount it."
+b"And grip it tight, you don't wanna be sliding off the end."
+b'When I blow my whistle, I want each of you to kick off from the ground, hard.'
+b'Keep your broom steady, hover for a moment'
+b'Then lean forward slightly and touch back down.'
+b'On my whistle. Three, two...'
+b'Mr. Longbottom.'
+b'Mr. Longbottom!'
+b'Down, down!'
+b'Neville!'
+b'Come back down this instant!'
+b'Everyone out of the way!'
+b'Is he all right?'
+b"Oh, dear, it's a broken wrist."
+b'Poor boy. Come on now, up you get.'
+b"Everyone's to keep their feet firmly on the ground while I take Mr Longbottom to the hospital wing."
+b'Understand? If I see a single broom in the air the one riding it will find themselves out of Hogwarts before they can say, Quidditch.'
+b'Did you see his face?'
+b"Maybe if the fat lump had given this a squeeze, he'd have remembered to fall on his fat arse."
+b'Give it here, Malfoy.'
+b"No. I think I'll leave it somewhere for Longbottom to find."
+b'How about on the roof?'
+b"What's the matter, Potter?"
+b'Bit beyond your reach?'
+b'Harry, no way!'
+b'You heard what Madam Hooch said.'
+b"Besides, you don't even know how to fly."
+b'What an idiot.'
+b"Give it here or I'll knock you off your broom!"
+b'Is that so?'
+b'Have it your way, then.'
+b'Nice going, Harry.'
+b'That was wicked, Harry!'
+b'Harry Potter!'
+b'Follow me.'
+b'You wait here.'
+b'Professor Quirrell, excuse me.'
+b'Could I borrow Wood for a moment please?'
+b'Oh, yes, of course.'
+b'Potter, this is Oliver Wood.'
+b'Wood, I have found you a Seeker.'
+b'Have you heard?\xc2\xa0'
+b"Harry Potter's the new Gryffindor Seeker. "
+b'I always knew hed do well.'
+b'Seeker? '
+b'But first years never make their house teams! '
+b'You must be the youngest Quidditch player in'
+b'A century, according to McGonagall.'
+b'Hey, well done, Harry, '
+b"Wood's just told us!"
+b'Fred and George are on the team, too. '
+b'Beaters.'
+b"Our job is to make sure that you don't get bloodied up too bad. "
+b"Can't make any promises, of course. "
+b'Rough game, Quidditch.'
+b'Brutal. '
+b"But no one's died in years. "
+b'Someone will vanish occasionally  '
+b"But they'll turn up in a month or two!!"
+b'Oh, go on, Harry, '
+b'Quidditch is great. '
+b'Best game there is! '
+b"And you'll be great, too!"
+b"But I've never even played Quidditch. "
+b'What if I make a fool of myself?'
+b"You won't make a fool of yourself. "
+b"It's in your blood."
+b'Whoa. '
+b'Harry, you never told me your father was a Seeker, too.'
+b"I-I didn't know."
+b"I'm telling you, it's spooky. "
+b'She knows more about you than you do.'
+b"Who doesn't?"
+b'Ahh!'
+b"What's happening?"
+b'The staircases change, remember?'
+b"Let's go this way."
+b'Before the staircase moves again. '
+b"Does anybody feel like...we shouldn't be here?"
+b"We're not supposed to be here. "
+b'This is the 3rd floor. '
+b"It's forbidden."
+b"Let's go."
+b"It's Filch's cat!"
+b"Run! Quick, let's hide through that door!"
+b"It's locked!"
+b"That's it, we're done for!"
+b'Oh, move over! '
+b'Alohomora'
+b'Get in'
+b'Alohomora?'
+b'Standard book of spells, Chapter 7.'
+b'Anyone here, my sweet? Come on.'
+b'Filch is gone.'
+b"Probably thinks this door's locked."
+b' It was locked.'
+b'And for good reason. '
+b'AHHHHHHH! '
+b"What do they think they're doing?? "
+b'Keeping a thing like that locked up in a school.'
+b" You don't use your eyes, do you? "
+b"Didn't you see what it was standing on?"
+b"I wasn't looking at its feet! "
+b'I was a bit preoccupied with its heads. '
+b"Or maybe you didn't notice, there were three!"
+b'It was standing on a trap door. '
+b"Which means it wasn't there by accident. "
+b"It's guarding something."
+b'Guarding something?'
+b"That's right. "
+b"Now, if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed...or worse, expelled!"
+b'She needs to sort out her priorities!'
+b'Quidditch is easy enough to understand. '
+b"Each time has seven players, 3 chasers, 2 beaters, 1 keeper and a seeker that's you. "
+b'There are three kinds of balls. '
+b"This one's called the Quaffle."
+b'Now, the chasers handle the Quaffle and try to put it through one of those three hoops. '
+b"The keeper, that's me, defends the hoops. "
+b'With me so far?'
+b'I think so. '
+b'What are those?'
+b'You better take this. '
+b"Careful now, it's comin' back. "
+b"Eh, not bad, Potter, you'd make a fair beater...Uh-oh. "
+b'What was that?'
+b'Bludger. Nasty little buggers. '
+b'But you are a Seeker.'
+b'The only ball I want you to worry about is this...the Golden Snitch. '
+b'I like this ball.'
+b'Ah, you like it now. '
+b'Just wait. '
+b"It's wicked fast and damn near impossible to see."
+b'What do I do with it?'
+b"You catch it...before the other team's seeker. "
+b'You catch this, the game is over. '
+b'You catch this, Potter, and we win.'
+b'Whoa.'
+b"One of a wizard's most rudimentary skills is levitation the ability to make objects fly. "
+b'Uh, do you all have your feathers? Good. '
+b"Now, uh, don't forget the nice wrist movement we've been practicing, hmm? "
+b'The swish and flick. Everyone. '
+b'The swish and flick. '
+b'Good. '
+b'And enunciate. '
+b'Wingardium Leviosa. '
+b'Off you go then.'
+b'Wingardium Levio-saaa.'
+b'Wingardrium Leviosar. '
+b'Stop, stop, stop.'
+b"You're going to take someone's eye out. "
+b'Besides, youre saying it wrong. '
+b"It's Leviosa, not Leviosar."
+b"You do it then if you're so clever. "
+b'Go on, go on.'
+b'Wingardium Leviosa.'
+b'Oh, well done! '
+b'See here, everyone! '
+b"Ms. Granger's done it! "
+b'Oh, splendid!'
+b'Wingard Levosa. Wingardly Lev... '
+b'Whooaaa! Ooh.'
+b"I think we're going to need another feather over here, Professor."
+b"It's Leviosa, not Leviosar. "
+b"Honestly, she's a nightmare. "
+b"No wonder she hasn't got any friends!"
+b'I think she heard you.'
+b"Where's Hermione?"
+b"Parvati Patil said that she wouldn't come out of the girl's bathroom. "
+b"She said that she'd been in there all afternoon...crying."
+b'TROLL! IN THE DUNGEON! '
+b'T-TROOLLL IN THE DUNGEON!! '
+b'Thought you ought to know. '
+b'SILLLLLEEENNNNCEEEEE!'
+b' Everyone will please, not panic. '
+b'Now, Prefects will lead their houses back to the dormitories. '
+b'Teachers will follow me to the dungeons.'
+b'Hufflepuff, this way!'
+b'Stay together!'
+b'Gryffindors...keep up please. '
+b'And stay alert!'
+b'How could a troll get in?'
+b'Not by itself. '
+b'Trolls are really stupid. '
+b'Probably people playing jokes.'
+b'What?'
+b'Hermione! '
+b"She doesn't know!"
+b"I think the troll's left the dungeon."
+b"It's going into the Girl's Bathroom!"
+b'Hermione, move!'
+b'Help! Help!'
+b'Hey, pea brain! '
+b'Ahhh! Help!'
+b'Whooa! Whoa, whoa! '
+b'Do something!'
+b'What?'
+b'Anything! '
+b'Hurry up!'
+b'Swish and flick!'
+b'Wingardium Leviosa! '
+b'Cool!'
+b'Is it...dead?'
+b"I don't think so. "
+b'Just knocked out. '
+b' Ew. Troll bogies.'
+b'Oh! Oh, my goodness! '
+b'E-Explain yourselves, both of you!'
+b'Well, what it is...'
+b"It's my fault, Professor McGonagall. "
+b' Ms. Granger?'
+b'I went looking for the troll. '
+b"I'd read about them and thought I could handle it. "
+b'But I was wrong. '
+b"If Harry and Ron hadn't come and found me..."
+b"I'd probably be dead."
+b'Be that as it may...it was an extremely foolish thing to do. '
+b'I would have expected more rational behaviour on your part and I am very disappointed in you Ms. Granger. '
+b'5 points will be taken from Gryffindor for your serious lack of judgment. '
+b'As for you two gentlemen I just hope you realize how fortunate you are. '
+b'Not many first year students could take on a full grown mountain troll and live to tell the tale. '
+b'5 points...will be awarded to each of you. '
+b'For sheer dumb luck. '
+b'Perhaps you ought to go...'
+b'M-might wake up...heh.Ahh! Hehe....'
+b'Good of you to get us out of trouble like that.'
+b'Mind you, we did save her life.'
+b"Mind you, she might not have needed saving if you hadn't insulted her."
+b'What are friends for?'
+b'Take a bit of toast, mate. Go on.'
+b"Ron's right, Harry. "
+b"You're gonna need your strength today."
+b"I'm not hungry."
+b'Good luck today, Potter. '
+b"Then again, now that you've proven yourself against a troll, a little game of Quidditch should be easy work for you...even if it is against Slytherin."
+b'That explains the blood.'
+b'Blood?'
+b"Listen, last night, I'm guessing Snape let the troll in as a diversion so he could try and get past that 3 headed dog. "
+b"But, he got himself bitten, that's why he's limping."
+b' But why would anyone go near that dog?'
+b'The day I was at Gringotts, Hagrid took something out of one of the vaults.'
+b" He said it was Hogwarts' business, very secret."
+b"So you're saying..."
+b"That's what the dog's guarding. "
+b"That's what Snape wants."
+b"Bit early for mail, isn't it?"
+b'But I-I never get mail.'
+b"Let's open it."
+b"It's a broomstick!"
+b'Thats not just a broomstick, Harry. '
+b"It's a Nimbus 2000!"
+b'But who...?'
+b'Scared, Harry?'
+b'A little.'
+b"That's all right. "
+b'I felt the same way before my first game.'
+b'What happened?'
+b"Er, I don't really remember. "
+b'I took a bludger to the head 2 minutes in. '
+b'Woke up in the hospital a week later.'
+b"Hello, and welcome to Hogwarts' first Quidditch game of the season! "
+b"Today's game Slytherin versus Gryffindor!!!"
+b'The players take their positions as Madam Hooch steps out onto the field to begin the game.'
+b'Now, I want a nice clean game...from all of you. '
+b'The bludgers are up...followed by the Golden Snitch. '
+b'Remember, the snitch is worth 150 points. '
+b'The seeker who catches the Snitch ends the game.'
+b'The Quaffle is released...and the game begins!'
+b'Angelina Johnson scores! '
+b'10 points for Gryffindor! '
+b'Yes! Whoa!'
+b'Well done!'
+b'Slytherin takes possession of the Quaffle.'
+b'Bletchley passes to Captain Marcus Flint.'
+b'Yes!'
+b' Another 10 points to Gryffindor! '
+b'Yay!'
+b'Give me that! '
+b'Boooo!!'
+b'Take that side!'
+b'Whoa! Whooa!'
+b"What's going on with Harry's broomstick?"
+b"It's Snape! "
+b"He's jinxing the broom!"
+b'Jinxing the broom? '
+b'What do we do?'
+b'Leave it to me. '
+b'Come on, Hermione!'
+b'Lacarnum Inflamarae.'
+b"Fire! You're on fire!"
+b'What? Oh!'
+b'Go!'
+b'Go go go!'
+b"Looks like he's gonna be sick."
+b"He's got the Snitch! "
+b'Harry Potter receives 150 points for catching the Snitch!'
+b'Gryffindor win!'
+b'YAY!'
+b'No!'
+b'Yes!'
+b'Whoo-hoo!'
+b'Go go Gryffindor! Go go Gryffindor! '
+b'Nonsense. '
+b"Why would Snape put a curse on Harry's broom?"
+b'Who knows. '
+b'Why was he trying to get past that 3 headed dog on Halloween?'
+b"Who told you 'bout Fluffy?"
+b'Fluffy?'
+b'That thing has a name?'
+b" Well, of course he's got a name. "
+b"He's mine. "
+b'I bought him off an Irish feller I met down at the pub last year. '
+b'Then I lent him to Dumbledore to guard the'
+b'Yes?'
+b"Shouldn'ta said that.  No more questions!"
+b"Don't ask any more questions. "
+b"That's top secret, that is."
+b"But Hagrid, whatever Fluffy's guarding, Snape's trying to steal it!"
+b'Codswallop. '
+b'Professor Snape is a Hogwarts teacher.'
+b'Hogwarts teacher or not, I know a curse when I see one. '
+b"I've read all about them. "
+b'You have to keep eye contact. '
+b"And Snape wasn't blinking."
+b'Exactly.'
+b'Now, you listen to me, all three of you. '
+b"You're meddlin' in things that ought not to be meddled in. "
+b"It's dangerous."
+b'What that dog is guarding is strictly between Professor Dumbledore and Nicholas Flamel.'
+b'Nicholas Flamel?'
+b"I shouldn't have said that. "
+b'I should not have said that. '
+b'I should not have said that. '
+b"Nicholas Flamel...Who's Nicholas Flamel?"
+b"I don't know."
+b'Knight to E-5.'
+b'Queen to E-5.'
+b"That's totally barbaric!"
+b"That's wizard's chess. "
+b"I see you've packed."
+b"See you haven't."
+b'Change of plans. '
+b'My parents decided to go to Romania to visit my brother, Charlie. '
+b"He's studying dragons there!"
+b'Good. You can help Harry, then. '
+b"He's going to go the library for information on Nicholas Flamel."
+b"We've looked a hundred times!"
+b'Not in the restricted section...'
+b'Happy Christmas.'
+b"I think we've had a bad influence on her."
+b'Harry, wake up! '
+b'Come on Harry, wake up!'
+b'Happy Christmas, Harry.'
+b'Happy Christmas, Ron. '
+b'What are you wearing?'
+b'Oh, Mum made it. '
+b"Looks like you've got one too!"
+b"I've got presents?"
+b'Yeah!'
+b'Oh! '
+b'There they are. '
+b'Your father left this in my possession before he died.'
+b'It is time it was returned to you.'
+b'Use it well.'
+b'What is it?'
+b'Some kind of...cloak.'
+b"Well, let's see then. "
+b'Put it on.'
+b'Whoa!'
+b"My body's gone!"
+b'I know what that is! '
+b"That's an invisibility cloak!"
+b"I'm invisible??"
+b"They're really rare. "
+b'I wonder who gave it to you.'
+b'There was no name. '
+b'It just said, "Use it well."'
+b'Famous fire eaters...'
+b'15th Century Fiends...Flamel...'
+b'Nicholas Flamel...where are you?'
+b'AHHHHHHHHHHHHHHHH!!!!!!!!'
+b"Who's there?! "
+b"I know you're in there. "
+b"You can't hide. "
+b'Who is it? '
+b'Show yourself!'
+b'Severus...I-I thought...'
+b"You don't want me as your enemy, Quirrell."
+b' W-what do you m-mean?'
+b'You know perfectly well what I mean. '
+b"We'll have another chat soon..."
+b"When you've had time to decide where your loyalties lie."
+b'Oh, Professors. I found this, in the Restricted Section. '
+b"It's still hot. "
+b"That means there's a student out of bed."
+b'Mum? Dad? '
+b"Ron! You've really got to see this! "
+b"Ron! You've got to see this! "
+b'Ron, Ron, come on. Get out of bed!'
+b'Why?'
+b"There's something you've got to see. "
+b'Now, come on!'
+b"Come on. Come. Come look, it's my parents!"
+b'I only see us.'
+b'Look in properly. Go on. '
+b'Stand there. There. '
+b"You see them, don't you? "
+b'Thats my dad'
+b"That's me! Only, I'm head boy...and "
+b"I'm holding the Quidditch cup! "
+b"And bloody hell, I'm Quidditch Captain too! "
+b'I look good. '
+b'Harry, do you think this mirror shows the future?'
+b'How can it? '
+b'Both my parents are dead.'
+b'Do you like yours, Ron?'
+b'Ron?'
+b"I'll be right back."
+b'Wanna play chess?'
+b'No.'
+b'Wanna go and visit Hagrid?'
+b'No.'
+b"Harry, I know what you're thinking, but don't."
+b"There's something not right about that mirror."
+b'Back again, Harry?'
+b'I see that you, like so many before you, have discovered the delights of the Mirror of Erised. '
+b'I trust by now you realize what it does. '
+b'Let me give you a clue. '
+b'The happiest man on earth would look into the mirror and see only himself, exactly as he is.'
+b'So, then it shows us what we want? '
+b'Whatever we want?'
+b'Yes...and no. '
+b'It shows us nothing more or less than the deepest, most desperate desires of our hearts. '
+b'Now you, who have never known your family, you see them standing beside you. '
+b'But remember this, Harry. '
+b'This mirror gives us neither knowledge or truth. '
+b'Men have wasted away in front of it, even gone mad. '
+b'That is why tomorrow it will be moved to a new home, and I must ask you not to go looking for it again.'
+b'It does not do to dwell on dreams, Harry, and forget to live.'
+b'Look at you, playing with your cards.'
+b'Pathetic!'
+b"We've got final exams coming up soon."
+b"I'm ready. Ask me any question."
+b'Alright, what are the 3 most crucial ingredients in a Forgetfulness Potion?'
+b'I forgot.'
+b'And what, may I ask, do you plan to do if this comes up in the final exam?'
+b'Copy off you.'
+b"No, you won't."
+b"Besides, according to Professor McGonagall, we're to be given special quills bewitched with an Anti Cheating Spell."
+b"That's insulting! "
+b"It's as if they don't trust us! Dumbledore again!"
+b'Leg-Locker Curse?'
+b'Malfoy.'
+b'You have got to start standing up to people, Neville.'
+b'How? I can barely stand at all!'
+b"I'll do the countercurse!"
+b"No, that's all I need!"
+b'You to set my bloody kneecups on fire!'
+b"I don't appreciate the insinuation, Longbottom."
+b'Besides, if anyone cared to notice my eyebrows have completely grown back!'
+b'I found him!'
+b'Dumbledore is particularly famous for his defeat of the dark wizard Grindelwald in 1945.'
+b'Go on!'
+b'For the discovery of the twelve uses of dragon blood...and his work on alchemy with his partner, Nicholas Flamel!'
+b'I knew the name sound familiar.'
+b'I read it on the train that day.'
+b'Follow me!'
+b'Hey! Wait! Where are you going?'
+b'What about the countercurse?'
+b'I had you looking in the wrong section! '
+b'How could I be so stupid? '
+b'I checked this out a few weeks ago for a bit of light reading.'
+b'This is light?'
+b'Of course! Here it is! '
+b"Nicholas Flamel is the only known maker of the Philosopher's Stone!"
+b'The what?'
+b"Honestly, don't you two read? "
+b"The Philosopher's Stone is a legendary substance with astonishing powers. \r"
+b'It will turn any metal into pure gold and produces the Elixir of Life, which will make the drinker immortal.'
+b'Immortal?'
+b"It means you'll never die."
+b' I know what it means!'
+b' Shh!'
+b'The only stone currently in existence belongs to Mr. Nicholas Flamel, the noted alchemist, who last year celebrated his 665th birthday!'
+b"That's what Fluffy's guarding on the 3rd floor. "
+b"That's what's under the trapdoor..."
+b"the Philosopher's Stone!"
+b'Hagrid!'
+b"Oh, hello. Sorry, don't wish to be rude, but I'm in no fit state to entertain today. "
+b"We know about the Sorcerer's Stone!"
+b'Oh.'
+b"We think Snape's trying to steal it."
+b"Snape? Blimey, Harry, you're not still on about him, are you?"
+b"Hagrid, we know he's after the Stone. "
+b"We just don't know why."
+b'Snape is one of the teachers protecting the Stone! '
+b"He's not about to steal it!"
+b'What?'
+b'You heard. Right. '
+b"Come on, now, I'm a bit preoccupied today."
+b'Wait a minute.'
+b'One of the teachers?'
+b"Of course! There are other things defending the Stone, aren't there?"
+b'Spells and enchantments.'
+b"That's right. "
+b'Waste of bloody time, if you ask me.'
+b"Ain't no one gonna get past Fluffy. "
+b'Hehe, not a soul knows how. '
+b'Except for me and Dumbledore. '
+b"I shouldn't have told you that. "
+b"I shouldn't have told you that. "
+b'Oh! Ooh! Ooh! Ooh! Ooh! '
+b'Uh, Hagrid, what exactly is that?'
+b"That? It's a ... its um..."
+b' I know what that is! '
+b'But Hagrid, how did you get one?'
+b'I won it. Off a stranger I met down at a pub. '
+b'Seemed quite glad to be rid off it, as a matter of fact.'
+b'Is that...a dragon?'
+b"That's not just a dragon. "
+b"That's a Norwegian Ridgeback! "
+b'My brother Charlie works with these in Romania.'
+b"Isn't he beautiful? Oh. Bless him, look. "
+b'He knows his mummy. Hehe. '
+b'Hallo, Norbert.'
+b'Norbert?'
+b"Yeah, well, he's got to have a name, doesn't he?"
+b"Don't you, Norbert? Dededede."
+b'Ohh! Oooh, ooh, ooh, well...'
+b"He'll have to be trained up a bit, of course. "
+b"Who's that?"
+b'Malfoy.'
+b'Oh, dear.'
+b'Hagrid always wanted a dragon. '
+b'He told me so the first time I met him.'
+b"It's crazy. "
+b'And worse, Malfoy knows.'
+b"I don't understand. "
+b'Is that bad?'
+b"It's bad."
+b'Good evening.'
+b'Nothing, I repeat, nothing gives a student the right to walk about the school at night. '
+b'Therefore, as punishment for your actions, 50 points will be taken.'
+b'50?!'
+b"Each. And to ensure it doesn't happen again, all four of you will receive detention."
+b'Excuse me, Professor. '
+b'Perhaps I heard you wrong. '
+b'I thought you said..."the four of us."'
+b'No, you heard me correctly, Mr. Malfoy. '
+b'You see, as honorable as your intentions were, you too were out of bed after hours. '
+b'You will join your classmates in detention.'
+b'A pity they let the old punishments die. '
+b'There was a time detention would find you hanging by your thumbs in the dungeons. '
+b'God, I miss the screaming. '
+b"You'll be serving detention with Hagrid tonight."
+b"He's got a little job to do inside the dark forest."
+b'A sorry lot this, Hagrid. '
+b"Oh, good God, man, you're not still on about that bloody dragon, are you?"
+b"Norbert's gone."
+b'Dumbledore sent him off to Romania to live in a colony.'
+b"Well, that's good, isn't it? "
+b"He'll be with his own kind."
+b"Yeah, but what if he don't like Romania? "
+b'What if the other dragons are mean to him?'
+b"He's only a baby, after all."
+b'Oh, for Gods sake, pull yourself together, man. '
+b"You're going into the forest, after all. "
+b'Got to have your wits about you.'
+b'The forest? I thought that was a joke! '
+b"We can't go in there. "
+b"Students aren't allowed."
+b' And there are...werewolves!'
+b" There's more than werewolves in those trees, lad. "
+b'You can be sure of that.'
+b'Nighty-night.'
+b"Right. Let's go."
+b" Hagrid, what's that?"
+b"What we're here for. "
+b"See that? That's unicorn's blood, that is. "
+b'I found one dead a few weeks ago. '
+b"Now, this one's been injured bad by something. "
+b"So, it's our job to find the poor beast. "
+b"Ron, Hermione, you'll come with me."
+b'Okay.'
+b"And Harry you'll go with Malfoy. "
+b'Okay. Then I get Fang!'
+b"Fine. Just so you know, he's a bloody coward. }"
+b'You wait till my father hears about this. '
+b"This is servant's stuff."
+b"If I didn't know better, Draco, I'd say you were scared."
+b'Scared, Potter?! '
+b'Did you hear that? '
+b'Come on, Fang.  Scared.'
+b'What is it, Fang?'
+b'AHHHHHHHHH!!! AHHH! HELP!!!!!'
+b'Harry Potter, you must leave. '
+b'You are known to many creatures here. '
+b'The forest is not safe at this time. '
+b'Especially for you.'
+b'But what was that thing you saved me from?'
+b'A monstrous creature. '
+b'It is a terrible crime to slay a unicorn. '
+b'Drinking the blood of a unicorn will keep you alive even if you are an inch from death. '
+b'But at a terrible price. '
+b'You have slain something so pure that the moment the blood touches your lips, you will have a half-life. '
+b'A cursed life.'
+b'But who would choose such a life?'
+b'Can you think of no one?'
+b' Do you mean to say...that that thing that killed the unicorn...'
+b'that was drinking its blood...that was Voldemort?'
+b'Do you know what is hidden in the school at this very moment?'
+b"The Sorcerer's Stone."
+b'Harry!'
+b'Hello there, Firenze. '
+b"I see you've met our young Mr. Potter. "
+b'You all right there, Harry? '
+b'Harry Potter, this is where I leave you. '
+b"You're safe now. Good luck."
+b"You mean, You-Know-Who's out there, right now, in the forest?"
+b"But he's weak. "
+b"He's living off the unicorns. "
+b"Don't you see? We had it wrong. "
+b"Snape doesn't want the stone for himself, he wants the stone for Voldemort. "
+b'With the Elixir of Life, Voldemort will be strong again. '
+b"He'll He'll come back. "
+b"But if he comes back, you don't think he'll try to kill you, do you?"
+b" I think if he'd had the chance, he might have tried to kill me tonight."
+b" And to think, I've been worrying about my Potions final!"
+b'Hang on a minute.'
+b"We're forgetting one thing. "
+b"Who's the one wizard Voldemort always feared?"
+b' Dumbledore! '
+b"As long as Dumbledore's around, you're safe. "
+b"As long as Dumbledore's around, you can't be touched. "
+b" I've always heard Hogwarts' end of the year exams were frightful, but I found that rather enjoyable."
+b'Speak for yourself.'
+b' All right there, Harry?'
+b'My scar. It keeps burning.'
+b"It's happened before."
+b'Not like this.'
+b'Perhaps you should see the nurse.'
+b" I think it's a warning."
+b' It means dangers coming. Uhh!  '
+b'Oh. Of course!'
+b' What is it?'
+b"Don't you think it's a bit odd that what Hagrid wants more than anything is a dragon, and a stranger shows up and just happens to have one?"
+b'I mean, how many people wander around with dragon eggs in their pockets? '
+b"Why didn't I see it before? "
+b'Hagrid, who gave you the dragon egg?'
+b' What did he look like?'
+b"I don't know. "
+b'I never saw his face. '
+b'He kept his hood up.'
+b'The stranger, though, you and he must have talked.'
+b'Well, he wanted to know what sort of creatures I looked after. '
+b'I told him. I said, "After Fluffy, a dragon\'s gonna be no problem."'
+b' And did he seem interested in Fluffy?'
+b' Well, of course he was interested in Fluffy!'
+b" How often do you come across a three headed dog, even if you're in the trade? "
+b'But I told him. I said, "The trick with any beast is to know how to calm him.'
+b' Take Fluffy, for example, just play him a bit of music and he falls straight to sleep."'
+b"  I shouldn't have told you that."
+b' Where you going?! Wait!'
+b' We have to see Professor Dumbledore, immediately!'
+b"I'm afraid Professor Dumbledore is not here. "
+b'He received an urgent owl from the Ministry of Magic and left immediately for London.'
+b"He's gone?! Now? "
+b'But this is important! '
+b"It's about...the Sorcerer's Stone."
+b'How do you know?'
+b"Someone's going to try and steal it."
+b"I don't know how you three found out about the stone, but I can assure you it is perfectly well-protected. "
+b'Now would you go back to your dormitories? Quietly. '
+b'That was no stranger Hagrid met in the village. '
+b'It was Snape, which means he knows how to get past Fluffy.'
+b' And with Dumbledore gone'
+b' Good afternoon. '
+b'Now, what would three young Gryffindors such as yourselves be doing inside on a day like this?'
+b'Uh...we were just...'
+b'You want to be careful.'
+b"People will think you're up to something."
+b'Now what do we do?'
+b'We go down the trapdoor. Tonight.'
+b'Trevor.'
+b'Trevor shh!'
+b"Go, you shouldn't be here!"
+b'Neither should you. '
+b"You're sneaking out again, arent you?"
+b'Now, Neville, listen. We were'
+b"No! I won't let you!"
+b" You'll get Gryffindor in trouble again!"
+b" I-I'll fight you."
+b" Neville, I'm really, really sorry about this"
+b' Petrificus Totalus.'
+b"You're a little scary sometimes...you know that? "
+b'Brilliant, but scary.'
+b" Let's go. Sorry."
+b'Sorry.'
+b"It's for your own good, you know."
+b'Ow! You stood on my foot!'
+b'Sorry.'
+b'Alohomora.'
+b"Wait a minute...he's.... "
+b'Snoring'
+b"Snape's already been here. "
+b"He's put a spell on the harp."
+b"Uh. It's got horrible breath!"
+b'We have to move its paw.'
+b'What?!'
+b'Come on! Okay. Push! '
+b"I'll go first. "
+b"Don't follow until I give you a sign."
+b'If something bad happens, get yourselves out\xc2\x85'
+b'Does it seem a bit...quiet to you?'
+b'The harp. It stopped playing.'
+b'Ew! Yuck! Ugh. '
+b'Jump! Go! '
+b'Ahh! Whoa. '
+b'Lucky this plant-thing is here, really.'
+b'Whoa! Oh. Ahh!'
+b'Stop moving, both of you. '
+b"This is Devil's Snare. "
+b'You have to relax. '
+b"If you don't, it will only kill you faster."
+b'Kill us faster?! '
+b'Oh, now I can relax!'
+b'  Hermione!!'
+b'Now what are we gonna do?!'
+b'Just relax!'
+b'Hermione! Where are you?!'
+b'Do what I say. Trust me. '
+b'Ahh! Harry!'
+b'Harry!'
+b'Are you okay?'
+b"Yeah, yeah, I'm fine."
+b'Help!'
+b"He's not relaxing, is he?"
+b'Apparently not.'
+b'Help! Help me!'
+b"We've got to do something!"
+b'What?'
+b'Uh! I remember reading something in Herbology. '
+b'Help!'
+b"Um Devil's Snare, Devil's Scare,it's deadly fun...but will sulk in the sun! "
+b"That's it! Devil's Snare hates sunlight!"
+b'Lumus Solem!'
+b'Ahhh!'
+b'Ron, are you okay?'
+b'Yeah.'
+b'Okay.'
+b"Whew. Lucky we didn't panic!"
+b'Lucky Hermione pays attention in Herbology.'
+b'What is that?'
+b"I don't know. "
+b'Sounds like wings.'
+b"Curious. I've never seen birds like these."
+b"They're not birds, they're keys. "
+b"And I'll bet one of them fits that door. "
+b"What's this all about?"
+b"I don't know. Strange."
+b'Alohomora! '
+b'Well, it was worth a try.'
+b"Ugh! What're we going to do? "
+b'There must be 1000 keys up there!'
+b"We're looking for a big old fashioned one. "
+b'Probably rusty like the handle.'
+b'There! I see it!'
+b'The one with the broken wing!'
+b"What's wrong, Harry?"
+b"It's too simple."
+b'Oh, go on, Harry! '
+b'If Snape can catch it on that old broomstick, you can! '
+b"You're the youngest seeker in a century!"
+b'This complicates things a bit!'
+b'Catch the key!'
+b'Hurry up!'
+b"I don't like this. "
+b"I don't like this at all."
+b'Where are we? A graveyard.'
+b'This is no graveyard. '
+b"It's a chessboard."
+b"There's the door."
+b'Now what do we do?'
+b" It's obvious, isn't it? "
+b"We've got to play our way across the room. "
+b"All right. Harry, you take the empty Bishop's square. "
+b"Hermione, you'll be the Queen's side castle. "
+b"As for me, I'll be a knight."
+b'What happens now?'
+b'Well, white moves first, and then...we play. '
+b"Ron, you don't suppose this is going to be like...real wizard's chess, do you?"
+b'You there! D-5! '
+b"Yes, Hermione, I think this is going to be exactly like wizard's chess!"
+b'Castle to E-4!  '
+b'Pawn to C-3!'
+b'Wait a minute.'
+b'You understand right, Harry. '
+b"Once I make my move, the Queen will take me...then you'll be free to check the King."
+b'No, Ron! No!'
+b' What is it?'
+b"He's going to sacrifice himself!"
+b"No, Ron, you can't!"
+b'There must be another way!'
+b'Do you want to stop Snape from getting that Stone or not?'
+b"Harry, it's you that has to go on. I know it. "
+b'Not me, not Hermione, you. '
+b'Knight...to H-3.'
+b'Check.'
+b'Ahhhh!'
+b'RON! '
+b"NO! Don't move! Dont forget, we're still playing. "
+b'Checkmate. '
+b'Take care of Ron. Then, go to the owlery. '
+b'Send a message to Dumbledore. '
+b"Ron's right...I have to go on."
+b"You'll be okay, Harry. "
+b"You're a great wizard, you really are."
+b'Not as good as you.'
+b'Me? Books and cleverness? '
+b'There are more important things. '
+b'Friendship, and bravery. '
+b'And Harry, just be careful.'
+b"You? No. It can't be...Snape. He was the one"
+b"Yes. He does seem the type, doesn't he? "
+b'Next to him, who would suspect, "p-p-poor s-stuttering Professor Quirrell?"'
+b'B-but, that day, during the Quidditch Match, Snape tried to kill me.'
+b'No, dear boy. I tried to kill you! '
+b"And trust me, if Snape's cloak hadn't caught fire and broken my eye contact, I would have succeeded. "
+b'Even with Snape muttering his little counter-curse.'
+b'Snape was trying to...save me?'
+b'I knew you were a danger right from the off. '
+b'Especially after Halloween.'
+b'Th-then you let the troll in.'
+b'Very good Potter, yes. '
+b"Snape, unfortunately, wasn't fooled. "
+b'While everyone else was running to the dungeon, he went to the 3rd floor to head me off. '
+b'He, of course, never trusted me again.'
+b'He rarely left me alone. '
+b"But he doesn't understand. "
+b"I'm never alone. Never. "
+b'Now...what does this mirror do? '
+b'I see what I desire. '
+b'I see myself holding the stone. '
+b'But how do I get it?'
+b'Use the boy'
+b'Come here, Potter, now!'
+b'Tell me. What do you see?'
+b'What is it?! What do you see?!'
+b"I-I'm shaking hands with Dumbledore. "
+b"I've won the house cup."
+b'He lies.'
+b'Tell the truth! What do you see?!'
+b'Let me speak to him.'
+b'Master, you are not strong enough.'
+b'I have strength enough for this. '
+b'Harry Potter. We meet again.'
+b'Voldemort.'
+b'Yes. You see what I have become? '
+b'See what I must do to survive? '
+b'Live off another. A mere parasite. '
+b'Unicorn blood can sustain me, but it cannot give me a body of my own. '
+b'But there is something that can. '
+b'Something, that conveniently enough, lies in your pocket!'
+b'Stop him! '
+b"Don't be a fool! "
+b'Why suffer a horrific death when you can join me and live?!'
+b'Never!'
+b'Haha. Bravery. Your parents had it too. '
+b'Tell me, Harry, would you like to see your mother and father again? '
+b'Together, we can bring them back. '
+b'All I ask for is something in return. '
+b"That's it, Harry. "
+b'There is no good and evil. '
+b'There is only power, and those too weak to seek it. '
+b"Together, we'll do extraordinary things. "
+b'Just give me the stone! '
+b'You liar!'
+b'Kill him!'
+b'Ahh! Ahh! What is this magic?'
+b'Fool! Get the stone!'
+b'Ahhhhhhhhhh!'
+b'Arrrhhhhhh!'
+b'Ahhhhhhhhh!'
+b'Good afternoon, Harry. '
+b'Ah. Tokens from your admirers?'
+b'Admirers?'
+b'What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows. '
+b'Ah, I see your friend Ronald has saved you the trouble of opening your Chocolate Frogs.'
+b'Ron was here? '
+b'Is he all right? '
+b'What about Hermione?'
+b"Fine. They're both just fine."
+b'But, what happened to the Stone?'
+b'Relax, dear boy. The stone has been destroyed. '
+b'My friend Nicholas and I had a little chat and agreed it was best all around.'
+b"But Flamel, he'll die, won't he?"
+b'He has enough Elixir to set his affairs in order. '
+b'But yes, he will die.'
+b'How is it I got the Stone, sir? '
+b'One minute I was staring in the mirror, and the next...'
+b'Ah. You see, only a person who wanted to find the Stone, find it, but not use it, would be able to get it. '
+b'That is one of my more brilliant ideas. '
+b'And between you and me thats saying something.'
+b'Does that mean, with the Stone gone, I mean, that Voldemort can never come back?'
+b"Ah, I'm afraid there are ways in which he can return. "
+b"Harry, do you know why Professor Quirrell couldn't bear to have you touch him?"
+b'It was because of your mother. '
+b'She sacrificed herself for you, and that kind of act leaves a mark. '
+b'No, no, this kind of mark cannot be seen.'
+b'It lives in your very skin.'
+b'What is it?'
+b'Love, Harry, love. '
+b"Ah. Bertie Bott's Every Flavour Beans. "
+b'I was most unfortunate in my youth to come across a vomit flavoured one, and since then I have lost my liking for them. '
+b'But I think I could be safe with a nice toffee...'
+b'Mm. Alas. Earwax.'
+b'All right there, Ron?'
+b'All right? You?'
+b'All right. Hermione?'
+b'Never better.'
+b'Another year gone. '
+b'And now, as I understand it, the house cup needs awarding, and the points stand thus. '
+b'In fourth place, Gryffindor with 312 points. '
+b'Third place, Hufflepuff, with 352 points. '
+b'In second place, Ravenclaw, with 426 points'
+b'And in first place, with 472 points, Slytherin House.'
+b'Whoo! Yeah!'
+b'Nice one, Mate! '
+b'Yes, yes, well done Slytherin, well done Slytherin. '
+b'However, recent events must be taken into account. '
+b'And I have a few last minute points to award. '
+b'To Miss Hermione Granger, for the use of cool intellect when others were in great peril, 50 points. '
+b'Good job.'
+b'Second, to Mr. Ronald Weasley, for the best played game of chess that Hogwarts has seen these many years...50 points. '
+b'And third, to Mr. Harry Potter, for pure nerve and outstanding courage, I award Gryffindor house 60 points. '
+b"We're tied with Slytherin!"
+b'And finally, it takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends. '
+b'I award 10 points to Neville Longbottom.'
+b'Assuming that my calculations are correct, I believe that a change of direction is in order. '
+b'Gryffindor wins the House Cup!'
+b'Yes!'
+b'Yeah! We won!!'
+b"Come on now, hurry up. You'll be late. "
+b"Train's leaving. "
+b'Go on. Go on. Come on. Hurry up.'
+b'Come on, Harry.'
+b'One minute. '
+b'Thought you were leaving without saying good-bye, didja? '
+b'This is for you.'
+b'Thanks, Hagrid. '
+b'Oh. Go on...on with you. '
+b'Oh, listen, Harry, if that dolt of a cousin of yours, Dudley, gives you any grief, you could always, um, threaten him with a nice pair of ears to go with that tail of his.'
+b"But Hagrid, we're not allowed to do magic away from Hogwarts. You know that."
+b"I do. But your cousin don't, do he? Eh? Off you go."
+b"Feels strange to be going home, doesn't it?"
+b"I'm not going home. Not really."
+b'I can\xc2\x92t let you out, Hedwig. '
+b'I\xc2\x92m not allowed to use magic outside of school. '
+b'Besides, if Uncle Vernon\xc2\x85'
+b'Harry Potter!'
+b'Now you\xc2\x92ve done it.'
+b'He\xc2\x92s in there. Vernon...'
+b'I\xc2\x92m warning you, if you can\xc2\x92t control that bloody bird it\xc2\x92ll have to go.'
+b'But she\xc2\x92s bored! '
+b'If I could only let out for an hour or two'
+b'Huh, huh! So you could send secret messages to you freaky little friends. No, sir!'
+b'But I haven\xc2\x92t had any messages from any of my friends... not one\xc2\x85 all summer.'
+b'Who\xc2\x92d want to be friends with you?'
+b'I should think you\xc2\x92d be a little more grateful. '
+b'We\xc2\x92ve raised you since you were a baby, given you the food off our table, even let you have Dudley\xc2\x92s second bedroom, purely out of the goodness of our hearts.'
+b'Not now, Pupkins. For when the Masons arrive.'
+b'Which should be any minute! '
+b'Ahem...Now let\xc2\x92s go over our schedule once again, shall we? '
+b'Petunia when the Masons arrive you will be...?'
+b'in the lounge, waiting to welcome them graciously into our home.'
+b'Good! And- and Dudley, you will be...?'
+b'I\xc2\x92ll be waiting to open the door!'
+b'Excellent! ...And you...?'
+b'I\xc2\x92ll be in my bedroom, making no noise and pretending that I don\xc2\x92t exist.'
+b'Too right, you will. '
+b'With any luck, this could well be the day I make the biggest deal of my career. '
+b'And you will not mess it up!'
+b'Mr. and Mrs. Mason! Do come in!'
+b'Ha- ha- ha! Ha, ha! Ho, ho, ho! Ha, ha! '
+b'Harry Potter! Such an honor it is!'
+b'Who are you?'
+b'Dobby sir, Dobby the house elf.'
+b'Not to be to be rude or anything, but this isn\xc2\x92t a great time for me to have a house elf in my bedroom.'
+b'Oh, oh yes, sir! Dobby understands! '
+b'It\xc2\x92s just that, Dobby has come to tell you- it is difficult, sir'
+b' Dobby wonders where to begin?'
+b'Why don\xc2\x92t you sit down?'
+b'S-sit down? S-sit- sit down? '
+b'Oh, oh, ho. Oh, ho, ho... Oh, ho, ho.'
+b'Dobby, ssh! I\xc2\x92m sorry! '
+b'I didn\xc2\x92t mean to offend you, or anything.'
+b'Offend Dobby? '
+b'Dobby has heard of your greatness, sir, but never has he been asked to sit down by a wizard, like an equal.'
+b'You can\xc2\x92t have met many decent wizards then.'
+b'No, I haven\xc2\x92t. '
+b'That was an awful thing to say. '
+b'Bad Dobby!'
+b'Stop, Dobby!'
+b'Bad Dobby!'
+b'Dobby, shh!'
+b'Baaad Dobby!'
+b'Dobby, please stop!'
+b'Ohh, don\xc2\x92t mind that! '
+b'It\xc2\x92s just the cat.'
+b'Bad Dobby. '
+b'Bad Dobby!'
+b'Stop! Stop, Dobby. '
+b'Please be quiet! '
+b'Are you all right?'
+b'Dobby had to punish himself, sir. '
+b'Dobby almost spoke ill of his family, sir.'
+b'Your family?'
+b'The wizard family Dobby serves, sir. '
+b'Dobby is bound to serve one family forever. '
+b'If they ever knew Dobby was here...ooh... '
+b'But Dobby had to come. '
+b'Dobby has to protect Harry Potter- to warn him. '
+b'Harry Potter must not go back to Hogwarts School of Witchcraft and Wizardry this year! '
+b'There is a plot, a plot to make most terrible things happen.'
+b'What terrible things? '
+b'Who\xc2\x92s plotting them?'
+b'Ooo... er... can\xc2\x92t... say... argh...'
+b'Ok\xc2\x96 I- understand. You can\xc2\x92t- say.'
+b'Don\xc2\x92t make me talk, I\xc2\x97 Errr...'
+b'Dobby! Dobby, put the lamp down.'
+b'Bad Dobby.'
+b'Give me the lamp! Dobby stop!'
+b'Let me go!'
+b'Get in there, and keep quiet!'
+b'What the devil are you doing up here?'
+b'I- I was just\xc2\x97'
+b'You just ruined the punch line of my Japanese golfer joke!'
+b'Sorry.'
+b'One more sound, and you\xc2\x92ll wish you\xc2\x92d never been born, boy! '
+b'And fix that door!'
+b'Yes, sir... See why I\xc2\x92ve got to go back? '
+b'I don\xc2\x92t belong here. '
+b'I belong in your world, at Hogwarts. '
+b'It\xc2\x92s the only place I\xc2\x92ve got friends!'
+b'Friends who don\xc2\x92t even write to Harry Potter?'
+b'Well, I expect they\xc2\x92ve... been- hang on- '
+b'how do you know my friends haven\xc2\x92t been writing to me?'
+b'Harry Potter mustn\xc2\x92t be angry with Dobby. '
+b'Heh- Dobby hoped, if Harry Potter thought his friends had forgotten him, Harry Potter might not want to go back to school, sir.'
+b'Give me those, now!'
+b'No! Ahh! Ooh...'
+b'Dobby, get back here!'
+b'Dobby, please, no!'
+b'Harry Potter must say he\xc2\x92s not going back to school!'
+b'I can\xc2\x92t. Hogwarts is my home!'
+b'Then, Dobby must do it, sir, for Harry Potter\xc2\x92s own good. '
+b'...it spread as far as the eye could see, all over the floor of this vast building, and it was this deep. '
+b'And one plumber said \xc2\x93Look at all that water.\xc2\x94 '
+b'A-and the second plumber said, \xc2\x93Yes, and that\xc2\x92s just the top of it!\xc2\x94'
+b'I\xc2\x92m so sorry! It\xc2\x92s my nephew- he\xc2\x92s very disturbed. '
+b'Meeting strangers upsets him. '
+b'That\xc2\x92s why I kept him upstairs!'
+b'You\xc2\x92re never going back to that school. '
+b'You\xc2\x92re never going to see those freaky friends of yours again. Never!'
+b'Hi, Harry!'
+b'Ron! Fred. George. '
+b'What are you all\xc2\xa0doing\xc2\xa0here?'
+b'Rescuing\xc2\xa0you, of course. '
+b'Now, come on. Get your trunk!...'
+b'You\xc2\x92d\xc2\xa0better\xc2\xa0stand\xc2\xa0back. Let\xc2\x92s go!'
+b'Oh!'
+b'Now, what the hell\xc2\x92s he doing? Potter!'
+b'Dad! What\xc2\x92s\xc2\xa0going\xc2\xa0on?'
+b'Go, go, go, go!'
+b'Dad,\xc2\xa0hurry\xc2\xa0up!'
+b'Come on.'
+b'Come on.'
+b'Come on, Harry!\xc2\xa0Hurry\xc2\xa0up!'
+b'Petunia, he\xc2\x92s escaping!'
+b'Ahh- ahh!'
+b'I\xc2\x92ve got you Harry!'
+b'Come here!'
+b'Let go of me!'
+b'Oh no, boy! You and that\xc2\xa0bloody\xc2\xa0pigeon\xc2\xa0aren\xc2\x92t\xc2\xa0going\xc2\xa0anywhere!'
+b'Get off!'
+b'Drive!'
+b'Right.'
+b'Right!'
+b'No! No! No! No! Aaaah!'
+b'Aaah!'
+b'Dad!'
+b'Oh... Damn.'
+b'By the way, Harry,\xc2\xa0Happy\xc2\xa0Birthday!'
+b'Come on. Okay, come on. Shh! '
+b'Shh! Ok, come on. Shh! Come on.'
+b'Do you\xc2\xa0think\xc2\xa0it\xc2\x92d be all\xc2\xa0right\xc2\xa0if we had some of this?'
+b'Yeah, Mum\xc2\xa0would\xc2\xa0never\xc2\xa0know.'
+b'It\xc2\x92s not much, but it\xc2\x92s home.'
+b'I\xc2\xa0think\xc2\xa0it\xc2\x92s brilliant'
+b'Where\xc2\xa0have you been? '
+b'Harry, how\xc2\xa0wonderful\xc2\xa0to see you dear. '
+b'Beds empty! No note! Car gone!'
+b'You\xc2\xa0could\xc2\xa0have died! You\xc2\xa0could\xc2\xa0have been seen! '
+b'Of course, I don\xc2\x92t\xc2\xa0blame\xc2\xa0you,\xc2\xa0Harry\xc2\xa0dear.'
+b'They were\xc2\xa0starving\xc2\xa0him, Mum.\xc2\xa0'
+b'There\xc2\xa0were bars on his window!'
+b'Well, you\xc2\x92d best hope that I don\xc2\x92t put bars on your window, Ronald Weasley!  '
+b'Come on Harry, time for a spot of breakfast.'
+b'Here we are Harry. '
+b'Now tuck in! That\xc2\x92s it.\xc2\xa0There\xc2\xa0we go.'
+b'Mum- Mummy, have you seen my jumper?'
+b'Yes dear. It was on the cat.'
+b'Hello. W-what did I do?'
+b'Ginny. She\xc2\x92s been\xc2\xa0talking\xc2\xa0about\xc2\xa0you all summer.'
+b' A bit\xc2\xa0annoying\xc2\xa0really.'
+b'Morning, Weasleys.'
+b'Morning, Dad.'
+b'Morning\xc2\xa0Arthur!'
+b'What a night. Nine raids. Nine!'
+b'Raids?'
+b'Dad\xc2\xa0works\xc2\xa0in the\xc2\xa0Ministry\xc2\xa0of Magic, in the\xc2\xa0Misuse\xc2\xa0of\xc2\xa0Muggle Artifacts Office. '
+b'Dad\xc2\xa0loves\xc2\xa0Muggles,\xc2\xa0thinks\xc2\xa0they\xc2\x92re fascinating.'
+b'Well now. Aah! And who are you?'
+b'Oh,\xc2\xa0sorry\xc2\xa0sir. I\xc2\x92m Harry, sir,\xc2\xa0Harry\xc2\xa0Potter.'
+b'Good Lord! Are you really? '
+b'Well, Ron\xc2\x92s told us all\xc2\xa0about\xc2\xa0you, of course.'
+b'When did he get here?'
+b'This morning. Your sons flew that\xc2\xa0enchanted\xc2\xa0car of\xc2\xa0yours\xc2\xa0to Surrey and back last night.'
+b'Did you really? How\xc2\x92d it go? Did you\xc2\x97'
+b'Oh, it...'
+b'Arthur!'
+b'I mean...that was very wrong, indeed, boys. '
+b'Very\xc2\xa0wrong\xc2\xa0of you'
+b'Now, Harry, you must know all\xc2\xa0about\xc2\xa0Muggles. '
+b'Tell me, what\xc2\xa0exactly\xc2\xa0is the\xc2\xa0function\xc2\xa0of a\xc2\xa0rubber\xc2\xa0duck?'
+b'Oh, umm...'
+b'Well, that\xc2\x92ll be\xc2\xa0Errol\xc2\xa0with the post. '
+b'Oh,\xc2\xa0fetch\xc2\xa0it will you Percy, please?'
+b'Errol...'
+b'He\xc2\x92s\xc2\xa0always\xc2\xa0doing\xc2\xa0that.'
+b'Oh look, it\xc2\x92s our\xc2\xa0Hogwarts\xc2\xa0letters. '
+b'And they\xc2\x92ve sent us Harry\xc2\x92s as well.'
+b'Dumbledore\xc2\xa0must know you\xc2\x92re here, Harry. '
+b'Doesn\xc2\x92t miss a trick, that man.'
+b'Oh, no.'
+b'This lot won\xc2\x92t come cheap, Mum. '
+b'The\xc2\xa0spell\xc2\xa0books\xc2\xa0alone\xc2\xa0are very expensive.'
+b'We\xc2\x92ll manage. '
+b'There\xc2\x92s only one\xc2\xa0place\xc2\xa0we\xc2\x92re\xc2\xa0going\xc2\xa0to get all of this.\xc2\xa0'
+b'Diagon\xc2\xa0Alley.'
+b'Right.'
+b'Here we are, Harry.'
+b'You go first, dear.'
+b"But Harry's never traveled by Floo powder before, Mum."
+b'Floo powder?'
+b"You go first, Ron, so that Harry can see how it's done. Yes."
+b'In you go.'
+b"That's it."
+b'Diagon Alley.'
+b"You see? It's quite easy, dear."
+b"Don't be afraid. Come on."
+b'Come on.'
+b"In you go. That's it."
+b'Mind your head.'
+b"That's right."
+b'Now, take your Floo powder.'
+b"That's it, very good."
+b"Now, don't forget to speak very, very clearly."
+b'Diagonally.'
+b'What did he say, dear?'
+b'Diagonally.'
+b'I thought he did.'
+b'Mr. Malfoy! What a pleasure to see you again. '
+b'If I may, just in today --'
+b"I'm not buying today, Mr. Borgin."
+b'But selling.'
+b' Selling?'
+b'You have heard, of course, that the Ministry of Magic is conducting more raids. '
+b'There are even rumors of a new Muggle Protection Act...'
+b'I have a few... ah... items at home that might prove embarrassing if the Ministry were to call.'
+b'Certain poisons and the like...'
+b'Hmmm... yes. I see...'
+b'Can I have this?'
+b'Ah, the Hand of Glory. '
+b'Insert a candle and it gives light only to the holder. '
+b'Best friend of thieves and plunderers. '
+b'Your son has fine taste, sir.'
+b' Hopefully my son will amount to more than a thief, Mr. Borgin.'
+b"Though if his marks don't pick up --"
+b" It's not my fault the teachers have favorites. "
+b'That Hermione Granger --'
+b"I would have thought you'd be ashamed that a girl of no wizarding family beat you in every exam."
+b"It's the same all over. "
+b'Wizard blood is counting for less everywhere.'
+b'Not with me.'
+b'Very good. '
+b"I'll expect you at the manor tomorrow. "
+b'Come, Draco.'
+b'Not lost, are you, my dear?'
+b"I'm fine, thank you. I was just going..."
+b'Come with us. '
+b"We'll help you find your way back."
+b' No. Please...'
+b' Harry?'
+b'Hagrid!'
+b"What do you think you're doing down here? Come on."
+b"You're a mess, Harry. "
+b'Skulking around Knockturn Alley? '
+b'Dodgy place.'
+b"Don't want no one to see you there."
+b"People will think you're up to no good."
+b'I was lost, I...'
+b'Hang on.'
+b'What were you doing down there then?'
+b'Me? I was... '
+b'I was looking for Flesh-Eating Slug Repellent.'
+b"They're ruining all the school cabbages."
+b'Harry. Hagrid.'
+b'Hello, Hermione.'
+b"It's so good to see you."
+b"It's great to see you too."
+b'What did you do to your glasses?'
+b'Oculus Reparo.'
+b'I definitely need to remember that one.'
+b"You'll be all right now then, Harry?"
+b"Right. I'll leave you to it."
+b'Okay, bye.'
+b'Thank you. Bye.'
+b"Come on, everyone's been so worried."
+b'Harry.'
+b'Thank goodness.'
+b"We'd hoped you'd only gone one grate too far."
+b'Ladies and gentlemen, Mr. Gilderoy Lockhart.'
+b'Ohh, Here he is.'
+b'Mum fancies him.'
+b'Make way there, please.'
+b'Let me by, madam. Thank you.'
+b'Excuse me, little girl.'
+b'This is for the Daily Prophet.'
+b"It can't be. Harry Potter?"
+b'Harry Potter!'
+b'Excuse me, madam.'
+b'Nice big smile, Harry.'
+b'Together, you and I rate the front page.'
+b'Ladies and gentlemen, what an extraordinary moment this is.'
+b'When young Harry stepped into Flourish and Blotts this morning to purchase my autobiography, Magical Me\xc2\x85'
+b'which, incidentally, is currently celebrating its 27th week atop the Daily Prophet bestseller list'
+b'he had no idea that he would, in fact, be leaving with my entire collected works free of charge.'
+b'Now, ladies?'
+b"Harry, now you give me those, and I'll get them signed."
+b'All of you wait outside.'
+b"That's it Ron."
+b"I'll bet you loved that, didn't you, Potter?"
+b'Famous Harry Potter.'
+b"Can't go into a bookshop without making the front page."
+b'Leave him alone.'
+b'Look, Potter.'
+b"You've got yourself a girlfriend."
+b'Now, now, Draco, play nicely.'
+b'Mr. Potter.'
+b'Lucius Malfoy. We meet at last.'
+b'Forgive me.'
+b'Your scar is legend.'
+b'As, of course, is the wizard who gave it to you.'
+b'Voldemort killed my parents.'
+b'He was nothing more than a murderer.'
+b'You must be very brave to mention his name.'
+b'Or very foolish.'
+b'Fear of a name only increases fear of the thing itself.'
+b'And you must be Miss Granger.'
+b'Yes, Draco has told me all about you. '
+b'And your parents.'
+b"Muggles, aren't they?"
+b'Let me see.'
+b'Red hair, vacant expressions tatty, secondhand book.'
+b'You must be the Weasleys.'
+b"Children, It's mad in here."
+b"Let's go outside."
+b'Well, well, well. Weasley senior.'
+b'Lucius.'
+b'Busy time at the Ministry, Arthur, all those extra raids?'
+b"I do hope they're paying you overtime but judging by the state of this, I'd say not."
+b"What's the use in being a disgrace to the name of wizard if they don't even pay you well for it?"
+b'We have a very different idea about what disgraces the name of wizard, Malfoy.'
+b'Clearly.'
+b'Associating with Muggles.'
+b'And I thought your family could sink no lower.'
+b"I'll see you at work."
+b'See you at school.'
+b'10:58, come on.'
+b'The train will be leaving any moment.'
+b"Oh dear! The train'll be leaving any moment! "
+b'Fred, George, Percy, you first.'
+b'Okay.'
+b'After you, dear.'
+b"Come on, Ginny, we'll get you a seat. Hurry."
+b"Let's go."
+b"What do you two think you're doing?"
+b'Sorry.'
+b'Lost control of the trolley.'
+b"Why can't we get through?"
+b"I don't know."
+b'The gateway has sealed itself for some reason.'
+b'The train leaves at exactly 11:00.'
+b"We've missed it."
+b"Harry, if we can't get through maybe Mum and Dad can't get back."
+b'Maybe we should just go and wait by the car.'
+b'The car.'
+b"Ron, I should tell you most Muggles aren't accustomed to seeing a flying car."
+b'Aaa, Right.'
+b'Oh, no! The Invisibility Booster must be faulty.'
+b"Come on, then. Let's go lower."
+b'We need to find the train.'
+b'Okay.'
+b'All we need to do is catch up with the train.'
+b"We can't be far behind."
+b'Do you hear that?'
+b'We must be getting close.'
+b'Hold on.'
+b'Aaaaaaahhhh!'
+b'Haaaarryyy!'
+b'Hold oonnn!!!'
+b'Take my hand!'
+b'Hold on!'
+b"I'm trying. Your hand's all sweaty."
+b'I think we found the train.'
+b'Yeah.'
+b'Welcome home.'
+b'Up! Up!'
+b"It's not working!"
+b'Up! Ron, mind that tree!'
+b'Aaahhh! Aaah!'
+b'Stop! Stop! Stop!'
+b'My wand. Look at my wand.'
+b"Be thankful it's not your neck."
+b"What's happening?"
+b"I don't know."
+b'Come on, go! Fast!'
+b"Scabbers, you're okay."
+b'The caaaar!'
+b"Dad's gonna kill me."
+b'See you, Hedwig.'
+b"So a house-elf shows up in my bedroom we can't get through the barrier to platform 93/4..."
+b'we almost get killed by a tree...'
+b"Clearly someone doesn't want me here this year."
+b'Well, take a good look, lads.'
+b'This night might well be the last you spend in this castle.'
+b'Oh, dear, we are in trouble.'
+b'You were seen by no less than seven Muggles.'
+b'Do you have any idea how serious this is?'
+b'You have risked the exposure of our world.'
+b'Not to mention the damage you inflicted on a Whomping Willow.'
+b"that's been on these grounds since before you were born."
+b'Honestly, Professor Snape, I think it did more damage to us.'
+b'Silence.'
+b'I assure you that were you in Slytherin, and your fate rested with me... '
+b'the both of you would be on the train home tonight.'
+b'As it is...'
+b'They are not.'
+b'Professor Dumbledore.'
+b'Professor McGonagall.'
+b'Headmaster these boys have flouted the Decree for the Restriction of Underage Wizardry.'
+b'As such...'
+b'I am well aware of our bylaws having written quite a few of them myself.'
+b'However, as head of Gryffindor house it is for Professor McGonagall to determine the appropriate action.'
+b"We'll go and get our stuff, then."
+b'What are you talking about, Mr. Weasley?'
+b"You're going to expel us, aren't you?"
+b'Not today, Mr. Weasley but I must impress on both of you the seriousness of what you have done.'
+b'I will be writing to your families tonight, and you will both receive detention.'
+b'Morning, everyone.'
+b'Good morning, everyone.'
+b'Good morning, Professor Sprout.'
+b'Welcome to Greenhouse Three, Second Years. '
+b'Today, we will be re-potting Mandrakes. '
+b'Now, who here can tell me the properties of the Mandrake? '
+b'Yes, Miss Granger.'
+b'Mandrake, or Mandragora is used to return those who have been Petrified to their original state.'
+b"It's also quite dangerous. "
+b"The Mandrake's cry is fatal to anyone who hears it."
+b'Excellent. Ten points to Gryffindor.'
+b"As our Mandrakes are still only seedlings their cries won't kill you yet."
+b'But they could knock you out for hours, which is why I have given you earmuffs for auditory protection.'
+b'So could you please put them on, right away? Quickly.'
+b'Flaps tight down, and watch me closely.'
+b'You grasp your Mandrake firmly.'
+b'You pull it sharply up out of the pot.'
+b'Got it? And now you dunk it down into the other pot'
+b'and pour a little sprinkling of soil to keep him warm.'
+b"Longbottom's been neglecting his earmuffs."
+b"No, ma'am, he's just fainted."
+b'Yes, well, just leave him there.'
+b'Right, on we go.'
+b'Plenty of pots to go around.'
+b'Grasp your Mandrake and pull it up.'
+b"There's Nearly Headless Nick."
+b'Hello, Sir Nicolas.'
+b'Hello, Percy, Miss Clearwater.'
+b"Say it. I'm doomed."
+b"You're doomed."
+b'Hi, Harry.'
+b"I'm Colin Creevey. I'm in Gryffindor too."
+b'Hi, Colin. Nice to meet you.'
+b'Ron, is that your owl?'
+b"Bloody bird's a menace."
+b'Heads up, everyone. '
+b"Weasley's gotten himself a Howler."
+b'Go on, Ron. '
+b'I ignored one from my gran once. '
+b'It was horrible.'
+b'RONALD WEASLEY! '
+b'HOW DARE YOU STEAL THAT CAR!'
+b'I AM ABSOLUTELY DISGUSTED! '
+b"YOUR FATHER'S NOW FACING AN INQUIRY AT WORK AND IT'S ENTIRELY YOUR FAULT! "
+b"IF YOU PUT ANOTHER TOE OUT OF LINE WE'LL BRING YOU STRAIGHT HOME!"
+b'And, Ginny, dear, congratulations on making Gryffindor.'
+b'Your father and I are so proud.'
+b'Let me introduce you to your new Defense Against the Dark Arts Teacher. '
+b"Me. Gilderoy Lockhart, Order of Merlin, Third Class, Honorary Member of the Dark Force Defense League and five times winner of Witch Weekly's Most-Charming-Smile Award  "
+b"But I don't talk about that. "
+b"I didn't get rid of the Bandon Banshee by smiling at her!"
+b'Now, be warned.'
+b'It is my job to arm you against the foulest creatures known to wizardkind.'
+b'You may find yourselves facing your worst fears in this room.'
+b'Know only that no harm can befall you whilst I am here.'
+b'I must ask you not to scream.'
+b'It might provoke them.'
+b'Cornish pixies?'
+b'Freshly caught Cornish pixies.'
+b'Laugh if you will, Mr. Finnegan but pixies can be devilishly tricky little blighters.'
+b"Let's see what you make of them."
+b'Come on now, round them up, round them up!'
+b"They're only pixies."
+b'You just stay there!'
+b'Please, get me down!'
+b'Get off me!'
+b'Stop. Hold still!'
+b'Peskipiksi Pesternomi!'
+b"I'll ask you three to just nip the rest of them back into their cage."
+b'What do we do now?'
+b'Immobulus!'
+b'Why is it always me?'
+b'I spent the summer devising a whole new Quidditch program.'
+b"We're gonna train earlier, harder and longer."
+b"What...? I don't believe it."
+b"Where you think you're going, Flint?"
+b'Quidditch practice.'
+b'I booked the pitch for Gryffindor today.'
+b"Easy, Wood. I've got a note."
+b'I smell trouble.'
+b'I, Professor Severus Snape, do hereby give the Slytherin team permission to practice today, owing to the need to train their new Seeker.'
+b"You've got a new Seeker. Who?"
+b'Malfoy?'
+b"That's right."
+b"And that's not all that's new this year."
+b'Those are Nimbus 2001 s.'
+b'How did you get those?'
+b"A gift from Draco's father."
+b'You see, Weasley, unlike some, my father can afford the best.'
+b'At least no one on the Gryffindor team had to buy their way in.'
+b'They got in on pure talent.'
+b'No one asked your opinion, you filthy little Mudblood.'
+b"You'll pay for that one, Malfoy."
+b'Eat slugs!'
+b'You okay, Ron?'
+b'Say something.'
+b'Wow! Can you turn him around, Harry?'
+b'No, Colin, get out of the way.'
+b"Let's take him to Hagrid's."
+b"He'll know what to do."
+b"This calls for a specialist's equipment."
+b"Nothing to do but wait till it stops, I'm afraid."
+b'Okay.'
+b'Better out than in.'
+b'Who was Ron trying to curse, anyway?'
+b'Malfoy. He called Hermione...'
+b"Well, I don't know exactly what it means."
+b'He called me a Mudblood.'
+b'He did not.'
+b"What's a Mudblood?"
+b'It means "dirty blood.'
+b"Mudblood's a foul name for someone who's Muggle-born."
+b'Someone with non-magic parents.'
+b'Someone like me.'
+b"It's not a term one usually hears in civilized conversation."
+b"See, the thing is, Harry, there are some wizards, like the Malfoy family...who think they're better than everyone else because they're pure-blood."
+b"That's horrible."
+b"It's disgusting."
+b"And it's codswallop to boot."
+b'Dirty blood.'
+b"Why, there isn't a wizard alive today that's not half-blood or less."
+b"More to the point, they've yet to think of a spell that our Hermione can't do."
+b'Come here.'
+b"Don't you think on it, Hermione."
+b"Don't you think on it for one minute."
+b'Harry, Harry, Harry.'
+b'Can you possibly imagine a better way to serve detention than by helping me to answer my fan mail?'
+b'Not really.'
+b'Fame is a fickle friend, Harry.'
+b'Celebrity is as celebrity does.'
+b'Remember that.'
+b'Come.'
+b'Come to me.'
+b'What?'
+b'Sorry?'
+b'That voice.'
+b'Voice?'
+b"Didn't you hear it?"
+b'What are you talking about, Harry?'
+b"I think you're getting a bit drowsy."
+b'And great Scott, no wonder. '
+b'Look at the time.'
+b"We've been here nearly four hours."
+b'Spooky how the time flies when one is having fun.'
+b'Spooky.'
+b'Blood.'
+b'I smell blood.'
+b'Let me rip you.'
+b'Let me kill you.'
+b'Kill!'
+b'Kill!'
+b'Kill!'
+b'Harry!'
+b'Did you hear it?'
+b'Hear what?'
+b'That voice.'
+b'Voice? What voice?'
+b"I heard it first in Lockhart's office."
+b'And then again just...'
+b"It's time."
+b"It's moving."
+b"I think it's going to kill."
+b'Kill?'
+b'Harry, wait! Not so fast!'
+b'Strange.'
+b"I've never seen spiders act like that."
+b"I don't like spiders."
+b"What's that?"
+b'The Chamber of Secrets has been opened. \r\nEnemies of the Heir, beware.'
+b'Enemies of the Heir, beware.'
+b"It's written in blood."
+b'Oh, no.'
+b"It's Filch's cat."
+b"It's Mrs. Norris."
+b'Enemies of the Heir, beware.'
+b"You'll be next, Mudbloods."
+b"What's going on here?"
+b'Go on. Make way, make way.'
+b'Potter?'
+b'What are you...?'
+b'Mrs. Norris?'
+b"You've murdered my cat."
+b'No. No.'
+b"I'll kill you."
+b"I'll kill you!"
+b'Argus!'
+b'Argus, I...'
+b'Everyone will proceed to their dormitories immediately.'
+b'Everyone except you three.'
+b'Ravenclaws, follow me.'
+b"She's not dead, Argus."
+b'She has been Petrified.'
+b'Aghh! Thought so.'
+b"So unlucky I wasn't there."
+b"I know exactly the countercurse that could've spared her."
+b'But how she has been Petrified, I cannot say.'
+b'Ask him.'
+b"It's him that's done it."
+b'You saw what he wrote on the wall.'
+b"It's not true, sir. I swear."
+b'I never touched Mrs. Norris.'
+b'Rubbish.'
+b'If I might, headmaster?'
+b'Perhaps Potter and his friends were just in the wrong place at the wrong time.'
+b'However the circumstances are suspicious.'
+b"I, for one, don't recall seeing Potter at dinner."
+b"I'm afraid that's my doing, Severus."
+b'You see, Harry was helping me answer my fan mail.'
+b"That's why Ron and I went looking for him, professor."
+b"We'd just found him when he said..."
+b'Yes, Miss Granger?'
+b"When I said I wasn't hungry."
+b'We were heading back to the common room when we found Mrs. Norris.'
+b'Innocent until proven guilty, Severus.'
+b'My cat has been Petrified.'
+b'I want to see some punishment!'
+b'We will be able to cure her, Argus.'
+b'As I understand it, Madam Sprout has a very healthy growth of Mandrake.'
+b'When matured, a potion will be made which will revive Mrs. Norris.'
+b'And in the meantime I strongly recommend caution to all.'
+b"It's a bit strange, isn't it?"
+b'Strange?'
+b'You hear this voice, a voice only you can hear...'
+b"and then Mrs. Norris turns up Petrified. It's just strange."
+b'Do you think I should have told them?'
+b'Dumbledore and the others, I mean?'
+b'Are you mad?'
+b"No, Harry. Even in the wizarding world, hearing voices isn't a good sign."
+b"She's right, you know."
+b'Could I have your attention,please?'
+b'Right. Now, today, we will be transforming animals into water goblets.'
+b'Like so.'
+b'One, two, three. Vera Verto.'
+b"Now it's your turn."
+b'Who would like to go first?'
+b'Ahh , Mr. Weasley.'
+b'One, two, three. Vera Verto.'
+b'Vera Verto!'
+b'That wand needs replacing, Mr. Weasley.'
+b'Yes, Miss Granger?'
+b'Professor I was wondering if you could tell us about the Chamber of Secrets.'
+b'Very well.'
+b'You all know, of course that Hogwarts was founded over a thousand years ago by the four greatest witches and wizards of the age:'
+b'Godric Gryffindor,'
+b'Helga Hufflepuff...'
+b'Rowena Ravenclaw'
+b'Salazar Slytherin.'
+b'Now, three of the founders coexisted quite harmoniously.'
+b'One did not.'
+b'Three guesses who.'
+b'Salazar Slytherin wished to be more selective about the students admitted to Hogwarts.'
+b'He believed magical learning should be kept within all-magic families.'
+b'In other words, pure-bloods.'
+b'Unable to sway the others, he decided to leave the school.'
+b'Now, according to legend Slytherin had built a hidden chamber in this castle known as the Chamber of Secrets.'
+b'Though, shortly before departing, he sealed it until that time when his own true Heir returned to the school.'
+b"The Heir alone would be able to open the Chamber and unleash the horror within, and by so doing purge the school of all those who in Slytherin's view, were unworthy to study magic."
+b'Muggle-borns.'
+b'Well , Naturally, the school has been searched many times.'
+b'No such chamber has been found.'
+b'Professor? What exactly does legend tell us lies within the Chamber?'
+b'The Chamber is said to be home to something that only the Heir of Slytherin can control.'
+b'It is said to be the home of a monster.'
+b"Do you think it's true?"
+b' Do you think there really is a Chamber of Secrets?'
+b"Yes. Couldn't you tell? "
+b"McGonagall's worried. "
+b'All the teachers are.'
+b'If there really is a Chamber of Secrets, and it has been opened, that means... '
+b'The Heir of Slytherin has returned to Hogwarts. '
+b'The question is, who is it?'
+b"Let's think. "
+b'Who do we know who thinks all Muggle-borns are scum?'
+b"If you're talking about Malfoy..."
+b'Of course. You heard him.'
+b"You'll be next, Mudbloods."
+b'I heard him.'
+b'But Malfoy, the Heir of Slytherin?'
+b"Maybe Ron's right, Hermione."
+b'I mean, look at his family.'
+b'The whole lot of them have been in Slytherin for centuries.'
+b'Crabbe and Goyle must know.'
+b'Maybe we could trick them into telling.'
+b"Even they aren't that thick."
+b'But there might be another way.'
+b'Mind you, it would be difficult.'
+b"Not to mention we'd be breaking about 50 school rules..."
+b"and it'll be dangerous."
+b'Very dangerous.'
+b'Here it is.'
+b'The Polyjuice Potion.'
+b'Properly brewed, the Polyjuice Potion allows the drinker to transform himself temporarily into the physical form of another.'
+b"You mean if Harry and I drink that stuff, we'll turn into Crabbe and Goyle?"
+b'Yes '
+b'Wicked! Malfoy will tell us anything.'
+b'Exactly.'
+b"But it's tricky. "
+b"I've never seen a more complicated potion."
+b'How long will it take to make?'
+b'A month.'
+b'A month?'
+b'But, Hermione,'
+b'if Malfoy is the Heir of Slytherin he could attack half the Muggle-borns in the school by then.'
+b'I know.'
+b"But it's the only plan we've got."
+b'Another goal for Slytherin!'
+b'They lead Gryffindor 90 to 30.'
+b'Yeah! Yeah!'
+b'All right there, Scarhead?'
+b'Watch yourself, Harry!'
+b'Wood, look out!'
+b"Blimey! Harry's got himself a rogue Bludger."
+b"That's been tampered with, that has."
+b"I'll stop it."
+b"No! Even with a proper wand, it's too risky."
+b'You could hit Harry.'
+b'Training for the ballet, Potter!!'
+b"You'll never catch me, Potter."
+b"Let's go."
+b'Harry Potter has caught the Snitch.'
+b'Gryffindor wins!'
+b'Finite Incantatem!'
+b'Thank you.'
+b'Are you okay?'
+b'No. I think my arm is broken.'
+b'Not to worry, Harry. '
+b'I will fix that arm of yours straight away.'
+b'No, Not you.'
+b"Boy doesn't know what he's saying."
+b"This won't hurt a bit."
+b'Brackium Emendo!'
+b'Yes, well, that can sometimes happen but the point is you can no longer feel any pain, and, very clearly, the bones are not broken.'
+b"Broken? There's no bones left."
+b'Much more flexible, though.'
+b'Mr. Malfoy, stop making such a fuss.'
+b'You can go. Out of my way.'
+b'Should have been brought straight to me.'
+b'I can mend bones in a heartbeat, but growing them back...'
+b"You will be able to, won't you?"
+b"I'll be able to, certainly."
+b"But it'll be painful."
+b"You're in for a rough night, Potter."
+b'Regrowing bones is a nasty business.'
+b'What do you expect?'
+b'Pumpkin juice?'
+b'Kill. Kill.!!'
+b'Time to kill..'
+b'Hello.'
+b'Dobby?'
+b'Harry Potter should have listened to Dobby.'
+b'Harry Potter should have gone back home when he missed the train.'
+b'It was you. '
+b'You stopped the barrier from letting Ron and me through.'
+b'Indeed. Yes, sir.'
+b'You nearly got Ron and me expelled.'
+b'At least you would be away from here.'
+b'Harry Potter must go home.'
+b'Dobby thought his Bludger would be enough to make Harry Potter see...'
+b'Your Bludger? You made that Bludger chase after me?'
+b'Dobby feels most aggrieved, sir.'
+b'Dobby had to iron his hands.'
+b'You better clear off before my bones come back Dobby, or I might strangle you.'
+b'Dobby is used to death threats, sir.'
+b'Dobby gets them five times a day at home.'
+b"I don't suppose you could tell me why you're trying to kill me?"
+b'Not kill you, sir.'
+b'Never kill you.'
+b'Dobby remembers how it was before Harry Potter triumphed over He-Who-Must-Not-Be-Named.'
+b'We house-elves were treated like vermin, sir.'
+b'Of course, Dobby is still treated like vermin.'
+b'Why do you wear that thing, Dobby?'
+b"This, sir? It is a mark of the house-elf's enslavement."
+b'Dobby can only be freed if his master presents him with clothes.'
+b'Listen.'
+b'Listen!'
+b'Terrible things are about to happen at Hogwarts.'
+b'Harry Potter must not stay here...now that history is to repeat itself.'
+b'Repeat itself? You mean this has happened before?'
+b"Oahh! I shouldn't have said that."
+b'Bad Dobby! Bad!'
+b'Stop it!'
+b'Stop it, Dobby!'
+b'Tell me Dobby when did this happen before?'
+b"Who's doing it now?"
+b'Dobby cannot say, sir. '
+b'Dobby only wants Harry Potter to be safe.'
+b'No, Dobby. Tell me.'
+b'Who is it?'
+b'Put him here.'
+b'What happened?'
+b"There's been another attack."
+b"I think he's been Petrified, Madam Pomfrey."
+b'Look. Perhaps he managed to take a picture of his attacker.'
+b'What can this mean, Albus?'
+b'It means that our students are in great danger.'
+b'What should I tell the staff?'
+b'The truth.'
+b'Tell them Hogwarts is no longer safe.'
+b'It is as we feared, Minerva'
+b'The Chamber of Secrets has indeed been opened again.'
+b'Again? You mean the Chamber of Secrets has been opened before?'
+b'Of course.'
+b"Don't you see?"
+b'Lucius Malfoy must have opened it when he was at school here.'
+b"Now he's taught Draco how to do it."
+b'Maybe.'
+b"We'll have to wait for the Polyjuice Potion to know for sure."
+b"Enlighten me. Why are we brewing this potion in broad daylight in the middle of the girls' lavatory?"
+b"Don't you think we'll get caught?"
+b'No. No one ever comes in here.'
+b'Why?'
+b'Moaning Myrtle.'
+b'Who?'
+b'Moaning Myrtle.'
+b"Who's Moaning Myrtle?"
+b"I'm Moaning Myrtle."
+b"I wouldn't expect you to know me."
+b'Who would ever talk about ugly, miserable moping Moaning Myrtle? Aaaaaa\xc2\x85'
+b"She's a little sensitive."
+b'Gather round!'
+b'Gather round.'
+b'Can everybody see me?'
+b'Can you all hear me?'
+b'Excellent.'
+b'In light of the dark events of recent weeks Professor Dumbledore has granted me permission to start this Dueling Club to train you all up.'
+b'In case you ever need to defend yourselves as I myself have done on countless occasions.'
+b'For full details, see my published works.'
+b'Let me introduce my assistant Professor Snape.'
+b'He has sportingly agreed to help with a short demonstration.'
+b"I don't want any of you youngsters to worry."
+b"You'll still have your Potions master when I'm through with him. Never fear."
+b'One.Two. Three!'
+b'Expelliarmus!'
+b"Do you think he's all right?"
+b'Who cares?'
+b'An excellent idea to show them that, Professor Snape...'
+b"but if you don't mind me saying, it was obvious what you were about to do."
+b'If I had wanted to stop you, it would have been only too easy.'
+b'Perhaps it would be prudent to first teach the students to block unfriendly spells, professor.'
+b'An excellent suggestion, Professor Snape..'
+b"Let's have a volunteer pair. "
+b'Potter, Weasley, how about you?'
+b"Weasley's wand causes devastation with the simplest spells."
+b"We'll be sending Potter to the hospital wing in a matchbox."
+b'Might I suggest someone from my own house?'
+b'Malfoy, perhaps?'
+b'Good luck, Potter.'
+b'Thank you, sir.'
+b'Wands at the ready.'
+b'Scared, Potter?'
+b'You wish.'
+b'On the count of three cast your charms to disarm your opponent. Only to disarm.'
+b"We don't want any accidents here."
+b'One. Two...'
+b'Everte Statum!'
+b'Rictusempra!'
+b'I said disarm only.'
+b'Serpensortia!'
+b"Don't move, Potter."
+b"I'll get rid of it for you."
+b'Allow me, Professor Snape.'
+b'Alarte Ascendare!'
+b'Vipera Evanesca.'
+b'What are you playing at?'
+b"You're a Parselmouth?"
+b"Why didn't you tell us?"
+b"I'm a what?"
+b'You can talk to snakes.'
+b'I know. I accidentally set a python on my cousin Dudley at the zoo once.'
+b'Once. But so what?'
+b'I bet loads of people here can do it.'
+b"No, they can't."
+b"It's not a very common gift, Harry."
+b'This is bad.'
+b"What's bad? If I hadn't told that snake not to attack Justin..."
+b"That's what you said to it."
+b'You were there. You heard me.'
+b'I heard you speaking Parseltongue.'
+b'Snake language.'
+b'I spoke a different language?'
+b"But I didn't realize..."
+b'How can I speak a language without knowing I can?'
+b"I don't know, but it sounded like you were egging the snake on or something."
+b'Harry, listen to me.'
+b"There's a reason the symbol of Slytherin house is a serpent."
+b'Salazar Slytherin was a Parselmouth.'
+b'He could talk to snakes too.'
+b'Exactly.'
+b"Now the whole school's gonna think you're his great-great-great grandson."
+b"But I'm not."
+b"I can't be."
+b'He lived a thousand years ago.'
+b'For all we know, you could be.'
+b"I'll see you back in the common room."
+b'I want blood.'
+b'They all must die.'
+b'Kill. Kill. Kill.'
+b'Time to kill.'
+b'Caught in the act.'
+b"I'll have you out this time, Potter."
+b'Mark my words.'
+b"No. Mr. Filch! You don't understand..."
+b"Professor I swear I didn't."
+b'This is out of my hands, Potter.'
+b'Professor Dumbledore will be waiting for you.'
+b'Sherbet Lemon.'
+b'Professor Dumbledore?'
+b'Bee in your bonnet, Potter?'
+b'I...I..I was just wondering if you put me in the right house.'
+b'Yes. You were particularly difficult to place.'
+b'But I stand by what I said last year.'
+b'You would have done well in Slytherin.'
+b"You're wrong."
+b'Harry?'
+b'Professor.'
+b'Your bird...There was nothing I could do.'
+b'He just caught fire.'
+b'And about time too.'
+b"He's been looking dreadful for days."
+b'Pity you had to see him on a burning day.'
+b'Fawkes is a phoenix, Harry.'
+b'They burst into flame when it is time for them to die...'
+b'and then they are reborn from the ashes.'
+b'Fascinating creatures, phoenixes.'
+b'They can carry immensely heavy loads.'
+b'Their tears have healing powers.'
+b'Professor Dumbledore, sir!'
+b'Wait! Listen!'
+b"Professor Dumbledore, sir, it wasn't Harry."
+b"I'd be prepared to swear it in front of the Ministry of Magic."
+b'Hagriiid!! Relax.'
+b'I do not believe that Harry attacked anyone.'
+b"Of course you don't."
+b"Ohh! Oww! Right. Well, I'll..."
+b"I'll just wait outside, then."
+b'Yes.'
+b"You don't think it was me, professor?"
+b'No, Harry. I do not think it was you.'
+b'But I must ask you is there something you wish to tell me?'
+b'No, sir. Nothing'
+b'Very well, then.'
+b'Off you go.'
+b"Everything's set. "
+b"We just need a bit of who you're changing into."
+b'Crabbe and Goyle.'
+b"We also need to make sure that the real Crabbe and Goyle can't burst in on us while we're interrogating Malfoy."
+b'How?'
+b"I've got it all worked out."
+b'I filled these with a simple Sleeping Draught.'
+b'Simple, but powerful.'
+b"Now, once they're asleep hide them in the broomstick cupboard and pull out a few of their hairs and put on their uniforms."
+b'Whose hair are you ripping out, then?'
+b"I've already got mine."
+b'Millicent Bulstrode. Slytherin.'
+b'I got this off her robes.'
+b"I'm going to go check on the Polyjuice Potion."
+b'Make sure that Crabbe and Goyle find these.'
+b'Ron, maybe I should do it.'
+b'Yeah. Right.'
+b'Wingardium Leviosa.'
+b'Cool. Umm..um.'
+b'How thick could you get?'
+b"Come on, let's get them."
+b"We'll have exactly one hour before we change back into ourselves."
+b'Add the hairs.'
+b'Essence of Crabbe.'
+b'Cheers.'
+b"I think I'm gonna be sick."
+b'Me too.'
+b'Harry?'
+b'Ron.'
+b'Bloody hell!'
+b'We still sound like ourselves.'
+b'You need to sound more like Crabbe.'
+b'Bloody hell.'
+b'Excellent.'
+b"But where's Hermione?"
+b"I...I don't think I'm going."
+b'You go on without me.'
+b'Hermione, are you okay?'
+b"Just go. You're wasting time."
+b'Come on.'
+b"I think the Slytherin common room's this way."
+b'Excuse me.'
+b'What are you doing d...?'
+b'I mean, what are you doing down here?'
+b'I happen to be a school prefect.'
+b'You, on the other hand, have no business wandering the corridors at night.'
+b'What are your names again?'
+b"I'm..."
+b'Crabbe, Goyle, where have you been?'
+b'Pigging out in the Great Hall all this time?'
+b'Why are you wearing glasses?'
+b'Ah- um.. Reading.'
+b'Reading?'
+b"I didn't know you could read."
+b'And what are you doing down here, Weasley?'
+b'Mind your attitude, Malfoy.'
+b'Well, sit down.'
+b"You'd never know the Weasleys were pure-bloods, the way they behave."
+b"They're an embarrassment to the wizarding world. All of them."
+b"What's wrong with you, Crabbe?"
+b'Stomachache.'
+b"I'm surprised the Daily Prophet hasn't done a report on all these attacks."
+b'I suppose Dumbledore is trying to hush it all up.'
+b'Father always said Dumbledore was the worst thing that ever happened to this place.'
+b"You're wrong!"
+b'What?'
+b"You think there's someone here who's worse than Dumbledore?"
+b'Well? Do you?'
+b'Harry Potter?'
+b'Good one, Goyle.'
+b"You're absolutely right."
+b'Saint Potter.'
+b"And people actually think that he's the Heir of Slytherin?"
+b"But then you must have some idea who's behind it all."
+b"You know I don't, Goyle."
+b'I told you yesterday.'
+b'How many times do I have to tell you?'
+b'Is this yours?'
+b'But my father did say this:'
+b"It's been 50 years since the Chamber was opened."
+b"He wouldn't tell me who opened it."
+b'Only that they were expelled.'
+b'The last time the Chamber of Secrets was opened, a Mudblood died.'
+b"So it's only a matter of time before one of them is killed this time."
+b"As for me I hope it's Granger."
+b"What's the matter with you two?"
+b"You're acting very odd."
+b"It's his stomachache."
+b'Calm down.'
+b'Scar!'
+b'Hair!'
+b'Hey! Where are you going?'
+b'That was close.'
+b'Hermione, come out.'
+b"We've got loads to tell you."
+b'Go away.'
+b"Wait till you see. It's awful."
+b'Hermione?'
+b'Are you okay?'
+b'Do you remember me telling you that the Polyjuice Potion was only for human transformations?'
+b"It was cat hair I plucked off Millicent Bulstrode's robes."
+b'Look at my face.'
+b'Look at your tail.'
+b'Have you spoken to Hermione?'
+b'She should be out of hospital in a few days when she stops coughing up fur balls.'
+b"What's this?"
+b'Yuck!'
+b"Looks like Moaning Myrtle's flooded the bathroom."
+b'Ohh-Uhh..Come to throw something else at me?'
+b'Why would I throw something at you?'
+b"Don't ask me. Here I am, minding my own business and someone thinks it's funny to throw a book at me."
+b"But it can't hurt if someone throws something at you."
+b"I mean, it'll just go right through you."
+b"SURE! Let's all throw books at Myrtle because she can't feel it."
+b'Ten points if you get it through her stomach!'
+b'Fifty points if it goes through her head!'
+b'But who threw it at you, anyway?'
+b"I don't know. I didn't see them."
+b'I was just sitting in the U-bend, thinking about death and it fell through the top of my head.'
+b'Whoo-oooh-whoooo...'
+b'"Tom Marvolo Riddle."'
+b'My name is Harry Potter.'
+b'Hello Harry Potter, my name is Tom Riddle.'
+b'Do you know anything about the Chamber of Secrets?'
+b'Yes.'
+b'Can you tell me?'
+b'No. But I can show you.'
+b'Let me take you back fifty years ago.'
+b'13th June..'
+b'Excuse me. '
+b"Could you tell me what's going on here?"
+b'Are you Tom Riddle?'
+b'Hello, can you hear me?'
+b'Riddle! Come.'
+b'Professor Dumbledore.'
+b'Dumbledore?'
+b'It is not wise to be wandering around this late hour, Tom.'
+b'Yes, professor. I suppose I...'
+b'I had to see for myself if the rumors were true.'
+b"I'm afraid they are, Tom."
+b'They are true.'
+b'About the school as well?'
+b"I don't have a home to go to."
+b"They wouldn't really close Hogwarts, would they, professor?"
+b"I understand, Tom, but I'm afraid Headmaster Dippet may have no choice."
+b'Sir, if it all stopped, if the person responsible was caught...'
+b'Is there something you wish to tell me?'
+b'No, sir. Nothing.'
+b'Very well, then. Off you go.'
+b'Good night, sir.'
+b"Let's get you out of there."
+b'Evening, Hagrid.'
+b"I'm going to have to turn you in Hagrid"
+b"I don't think you meant it to kill anyone..."
+b"You can't. You don't understand."
+b"The dead girl's parents will be here tomorrow. "
+b'The least Hogwarts can do is make sure the thing that killed their daughter is slaughtered.'
+b"It wasn't him."
+b'Aragog never killed no one. Never.'
+b"Monsters don't make good pets, Hagrid."
+b'Now, stand aside.'
+b'No!'
+b'Stand aside, Hagrid.'
+b'No!'
+b'Cistem Aperio!'
+b'Arania Exumai!'
+b'Aragog! Aragog!'
+b"I can't let you go."
+b"They'll have your wand for this, Hagrid."
+b"You'll be expelled."
+b'Hagrid!'
+b'HAAGRIIID!'
+b'Wow!'
+b'It was Hagrid. '
+b'Hagrid opened the Chamber of Secrets 50 years ago.'
+b"It can't be Hagrid."
+b"It just can't be."
+b"We don't even know this Tom Riddle."
+b'He sounds like a dirty, rotten snitch.'
+b'The monster had killed somebody, Ron.'
+b'What would any of us have done?'
+b"Look, Hagrid's our friend. "
+b"Why don't we just go and ask him about it?"
+b'That would be a cheerful visit.'
+b'Hello, Hagrid.\r Tell us, have you been setting anything mad and hairy loose in the castle lately?'
+b"Mad and hairy? You wouldn't be talking about me, now, would you?"
+b'No.'
+b"What's that you've got, Hagrid?"
+b"It's Flesh-Eating Slug Repellent."
+b'For the Mandrakes, you know.'
+b"Now, according to Professor Sprout, they've still got a bit of growing to do."
+b"But once their acne's cleared up, we'll chop them up and stew them. and then we'll get those people down at the hospital un-Petrified."
+b'In the meantime, though, you three had best be looking after yourselves.'
+b'All right?'
+b'Hello, Neville.'
+b"Harry, I don't know who did it, but you'd better come."
+b'Come on!'
+b'It had to be a Gryffindor.'
+b'Nobody else knows our password.'
+b"Unless it wasn't a student."
+b'Whoever it was, they must have been looking for something.'
+b'And they found it.'
+b"Tom Riddle's diary is gone."
+b'All right, listen up.'
+b"We play our game, Hufflepuff doesn't stand a chance."
+b"We're stronger, quicker and smarter."
+b"Not to mention they're dead scared that Harry will Petrify them if they fly anywhere near him."
+b'Well, that too.'
+b'Professor McGonagall.'
+b'This match has been canceled.'
+b"We can't cancel Quidditch."
+b'Silence, Wood. You and your teammates will go to Gryffindor Tower. Now.'
+b'Potter, you and I will find Mr. Weasley.'
+b"There's something the both of you have to see."
+b'I warn you.'
+b'This could be a wee bit of a shock.'
+b'Hermione!'
+b'She was found near the library along with this.'
+b'Does it mean anything to either of you?'
+b'No.'
+b'Could I have your attention, please?'
+b'Because of recent events, these new rules will be put into effect immediately:'
+b'All students will return to their house common rooms by 6:00 every evening.\r'
+b'All students will be escorted to each lesson by a teacher.'
+b'No exceptions.'
+b'I should tell you this:'
+b'Unless the culprit behind these attacks is caught it is likely the school will be closed.'
+b"We've got to talk to Hagrid, Ron."
+b"I can't believe it's him but if he did set the monster loose last time he'll know how to get inside the Chamber of Secrets. That's a start."
+b'But you heard McGonagall.'
+b"We're not allowed to leave the tower except for class."
+b"I think it's time to get my dad's old cloak out again."
+b"Who's there?"
+b'Hello? Hello?'
+b"What's that for?"
+b"Nothing. I was expecting... It doesn't matter. Come on in."
+b'I just made a pot of tea.'
+b'Hagrid, are you okay?'
+b"I'm fine. I'm all right."
+b'Did you hear about Hermione?'
+b'Oh yeah. I heard about that, all right.'
+b'Look, we have to ask you something.'
+b"Do you know who's opened the Chamber of Secrets?"
+b'What you had to understand about that is...'
+b'Quick, under the cloak.'
+b"Don't say a word."
+b'Be quiet, both of you.'
+b'Professor Dumbledore, sir.'
+b'Good evening, Hagrid.'
+b'I wonder, could we...?'
+b'Of course. Come in. Come in.'
+b"That's Dad's boss."
+b'Cornelius Fudge, Minister of Magic.'
+b'Bad business, Hagrid, very bad business.'
+b'Had to come.'
+b'Three attacks on Muggle-borns.'
+b'Things have gone far enough.'
+b"The Ministry's got to act."
+b'But I never...'
+b'You know I never, professor.'
+b'I want it understood, Cornelius that Hagrid has my full confidence.'
+b"Albus, look, Hagrid's record is against him."
+b"I've got to take him."
+b'Take me? Take me where?'
+b'Not Azkaban prison.'
+b"I'm afraid we have no choice, Hagrid."
+b'Already here, Fudge?'
+b'Good.'
+b'What are you doing here?'
+b'Get out of my house!'
+b'Believe me I take absolutely no pleasure being inside your...'
+b'You call this a house?'
+b'No.'
+b'I simply called up the school and was told the headmaster was here.'
+b'Well, what exactly is it that you want with me?'
+b"The other governors and I have decided it's time for you to step aside."
+b'This is an order of suspension.'
+b"You'll find all 12 signatures on it."
+b"I'm afraid we feel you've rather lost your touch."
+b"Well, what, with all these attacks there'll be no Muggle-borns left at Hogwarts."
+b'I can only imagine what an awful loss that would be to the school.'
+b"You can't take Professor Dumbledore away."
+b"Take him away and the Muggle-borns won't stand a chance."
+b"You mark my words, there'll be killings next!"
+b'You think so?'
+b'Calm yourself, Hagrid.'
+b'If the governors desire my removal I will, of course, step aside.'
+b'However you will find that help will always be given at Hogwarts to those who ask for it.'
+b'Admirable sentiments.'
+b'Shall we?'
+b'Fudge.'
+b'Come, Hagrid.'
+b'Well? If...'
+b"If anybody was looking for some stuff then all they'd have to do would be to follow the spiders."
+b'Yep. That would lead them right.'
+b"That's all I have to say."
+b"And someone will need to feed Fang while I'm away."
+b'Good boy.'
+b"Hagrid's right."
+b"With Dumbledore gone, there'll be an attack a day."
+b'Look.'
+b'Come on.'
+b'Come on, Fang.'
+b'Come on.'
+b'What?'
+b'You heard what Hagrid said.'
+b'Follow the spiders.'
+b"They're heading to the Dark Forest."
+b'Why spiders? Why couldn\'t it be "follow the butterflies"?'
+b"Harry, I don't like this."
+b"Harry, I don't like this at all."
+b'Shush!'
+b'Can we go back now?'
+b'Come on.'
+b'Who is it?'
+b"Don't panic."
+b'Hagrid?'
+b'Is that you?'
+b"We're friends of Hagrid's."
+b'And you?'
+b"You're Aragog, aren't you?"
+b'Yes.'
+b'Hagrid has never sent men into our hollow before.'
+b"He's in trouble. Up at the school, there have been attacks."
+b"They think it's Hagrid."
+b'They think he opened the Chamber of Secrets. Like before.'
+b"That's a lie."
+b'Hagrid never opened the Chamber of Secrets.'
+b"Then you're not the monster?"
+b'No.'
+b'The monster was born in the castle.'
+b'I came to Hagrid from a distant land in the pocket of a traveler.'
+b'Harry.'
+b"But if you're not the monster, then what did kill that girl 50 years ago?"
+b'We do not speak of it.'
+b'It is an ancient creature we spiders fear above all others.'
+b'But have you seen it?'
+b'I never saw any part of the castle but the box in which Hagrid kept me.'
+b'The girl was discovered in a bathroom.'
+b'When I was accused, Hagrid brought me here.'
+b'Harry!'
+b'What?'
+b'Well, thank you.'
+b"We'll just go."
+b'Go?'
+b'I think not.'
+b'My sons and daughters do not harm Hagrid on my command.'
+b'But I cannot deny them fresh meat when it wanders so willingly into our midst.'
+b'Goodbye, friend of Hagrid.'
+b'Can we panic now?'
+b'Know any spells?'
+b"One, but it's not powerful enough for all of them."
+b"Where's Hermione when you need her?"
+b"Let's go!"
+b'Arania Exumai!'
+b'Go!'
+b"Glad we're out of there."
+b'Arania Exumai!'
+b'Thanks for that.'
+b"Don't mention it."
+b'Get us out of here.'
+b'Now!'
+b'Come on!'
+b'Come on, move faster!'
+b'Come on! Go!'
+b'Get us in the air.'
+b"The flying gear's jammed!"
+b'Come on! Pull!'
+b"I'm trying!"
+b'Follow the spiders!'
+b'Follow the spiders.'
+b"If Hagrid ever gets out of Azkaban, I'll kill him."
+b'I mean, what was the point of sending us in there?'
+b'What have we found out?'
+b'We know one thing.'
+b'Hagrid never opened the Chamber of Secrets.'
+b'He was innocent.'
+b'Wish you were here, Hermione.'
+b'We need you.'
+b'Now more than ever.'
+b"What's that?"
+b'Ron...'
+b'This is why Hermione was in the library the day she was attacked.'
+b'Come on.'
+b'Of the many fearsome beasts that roam our land none is more deadly than the basilisk.\r'
+b"Capable of living for hundreds of years instant death awaits any who meet this giant serpent's eye."
+b'Spiders flee before it.'
+b'Ron, this is it.'
+b'The monster in the Chamber of Secrets is a basilisk.'
+b"That's why I can hear it speak."
+b"It's a snake."
+b"But if it kills by looking people in the eye, why is it no one's dead?"
+b'Because no one did look it in the eye.'
+b'Not directly, at least.'
+b'Colin saw it through his camera.'
+b'Justin... Justin must have seen the basilisk through Nearly Headless Nick.'
+b'Nick got the full blast of it.'
+b"But he's a ghost, he couldn't die again."
+b'And Hermione had the mirror.'
+b'I bet you she was using it to look around corners in case it came along.'
+b'And Mrs. Norris?'
+b"I'm pretty sure she didn't havea camera or a mirror, Harry."
+b'The water.'
+b'There was water on the floor that night.'
+b"She only saw the basilisk's reflection."
+b'Spiders flee before it.'
+b'It all fits.'
+b"How's a basilisk been getting around?"
+b'A dirty, great snake.'
+b'Someone would have seen it.'
+b"Hermione's answered that too."
+b"Pipes? It's using the plumbing."
+b'Remember what Aragog said about that girl 50 years ago?'
+b'She died in a bathroom?'
+b'What if she never left?'
+b'Moaning Myrtle.'
+b'All students are to return to their house dormitories at once.'
+b'All teachers to the second-floor corridor immediately.'
+b'As you can see, the Heir of Slytherin has left another message.'
+b'Our worst fear has been realized.'
+b'A student has been taken by the monster into the Chamber itself.'
+b'The students must be sent home.'
+b"I'm afraid this is the end of Hogwarts."
+b'So sorry. Dozed off.'
+b'What have I missed?'
+b'A girl has been snatched by the monster, Lockhart. '
+b'Your moment has come at last.'
+b'My moment?'
+b"Weren't you saying just last night that you've known all along where the entrance to the Chamber of Secrets is?"
+b"That's settled. "
+b"We'll leave you to deal with the monster, Gilderoy."
+b'Your skills, after all, are legend.'
+b'Very well.'
+b"I'll just be in my office getting..."
+b'Getting ready.'
+b"Who is it that the monster's taken, Minerva?"
+b'Ginny Weasley.'
+b'Her skeleton will lie in the Chamber forever.'
+b'Ginny.'
+b"Lockhart may be useless, but he's going to try and get into the Chamber."
+b'At least we can tell him what we know.'
+b'Professor, we have some information for you.'
+b'Are you going somewhere?'
+b'Well, yes. Urgent call. Unavoidable.'
+b'Got to go.'
+b'What about my sister?'
+b'Well\xc2\x85 Aemm\xc2\x85'
+b'As to that, most unfortunate.'
+b'No one regrets more than I.'
+b"You're the Defense Against the Dark Arts teacher. "
+b"You can't go now."
+b'I must say, when I took the job, there was nothing in the description...'
+b"You're running away?"
+b'After all you did in your books?'
+b'Books can be misleading.'
+b'You wrote them.'
+b'My dear boy, use your common sense.'
+b"My books wouldn't have sold as well if people didn't think I'd done those things."
+b"You're a fraud."
+b"You've been taking credit for what other wizards have done."
+b'Is there anything you can do?'
+b'Yes, now you mention it.'
+b"I'm rather gifted with Memory Charms."
+b'Otherwise, all those wizards would have gone blabbing.'
+b"I'd never have sold another book."
+b"In fact, I'm going to have to do the same to you."
+b"Don't even think about it."
+b"Who's there?"
+b'Hello, Harry.'
+b'What do you want?'
+b'To ask you how you died.'
+b'It was dreadful.'
+b'It happened right here in this very cubicle.'
+b"I'd hidden because Olive Hornby was teasing me about my glasses."
+b'I was crying, and then I heard somebody come in.'
+b'Who was it, Myrtle?'
+b"I don't know. I was distraught!"
+b'But they said something funny, a kind of made-up language.'
+b'And I realized it was a boy, so I unlocked the door to tell him to go away and I died.'
+b'Just like that? How?'
+b'I just remember seeing a pair of great, big, yellow eyes over there by that sink.'
+b'This is it.'
+b'This is it, Ron. I think this is the entrance to the Chamber of Secrets.'
+b'Say something. '
+b'Harry say something in Parseltongue!'
+b'Excellent, Harry. Good work.'
+b"Well, then, I'll just be..."
+b"There's no need for me to stay."
+b'Yes, there is.'
+b'You first.'
+b'Now, boys, what good will it do?'
+b'Better you than us.'
+b'But... Obviously, yes.'
+b"Sure you don't want to test it first?"
+b"It's really quite filthy down here."
+b"All right. Let's go."
+b'Oh, Harry?'
+b"If you die down there, you're welcome to share my toilet."
+b'Thanks, Myrtle.'
+b'Now, remember: Any sign of movement, close your eyes straightaway.'
+b'Go on.'
+b'This way.'
+b"What's this?"
+b'It looks like a snake.'
+b"It's a snake skin."
+b'Bloody hell.'
+b'Whatever shed this must be 60 feet long. Or more.'
+b'Heart of a lion, this one.'
+b'The adventure ends here, boys.'
+b"But don't fret."
+b'The world will know our story.'
+b'How I was too late to save the girl.'
+b'How you two tragically lost your minds at the sight of her mangled body.'
+b'So...You first, Mr. Potter.'
+b'Say goodbye to your memories.'
+b'Obliviate!'
+b'Harry! Harry'
+b'Ron! Ron, are you okay?'
+b"I'm fine."
+b'Hello. Who are you?'
+b'Ron Weasley.'
+b'Really?'
+b'And who am I?'
+b"Lockhart's Memory Charm backfired."
+b"He hasn't got a clue who he is."
+b"It's an odd sort of place, isn't it?"
+b'Do you live here?'
+b'No.'
+b'Really?'
+b'What do I do now?'
+b'You wait here and try and shift some of this rock so we can get back through.'
+b"I'll go on and find Ginny."
+b'Okay.'
+b"Ginny! Ginny, please don't be dead."
+b'Wake up, wake up.'
+b'Please wake up.'
+b"She won't wake."
+b'Tom. Tom Riddle.'
+b"What do you mean, she won't wake?"
+b"She's not...?"
+b"She's still alive, but only just."
+b'Are you a ghost?'
+b'A memory preserved in a diary for 50 years.'
+b"She's cold as ice."
+b"Ginny, please don't be dead. Wake up."
+b"You've got to help me, Tom."
+b"There's a basilisk."
+b"It won't come until it's called."
+b'Give me my wand, Tom.'
+b"You won't be needing it."
+b"We've got to go. We've got to save her."
+b"I'm afraid I can't do that."
+b'You see, as poor Ginny grows weaker, I grow stronger.'
+b'Yes, Harry, it was Ginny Weasley who opened the Chamber of Secrets.'
+b"No. She couldn't. She wouldn't."
+b"It was Ginny who set the basilisk on the Mudbloods and Filch's cat Ginny who wrote the threatening messages on the walls."
+b'But why?'
+b'Because I told her to.'
+b"You'll find I can be very persuasive."
+b'Not that she knew what she was doing.'
+b'She was, shall we say, in a kind of trance.'
+b'Still, the power of the diary began to scare her.'
+b"She tried to dispose of it in the girls' bathroom."
+b'And then who should find it but you?'
+b'The very person I was most anxious to meet.'
+b'And why did you want to meet me?'
+b'I knew I had to talk to you, meet you if I could.'
+b'So I decided to show you my capture of that brainless oaf Hagrid to gain your trust.'
+b"Hagrid's my friend."
+b"And you framed him, didn't you?"
+b"It was my word against Hagrid's."
+b'Only Dumbledore seemed to think he was innocent.'
+b"I'll bet Dumbledore saw right through you."
+b'He certainly kept an annoyingly close watch on me after that.'
+b" I knew it wouldn't be safe to open the Chamber again while I was at school so I decided to leave behind a diary preserving my 16-year-old self in its pages so that one day"
+b"I would be able to lead another to finish Salazar Slytherin's noble work."
+b"Well, you haven't finished it this time."
+b'In a few hours, the Mandrake Draught will be ready.'
+b'And everyone who was Petrified will be all right again.'
+b"Haven't I told you? Killing Mudbloods doesn't matter to me anymore."
+b'For many months now, my new target has been you.'
+b'How is it that a baby with no extraordinary magical talent was able to defeat the greatest wizard of all time?'
+b"How did you escape with nothing but a scar while Lord Voldemort's powers were destroyed?"
+b'Why do you care how I escaped?'
+b'Voldemort was after your time.'
+b'Voldemort is my past, present and future.'
+b"You. You're the Heir of Slytherin."
+b"You're Voldemort."
+b"Surely you didn't think .I was going to keep my filthy Muggle father's name?"
+b'No. I fashioned myself a new name, a name I knew wizards everywhere would fear to speak when I became the greatest sorcerer in the world.'
+b'Albus Dumbledore is the greatest sorcerer in the world.'
+b"Dumbledore's been driven out of this castle by the mere memory of me."
+b"He'll never be gone. "
+b'Not as long as those who remain are loyal to him.'
+b'Fawkes?'
+b'So this is what Dumbledore sends his great defender.'
+b'A songbird and an old hat.'
+b"Let's match the power of Lord Voldemort, Heir of Salazar Slytherin against the famous Harry Potter."
+b"Parseltongue won't save you now, Potter. "
+b'It only obeys me.'
+b'No! Your bird may have blinded the basilisk, but it can still hear you.'
+b'Yes, Potter.'
+b'The process is nearly complete.'
+b'In a few minutes, Ginny Weasley will be dead, and I will cease to be a memory.'
+b'Lord Voldemort will return .very much alive.'
+b'Ginny?'
+b"Remarkable, isn't it? how quickly the venom of the basilisk penetrates the body?"
+b"I'd guess you have little more than a minute to live."
+b"You'll be with your dear Mudblood mother soon, Harry."
+b'Funny, the damage a silly little book can do especially in the hands of a silly little girl.'
+b'What are you doing?'
+b'Stop. No!'
+b'Ginny?'
+b'Harry, It was me.'
+b"But I swear, I didn't mean to."
+b'Riddle made me, and...'
+b"Harry, you're hurt."
+b"Don't worry."
+b'Ginny, you need to get yourself out.'
+b"Follow the Chamber and you'll find Ron."
+b'You were brilliant, Fawkes.'
+b"I just wasn't quick enough."
+b'Of course.'
+b'Phoenix tears have healing powers.'
+b'Thanks.'
+b"It's all right, Ginny."
+b"It's over."
+b"It's just a memory."
+b'Amazing!'
+b'This is just like magic!'
+b'You both realize, of course that in the past few hours, you have broken perhaps a dozen school rules.'
+b'Yes, sir.'
+b'There is sufficient evidence to have you both expelled.'
+b'Yes, sir.'
+b'Therefore, it is only fitting that you both receive Special Awards for Services to the School.'
+b'Thanks, sir.'
+b'Now, Mr. Weasley, if you would have an owl deliver these release papers to Azkaban.'
+b'I believe we want our gamekeeper back.'
+b'Harry, First, I want to thank you, Harry.'
+b'You must have shown me real loyalty down in the Chamber.'
+b'Nothing but that could have called Fawkes to you.'
+b'And second I sense that something is troubling you.'
+b'Am I right, Harry?'
+b"It's just..."
+b"You see, sir, I couldn't help but notice certain things, certain..."
+b'Certain similarities between Tom Riddle and me.'
+b'I see.'
+b'Well, you can speak Parseltongue, Harry. Why?'
+b'Because Lord Voldemort can speak Parseltongue.'
+b"If I'm not mistaken, Harry he transferred some of his powers to you the night he gave you that scar."
+b'Voldemort transferred some of his powers to me?'
+b'Not intentionally but yes.'
+b'So the Sorting Hat was right.'
+b'I should be in Slytherin.'
+b"It's true. You possess many of the qualities that Voldemort himself prizes."
+b'Determination, resourcefulness and if I may say so, a certain disregard for the rules.'
+b'Why, then, did the Sorting Hat place you in Gryffindor?'
+b'Because I asked it to.'
+b'Exactly, Harry. Exactly.'
+b'Which makes you different from Voldemort.'
+b'It is not our abilities that show what we truly are.'
+b'It is our choices.'
+b'If you want proof why you belong in Gryffindor then I suggest you look more closely at this.'
+b'Be careful.'
+b'Godric Gryffindor.'
+b'It would take a true Gryffindor to pull that out of the hat.'
+b'Dobby.'
+b'So this is your master.'
+b'The family you serve is the Malfoys.'
+b"I'll deal with you later."
+b'Out of my way, Potter.'
+b"So it's true. You have returned."
+b"When the governors learned that Arthur Weasley's daughter was taken into the Chamber, they saw fit to summon me back."
+b'Ridiculous.'
+b'Curiously, Lucius, several of them were under the impression that you would curse their family if they did not agree to suspend me in the first place.'
+b'How dare you!'
+b'Beg your pardon?'
+b'My sole concern has always been and will always be the welfare of this school and, of course, its students.'
+b'The culprit has been identified, I presume?'
+b'Yes.'
+b'And?'
+b'Who was it?'
+b'Voldemort.'
+b'Only this time he chose to act through somebody else by means of this.'
+b'I see.'
+b'Fortunately, our young Mr. Potter discovered it.'
+b"One hopes that no more of Lord Voldemort's old school-things should find their way into innocent hands."
+b'The consequences for the one responsible would be severe.'
+b'Well, let us hope that Mr. Potter will always be around to save the day.'
+b"Don't worry. I will be."
+b'Dumbledore.'
+b"Come, Dobby. We're leaving."
+b'Sir? I wonder if I could have that?'
+b'Mr. Malfoy.'
+b'Mr. Malfoy!'
+b'I have something of yours.'
+b"Mine? I don't know what you're talking about."
+b'I think you do, sir.'
+b"I think you slipped the diary into Ginny Weasley's cauldron that day at Diagon Alley."
+b'You do, do you?'
+b"Why don't you prove it?"
+b'Come, Dobby.'
+b'Open it.'
+b'Dobby.'
+b'Master has given Dobby a sock.'
+b"What? I didn't give..."
+b'Master has presented Dobby with clothes.'
+b'Dobby is free.'
+b'You lost me my servant!'
+b'You shall not harm Harry Potter.'
+b'Your parents were meddlesome fools too.'
+b'Mark my words, Potter.'
+b'One day soon you are going to meet the same sticky end.'
+b'Harry Potter freed Dobby.'
+b'How can Dobby ever repay him?'
+b'Just promise me something.'
+b'Anything, sir.'
+b'Never try to save my life again.'
+b'Welcome back, Sir Nicholas.'
+b'Thank you.'
+b'Good evening, Sir Nicholas.'
+b'Good evening.'
+b'Good to see you, Sir Nicholas.'
+b'Thank you.'
+b'Hello.'
+b'Hermione! Welcome back.'
+b'Thanks, Sir Nicholas.'
+b"Harry. It's Hermione."
+b'Welcome back, Hermione.'
+b"It's good to be back."
+b'Congratulations.'
+b"I can't believe you solved it."
+b'We had loads of help from you.'
+b"We couldn't have done it without you."
+b'Thanks.'
+b'Could I have your attention, please?'
+b'Before we begin the feast let us have a round of applause for Professor Sprout, Madam Pomfrey whose Mandrake juice has been so successfully administered to all who had been Petrified.'
+b'Also, in light of the recent events as a school treat all exams have been canceled.'
+b'Oh, no.'
+b"Sorry I'm late."
+b'The owl that delivered my release papers got all lost and confused.'
+b'Some ruddy bird called Errol.'
+b"And I'd just like to say that if it hadn't been for you, Harry and Ron and Hermione, of course I would still be you-know-where so I'd just like to say thanks."
+b"There's no Hogwarts without you, Hagrid."
+b'Lumos Maxima...'
+b'Lumos Maxima...'
+b'Lumos Maxima...'
+b'Lumos... MAXIMA!'
+b'Harry! Harry!'
+b'Harry!! Open the door.'
+b'Marge! How lovely to see\xc2\x85'
+b'Uncle Vernon. I need you to sign this form.'
+b'What is it?'
+b'Nothing. School stuff'
+b'Later perhaps. If you behave.'
+b'I will if she does.'
+b'You still here, are you?'
+b'Yes.'
+b"Don't say 'yes' in that ungrateful way."
+b'Damn good of my brother to keep you.'
+b"He'd have been straight to an orphanage if he'd been dumped on my doorstep."
+b'Is that my Dudders?'
+b'Is that my little neffy-pooh?'
+b'Give us a kiss. Come on. Up, up.'
+b"Take Marge's suitcase upstairs."
+b'Okay.'
+b'Finish that off for Mommy.'
+b'Good boy, Rippy-pooh.'
+b'Can I tempt you, Marge?'
+b'Just a small one.'
+b'Excellent nosh, Petunia.'
+b'A bit more.'
+b'Usually just a fry-up for me, what with 12 dogs.'
+b"Just a bit more. That's a boy."
+b'You wanna try a little drop of brandy?'
+b'A little drop of brandy-brandy windy-wandy for Rippy-pippy-pooh?'
+b'What are you smirking at?'
+b'Where did you send the boy, Vernon?'
+b"St. Brutus'. It's a fine institution for hopeless cases."
+b"Do they use a cane at St. Brutus', boy?"
+b'Oh, yeah.'
+b"Yeah. I've been beaten loads of times."
+b"Excellent. I won't have this namby-pamby...wishy-washy nonsense about not beating people who deserve it."
+b"You mustn't blame yourself about how this one turned out."
+b"It's all to do with blood."
+b'Bad blood will out.'
+b"What is it the boy's father did, Petunia?"
+b"Nothing. He didn't work."
+b'He was unemployed.'
+b'And a drunk too, no doubt?'
+b"That's a lie."
+b'What did you say?'
+b"My dad wasn't a drunk."
+b"Don't worry. Don't fuss, Petunia."
+b'I have a very firm grip.'
+b"I think it's time you went to bed."
+b'Quiet, Vernon. You, clean it up.'
+b"Actually, it's nothing to do with the father."
+b"It's all to do with the mother."
+b'You see it all the time with dogs.'
+b"If something's wrong with the bitch, then something's wrong with the pup."
+b'Shut up! Shut up!'
+b'Right.'
+b'Let me tell you...'
+b'Vernon! Vernon! Vernon, do something!'
+b'Stop!'
+b"I've got you, Marge. I've got you."
+b'Hold on, hold on.'
+b'Get off.'
+b"Don't you dare!"
+b'Sorry.'
+b'Oh, Vernon.'
+b'Oh, God. Marge!'
+b'Please! Marge! Come back!'
+b'You bring her back!'
+b'You bring her back now.'
+b'You put her right!'
+b'No. She deserved what she got.'
+b'Keep away from me.'
+b"You can't do magic outside school."
+b'Yeah? Try me.'
+b"They won't let you back now."
+b"You've nowhere to go."
+b"I don't care."
+b'Anywhere is better than here.'
+b'Welcome to the Knight Bus...emergency transport for the stranded witch or wizard.'
+b'\r\tMy name is Stan Shunpike, and I will be your conductor for this evening.'
+b'What you doing down there?'
+b'I fell over.'
+b'What you fall over for?'
+b"I didn't do it on purpose."
+b'Well, come on, then.'
+b"Let's not wait for the grass to grow."
+b'What you looking at?'
+b'Nothing.'
+b'Well, come on, then. In.'
+b"No, no, no. I'll get this."
+b'You get in.'
+b'Come on. Come on. Move on, move on.'
+b'Take her away, Ern.'
+b'Yeah, take it away, Ernie.'
+b"It's going to be a bumpy ride."
+b'What did you say your name was?'
+b"I didn't."
+b'Where abouts are you headed?'
+b"he Leaky Cauldron. That's in London."
+b'You hear that? "The Leaky Cauldron. That\'s in London."'
+b'The Leaky Cauldron.'
+b'If you have pea soup make sure you eat it before it eats you.'
+b"But the Muggles. Can't they see us?"
+b"Muggles? They don't see nothing, do they?"
+b'No, but if you jab them with a fork, they feel.'
+b"Ernie, little old lady at 12 o'clock!"
+b'Ten, nine, eight...seven, six, five...four, three, three and a half...two, one and three quarters.'
+b'Yes!'
+b'Who is that? That man.'
+b'Who is that? Who is...?'
+b'That is Sirius Black, that is.'
+b"Don't tell me you've never been hearing of Sirius Black."
+b"He's a murderer."
+b'Got himself locked up in Azkaban for it.'
+b'How did he escape?'
+b"Well, that's the question, isn't it?"
+b"He's the first one that done it."
+b'He was a big supporter of You-Know-Who.'
+b"I reckon you've heard of him."
+b"Yeah. Him I've heard of."
+b"Ernie, two double-deckers at 12 o'clock."
+b"They're getting closer, Ernie."
+b"Ernie, they're right on top of us!"
+b'Mind your head.'
+b'Hey, guys? Guys?'
+b'Why the long faces?'
+b'Yeah, yeah. Nearly there. Nearly there.'
+b'The Leaky Cauldron.'
+b'Next stop, Knockturn Alley.'
+b'Mr. Potter, at last.'
+b'Take it away, Ern.'
+b'Yeah, take it away, Ernie!'
+b'Room 11.'
+b'Hedwig.'
+b'Right smart bird you got there, Mr. Potter.'
+b'He arrived here just five minutes before yourself.'
+b"As Minister for Magic, it is my duty to inform you, Mr. Potter earlier this evening your uncle's sister was located a little south of Sheffield, circling a chimney stack."
+b'The Accidental Magic Reversal Department was dispatched immediately.'
+b'She has been properly punctured and her memory modified.'
+b'She will have no recollection of the incident whatsoever.'
+b"So that's that and no harm done."
+b'Pea soup?'
+b'No, thank you. Minister?'
+b'Yes?'
+b"I don't understand."
+b'Understand?'
+b"I broke the law. Underage wizards can't use magic at home."
+b"Come now Harry. The Ministry doesn't send people to Azkaban for blowing up their aunts."
+b'On the other hand, running away like that, given the state of things was very, very irresponsible.'
+b'The state of things, sir?'
+b'We have a killer on the loose.'
+b'Sirius Black, you mean?'
+b"But what's he got to do with me?"
+b"Nothing, of course. You're safe."
+b"And that's what matters."
+b"And tomorrow you'll be on your way back to Hogwarts."
+b'These are your new schoolbooks.'
+b'I took the liberty of having them brought here.'
+b'Now Tom will show you to your room.'
+b'Hedwig.'
+b"Oh, by the way, Harry. Whilst you're here, it would be best if you didn't wander."
+b'Right! You gonna move that bus or what?'
+b"Housekeeping! I'll come back later."
+b"I'm warning you, Hermione."
+b"Keep that beast away from Scabbers, or I'll turn it into a tea cozy."
+b"It's a cat, Ronald."
+b'What do you expect?'
+b"It's in his nature."
+b'A cat? Is that what they told you?'
+b'Looks like a pig with hair.'
+b"That's rich coming from the owner of that smelly old shoe brush."
+b'Crookshanks, just ignore the mean little boy.'
+b'Harry.'
+b'Harry.'
+b"Egypt. What's it like?"
+b'Brilliant. Loads of old stuff like mummies, tombs, even Scabbers enjoyed himself.'
+b'Egyptians used to worship cats.'
+b'Along with the dung beetle.'
+b'Not flashing that clipping again?'
+b"I haven't shown anyone."
+b'No, not a soul.'
+b'Not unless you count Tom.'
+b'The day maid.'
+b'Night maid.'
+b'Cook.'
+b'The bloke who fixed the toilet.'
+b'Harry.'
+b'Mrs. Weasley.'
+b'Good to see you, dear.'
+b'Good to see you too.'
+b'Got everything?'
+b'Yes.'
+b'Yes? All your books?'
+b"It's all upstairs."
+b'All of your clothes?'
+b'Everything.'
+b'Good boy.'
+b'Thank you.'
+b'Harry Potter.'
+b'Mr. Weasley.'
+b'Harry, wonder if I might have a word?'
+b'Yeah, sure.'
+b'Hermione.'
+b'Good morning, Mr. Weasley.'
+b'Looking forward to a new term?'
+b'Yeah. It should be great.'
+b"Harry, some within the Ministry would strongly discourage me from divulging what I'm about to reveal to you."
+b'But I think that you need to know the facts.'
+b'You are in danger.'
+b'Grave danger.'
+b'Has this anything to do with Sirius Black, sir?'
+b'What do you know about Sirius Black, Harry?'
+b"Only that he's escaped from Azkaban."
+b'Do you know why?'
+b'Thirteen years ago, when you stopped...'
+b'Voldemort.'
+b"Don't say his name."
+b'Sorry.'
+b'When you stopped You-Know-Who Black lost everything.'
+b'But to this day, he still remains a faithful servant.'
+b'And in his mind you are the only thing that stands in the way of You-Know-Who returning to power.'
+b'And that is why he has escaped from Azkaban.'
+b'To find you.'
+b'And kill me.'
+b"Harry, swear to me that whatever you might hear you won't go looking for Black."
+b'Mr. Weasley why would I go looking for someone who wants to kill me?'
+b'Quick. Quick.'
+b'Ron, Ron!'
+b"Oh, for goodness' sake!"
+b"Don't lose him!"
+b"I didn't mean to blow her up. I just...I lost control."
+b'Brilliant.'
+b"Honestly, Ron, it's not funny."
+b'Harry was lucky not to be expelled.'
+b'I was lucky not to be arrested actually.'
+b'I still think it was brilliant.'
+b'Come on. Everywhere else is full'
+b'Who do you think that is?'
+b'Professor R.J. Lupin.'
+b'Do you know everything?'
+b'How is it she knows everything?'
+b"It's on his suitcase, Ronald."
+b'Oh.'
+b"Do you think he's really asleep?"
+b'Seems to be. Why?'
+b'I gotta tell you something.'
+b'Let me get this straight.'
+b'Sirius Black escaped from Azkaban to come after you?'
+b'Yeah.'
+b"But they'll catch Black, won't they?"
+b"I mean, everyone's looking for him."
+b'Sure.'
+b"Except no one's ever broken out of Azkaban before and he's a murderous, raving lunatic."
+b'Thanks, Ron.'
+b'Why are we stopping?'
+b"We can't be there yet."
+b"What's going on?"
+b"I don't know."
+b"Maybe we've broken down."
+b'Ouch, Ron. That was my foot.'
+b"There's something moving out there."
+b"I think someone's coming aboard."
+b"Bloody hell! What's happening?"
+b'Harry.'
+b'Harry, are you all right?'
+b'Thank you.'
+b"Here, eat this. It'll help."
+b"It's all right. It's chocolate."
+b'What was that thing that came?'
+b'It was a dementor. '
+b"One of the guards of Azkaban. It's gone now."
+b'It was searching the train for Sirius Black.'
+b"If you'll excuse me, I need to have a little word with the driver."
+b"Eat. You'll feel better."
+b'What happened to me?'
+b'Well, you sort of went rigid.'
+b'We thought maybe you were having a fit or something.'
+b'And did either of you two you know pass out?'
+b'No.'
+b'I felt weird, though.'
+b"Like I'd never be cheerful again."
+b'But someone was screaming.'
+b'A woman.'
+b'No one was screaming, Harry.'
+b'Welcome! Welcome to another year at Hogwarts.'
+b"Now, I'd like to say a few words before we all become too befuddled by our excellent feast."
+b"First, I'm pleased to welcome Professor R.J. Lupin who's kindly consented to fill the post of Defense Against the Dark Arts teacher."
+b'Good luck, professor.'
+b"Of course. That's why he knew to give you the chocolate, Harry."
+b'Potter. Is it true you fainted?'
+b'I mean, you actually fainted?'
+b'Shove off, Malfoy.'
+b'How did he find out?'
+b'Just forget it.'
+b'Our Care of Magical Creatures teacher has decided to retire in order to spend more time with his remaining limbs.'
+b"Fortunately, I'm delighted to announce that his place will be taken by none other than our own Rubeus Hagrid."
+b'Finally, on a more disquieting note at the request of the Ministry of Magic '
+b'Hogwarts will, until further notice, play host to the dementors of Azkaban until such a time as Sirius Black is captured.'
+b'The dementors will be stationed at every entrance to the grounds.'
+b"Now whilst I've been assured that their presence will not disrupt our day-to-day activities a word of caution."
+b'Dementors are vicious creatures.'
+b"They'll not distinguish between the one they hunt and the one who gets in their way."
+b'Therefore, I must warn each and every one of you to give them no reason to harm you.'
+b'It is not in the nature of a dementor to be forgiving.'
+b'But you know, happiness can be found even in the darkest of times if one only remembers to turn on the light.'
+b'Fortuna Major.'
+b'Here, listen.'
+b"She just won't let me in."
+b'Fortuna Major.'
+b'No, no. Wait, wait.'
+b'Watch this.'
+b'Amazing. Just with my voice.'
+b'Fortuna Major.'
+b'Yes, all right. Go in.'
+b'Thank you.'
+b'Still doing that after three years.'
+b"She can't even sing."
+b'Exactly.'
+b'Hey, man.'
+b'Hey, man.'
+b'Oh, God.'
+b"That's awful."
+b"Green. That's a monkey."
+b'What is that?'
+b'You call that a monkey?'
+b'Do not give him one again.'
+b'Hey, Neville, try an elephant.'
+b'Ron, catch.'
+b'I will.'
+b'I think we have a winner.'
+b"Oh, don't try one of them."
+b'Oh, no.'
+b'Look at him. His face.'
+b'Welcome, my children.'
+b'In this room, you shall explore the noble art of Divination.'
+b'In this room, you shall discover if you possess the Sight.'
+b'Hello. I am Professor Trelawney.'
+b'Together we shall cast ourselves into the future.'
+b"This term, we'll focus on Tasseomancy, the art of reading tea leaves."
+b'So please, take the cup of the person sitting opposite you.'
+b'What do you see?'
+b'The truth lies buried like a sentence deep within a book, waiting to be read.'
+b'But first, you must broaden your minds.'
+b'First, you must look beyond.'
+b'What a load of rubbish.'
+b'Where did you come from?'
+b'Me?'
+b"I've been here all this time."
+b'You, boy...'
+b'Is your grandmother quite well?'
+b'I think so.'
+b"I wouldn't be so sure of that."
+b'Give me the cup.'
+b'Pity.'
+b'Broaden your minds.'
+b'Your aura is pulsing, dear.'
+b'Are you in the beyond?'
+b'I think you are.'
+b'Sure.'
+b'Look at the cup.'
+b'Tell me what you see.'
+b'Yeah.'
+b"Harry's got sort of a wonky cross."
+b"That's trials and suffering."
+b"And that there could be the sun and that's happiness."
+b"So you're gonna suffer, but you're gonna be happy about it."
+b'Give me the cup.'
+b'Oh, my dear boy.'
+b'My dear you have the Grim.'
+b"The Grin? What's the Grin?"
+b'Not the Grin, you idiot. The Grim.'
+b'Taking form of a giant spectral dog.'
+b"It's among the darkest omens in our world."
+b'It\'s an omen of death."'
+b"You don't think that Grim thing's got anything to do with Sirius Black?"
+b"Oh, honestly, Ron. If you ask me, Divination's a woolly discipline."
+b"Now, Ancient Runes, that's a fascinating subject."
+b'Ancient Runes? Exactly how many classes are you taking?'
+b'A fair few.'
+b"Hang on. That's not possible."
+b'Ancient Runes is in the same time as Divination.'
+b'You have to be in two classes at once.'
+b"Don't be silly. How could anyone be in two classes at once?"
+b'Broaden your minds. Use your Inner Eye to see the future.'
+b"That's it. Come on, now. Come closer."
+b"Less talking, if you don't mind."
+b'I got a real treat for you today.'
+b'A great lesson. So follow me.'
+b'Right, you lot. Less chattering.'
+b'Form a group over there.'
+b'And open your books to page 49.'
+b'Exactly how do we do that?'
+b'Just stroke the spine, of course.'
+b'Goodness me.'
+b"Don't be such a wimp, Longbottom."
+b"I'm okay. Okay."
+b"I think they're funny."
+b'Oh, yeah. Terribly funny.'
+b'Witty. God, this place has gone to the dogs.'
+b"Wait until Father hears Dumbledore's got this oaf teaching classes."
+b'Shut up, Malfoy.'
+b'Dementor! Dementor!'
+b'Just ignore him.'
+b"You're supposed to stroke it."
+b'Yeah.'
+b"Tah- tah- tah- dah! Isn't he beautiful?"
+b'Say hello to Buckbeak.'
+b'Hagrid, exactly what is that?'
+b'That, Ron, is a hippogriff.'
+b"First thing you wanna know is they're very proud creatures."
+b'Very easily offended.'
+b'You do not want to insult a hippogriff.'
+b'It may be the last thing you ever do.'
+b"Now, who'd like to come and say hello?"
+b'Well done, Harry. Well done.'
+b'Come on now.'
+b'Now you have to let him make the first move. '
+b"It's only polite. So step up. Give him a nice bow."
+b'Then you wait and see if he bows back.'
+b'If he does, you can go and touch him.'
+b"If not... Well, we'll get to that later."
+b'Just make your bow.'
+b'Nice and low.'
+b'Back off, Harry. Back off.'
+b'Keep still. Keep still.'
+b'Well done, Harry. Well done.'
+b'Here, you big brute, you.'
+b'Right. I think you can go and pat him now.'
+b"Go on. Don't be shy."
+b'Nice and slow, now.'
+b'Nice and slow. Slow.'
+b'Not so fast, Harry.'
+b"Slow down, Harry. That's it..."
+b'Nice and slow.'
+b'Now let him come to you.'
+b'Slowly, now, slowly, slowly...'
+b"That's it\xc2\x85Yes!"
+b'Well done! Well done, Harry,'
+b'well done!'
+b'Does he get to fly?'
+b'I think he may let you ride him now.'
+b'What?'
+b'Come on.'
+b'Hey, hey, hey!'
+b'Put you over here, just behind the wing joint. '
+b"Don't pull out any of his feathers, because he won't thank you for that."
+b'Well done, Harry, and well done, Buckbeak.'
+b'That was wicked, Harry!'
+b'Oh, please.'
+b'Well done, well done.'
+b'How am I doing me first day?'
+b'Brilliant, professor.'
+b"You're not dangerous at all, are you, you great ugly brute!"
+b'Malfoy, no...'
+b'No!'
+b'Buckbeak!'
+b'Whoa, whoa, whoa...'
+b'Whoa! Buckbeak!'
+b'Away, you silly creature...'
+b"It's killed me!"
+b"Calm down. It's just a scratch!"
+b'Hagrid! He has to be taken to the hospital.'
+b"I'm the teacher. I'll do it."
+b"You're gonna regret this."
+b'Class dismissed!'
+b'You and your bloody chicken!'
+b'Does it hurt terribly, Draco?'
+b'It comes and it goes.'
+b'Still, I consider myself lucky.'
+b"Madam Pomfrey said another minute and I could've lost my arm."
+b"I can't do homework for weeks."
+b'Listen to the idiot.'
+b"He's really laying it on thick, isn't he?"
+b"At least Hagrid didn't get fired."
+b"I hear Draco's father's furious."
+b"We haven't heard the end of this."
+b"He's been sighted!"
+b'Who?'
+b'Sirius Black!'
+b"Dufftown? That's not far from here."
+b"You don't think he'd come to Hogwarts, do you?"
+b'With dementors at every entrance?'
+b'Dementors?'
+b'He slipped past them once.'
+b"Who's to say he won't do it again?"
+b"That's right. Black could be anywhere."
+b"It's like trying to catch smoke."
+b'Like trying to catch smoke with your bare hands.'
+b"Intriguing, isn't it?"
+b'Would anyone like to venture a guess as to what is inside?'
+b"That's a boggart, that is."
+b'Very good, Mr. Thomas.'
+b'Now, can anybody tell me what a boggart looks like?'
+b'No one knows.'
+b'When did she get here?'
+b'Boggarts are shape-shifters.'
+b'They take the shape of whatever a person fears the most.'
+b"That's what makes them so..."
+b'So terrifying, yes, yes, yes...'
+b'Luckily, a very simple charm exists to repel a boggart.'
+b"Let's practice it now."
+b'Without wands, please.'
+b'After me. Riddikulus!'
+b'Riddikulus!'
+b'Very good.'
+b'A little louder and very clear.'
+b'Listen: Riddikulus!'
+b'Riddikulus!'
+b'This class is ridiculous.'
+b'Very good.'
+b'So much for the easy part. '
+b'You see, the incantation alone is not enough.'
+b'What really finishes a boggart is laughter.'
+b'You need to force it to assume a shape you find truly amusing. '
+b'Let me explain. Neville, would you join me, please?'
+b"Come on, don't be shy. Come on."
+b'Come on.'
+b'Hello. Neville, what frightens you most of all?'
+b'Professor Snape.'
+b'Sorry?'
+b'Professor Snape.'
+b'Professor Snape. Yes, frightens all.'
+b'You live with your grandmother.'
+b"Yes. I don't want it to turn into her, either."
+b"No it won't. I want you to picture her clothes."
+b'Only her clothes, very clearly, in your mind.'
+b'She carries a red handbag...'
+b"We don't need to hear."
+b"As long as you see it, we'll see it."
+b"Now, when I open that wardrobe here's what I want you to do. Excuse me."
+b"Imagine Professor Snape in your grandmother's clothes."
+b'Can you do that?'
+b'Yes. Wand at the ready.'
+b'One, two, three.'
+b'Think, Neville, think.'
+b'Riddikulus!'
+b'Wonderful, Neville, wonderful!'
+b'Incredible! Okay to the back, Neville.'
+b'Everyone, form a line...'
+b'Form a line!'
+b'I want everyone to picture the thing they fear the very most and turn it into something funny.'
+b'Next! Ron!'
+b'Concentrate. Face your fear.'
+b'Be brave!'
+b'Wand at the ready, Ron.'
+b'Riddikulus!'
+b'Yes!'
+b'You see? Very good, very good!'
+b'Marvelous! Absolutely, very, very enjoyable! Parvati! Next!'
+b'Show us what you see.'
+b'Keep your nerve. Steady.'
+b'Riddikulus!'
+b'And next! Step up, step up!'
+b'Wonderful, wonderful! Here!'
+b'Riddikulus!'
+b'Right. Sorry about that.'
+b"That's enough for today."
+b'Collect your books from the back.'
+b"That's the end of the lesson."
+b'Thank you! Sorry!'
+b'Sorry, you can have too much of a good thing.'
+b'Remember, these visits to Hogsmeade village are a privilege.'
+b'Should your behavior reflect poorly on the school that privilege shall not be extended again.'
+b'No permission form signed, no visiting the village.'
+b"That's the rule, Potter."
+b'Those with permission, follow me.'
+b'Those without, stay put.'
+b'I thought if you signed it, then I could...'
+b"I can't. Only a parent or a guardian can sign."
+b'Since I am neither, it would be inappropriate.'
+b"I'm sorry, Potter."
+b"That's my final word."
+b'Forget about it, guys. See you later.'
+b'Professor, can I ask you something?'
+b'You want to know why I stopped you facing that boggart, yes?'
+b"I thought it'd be obvious."
+b'I assumed it would take the shape of Lord Voldemort.'
+b'I did think of Voldemort at first.'
+b'But then I remembered that night on the train and the dementor.'
+b"I'm very impressed."
+b'That suggests what you fear the most is fear itself.'
+b'This is very wise.'
+b'Before I fainted I heard something.'
+b'A woman screaming.'
+b'Dementors force us to relive our very worst memories.'
+b'Our pain becomes their power.'
+b'I think it was my mother the night she was murdered.'
+b'The very first time I saw you, Harry, I recognized you immediately.'
+b'Not by your scar, by your eyes.'
+b"They're your mother, Lily's."
+b'Yes. Oh, yes. I knew her.'
+b'Your mother was there for me at a time when no one else was.'
+b'Not only was she a singularly gifted witch she was also an uncommonly kind woman.'
+b'She had a way of seeing the beauty in others even, and most especially, when that person could not see it in themselves.'
+b'And your father, James, on the other hand he...'
+b'He had a certain, shall we say, talent for trouble.'
+b'A talent, rumor has it, he passed on to you.'
+b"You're more like them than you know, Harry."
+b"In time, you'll come to see just how much."
+b"Honeyduke's Sweetshop is brilliant, but nothing beats Zonko's Joke Shop."
+b'We never got to go to the Shrieking Shack.'
+b"You heard it's the most..."
+b'Haunted building in Britain. I know.'
+b"What's going on?"
+b'Probably Neville forgot the password again.'
+b'Hey.'
+b"Oh, you're there."
+b'Let me through, please.'
+b"Excuse me! I'm Head Boy!"
+b'Get back, all of you.'
+b"No one is to enter this dormitory until it's been searched."
+b"The Fat Lady! She's gone!"
+b'Serves her right.'
+b'She was a terrible singer.'
+b"It's not funny, Ron."
+b'Keep calm, everyone. Break into fours.'
+b'Back to your common room.'
+b'Be quiet. Make way.'
+b"The headmaster's here."
+b'Come on, move.'
+b'You heard. Move!'
+b'Mr. Filch? Round up the ghosts.'
+b'Tell them to search every painting in the castle to find the Fat Lady.'
+b"There's no need for ghosts, professor."
+b"The Fat Lady's there."
+b"Mind where you're going! Slow down!"
+b"You listen! I'm Head Boy!"
+b'Come back here!'
+b'Keep moving!'
+b'Dear lady, who did this to you?'
+b"Eyes like the devil, he's got, and a soul as dark as his name."
+b"It's him, headmaster."
+b'The one they all talk about.'
+b"He's here, somewhere in the castle!"
+b'Sirius Black!'
+b'Secure the castle, Mr. Filch.'
+b'The rest of you, to the Great Hall.'
+b"I've searched the Astronomy Tower and the Owlery. "
+b"There's nothing there."
+b'Thank you.'
+b"The third floor's clear too, sir."
+b'Very good.'
+b"I've done the dungeons."
+b'No sign of Black, nor anywhere else in the castle.'
+b"I didn't really expect him to linger."
+b"Remarkable feat, don't you think?"
+b"To enter Hogwarts Castle on one's own completely undetected?"
+b'Quite remarkable, yes.'
+b'Any theories on how he managed it?'
+b'Many. Each as unlikely as the next.'
+b'You may recall prior to the start of term I expressed concerns about your appointment of Professor...'
+b'Not a single professor inside this castle would help Sirius Black enter it.'
+b"I'm quite convinced the castle is safe and I'm more than willing to send the students to their houses."
+b'What about Potter?'
+b'Should he be warned?'
+b'Perhaps. But for now, let him sleep.'
+b"For in dreams, we enter a world that's entirely our own."
+b'Let them swim in the deepest ocean or glide over the highest cloud.'
+b'Turn to page 394.'
+b'Excuse me, sir.'
+b"Where's Professor Lupin?"
+b"That's not really your concern, is it, Potter?"
+b'Suffice it to say your professor finds himself incapable of teaching at the present time.'
+b'Turn to page 394.'
+b'Werewolves?'
+b'Sir, we just learned about red caps and hinkypunks.'
+b"We're not meant to start that for weeks."
+b'Quiet.'
+b'When did she come in?'
+b'Did you see her come in?'
+b'Now, which one of you can tell me the difference between an Animagus and a werewolf?'
+b'No one?'
+b'How disappointing.'
+b'Please, sir.'
+b'An Animagus is a wizard who elects to turn into an animal.'
+b'A werewolf has no choice.'
+b'With each full moon he no longer remembers who he is.'
+b"He'd kill his best friend."
+b'Furthermore, The werewolf only responds to the call of its own kind.'
+b'Thank you, Mr. Malfoy.'
+b"That's the second time you've spoken out of turn, Miss Granger."
+b'Are you incapable of restraining yourself or do you take pride in being an insufferable know-it-all?'
+b"He's got a point, you know."
+b'Five points from Gryffindor.'
+b'As an antidote to your ignorance, and on my desk, by Monday morning two rolls of parchment on the werewolf, with emphasis on recognizing it.'
+b"It's Quidditch tomorrow."
+b'Then I suggest you take extra care, Mr. Potter.'
+b'Loss of limb will not excuse you.'
+b'Page 394.'
+b'The term "werewolf" is a contraction of the Anglo-Saxon word "were" which means "man," and "wolf." Werewolf, man-wolf.'
+b'There are several ways to become a werewolf.'
+b'They include being given the power of shape-shifting being bitten by a werewolf...'
+b'Go Go Gryffindor!!'
+b'Go, Harry! Go, Harry!'
+b'Aresto momentum!'
+b"He looks a bit peaky, doesn't he?"
+b'Peaky?'
+b'What do you expect?'
+b'He fell over 100 feet.'
+b"Let's walk you off a tower and see what you look like."
+b'Probably a right sight better than he normally does.'
+b'How are you feeling?'
+b'Oh, brilliant.'
+b'You gave us a right good scare.'
+b'What happened?'
+b'Well, you fell off your broom.'
+b'Really? I meant the match. Who won?'
+b'No one blames you, Harry.'
+b"Dementors aren't supposed to be on the grounds. Dumbledore's furious."
+b'After he saved you, he sent them off.'
+b"There's something else you should know too."
+b'When you fell, your broom sort of blew into the Whomping Willow, and...Well...'
+b"I'm sorry to hear about your broomstick."
+b'Is there no chance of fixing it?'
+b'No.'
+b'Professor, why do the dementors affect me so?'
+b'I mean, more than everyone else?'
+b'Listen.'
+b'Dementors are the foulest creatures to walk this earth.'
+b'They feed on every good feeling, every happy memory until a person is left with absolutely nothing but his worst experiences.'
+b'You are not weak, Harry.'
+b'Dementors affect you most because there are true horrors in your past.'
+b'Horrors your classmates can scarcely imagine.'
+b'You have nothing to be ashamed of.'
+b"I'm scared, professor."
+b"Well, I'd consider you a fool if you weren't."
+b'I need to know how to fight them.'
+b'You could teach me.'
+b'You made the one on the train go away.'
+b'There was only one that night.'
+b'But you made it go away.'
+b"I don't pretend to be an expert, Harry."
+b'But as the dementors seem to have developed an interest in you perhaps I should teach you.'
+b'But after the holidays.'
+b'For now, I need to rest.'
+b'Last call for Hogsmeade!'
+b'Come on, now!'
+b'Guys, let me go.'
+b'Clever, Harry.'
+b'But not clever enough.'
+b"We've got a better way."
+b"I'm trying to get to Hogsmeade."
+b'We know.'
+b"We'll get you there."
+b"We'll show you a quicker way."
+b'If you pipe down.'
+b'Bless him.'
+b"Let me go! Come on, guys. Don't..."
+b'Now, Harry.'
+b'Come and join the big boys.'
+b'What are you doing?!'
+b"What's this rubbish?"
+b"What's this rubbish? he says."
+b"It's the secret to our success."
+b"It's a wrench giving it to you..."
+b"But we've decided your needs are greater than ours."
+b'George, if you will.'
+b'I solemnly swear that I am up to no good.'
+b"Messrs. Moony, Wormtail, Padfoot and Prongs are proud to present the Marauder's Map."
+b'We owe them so much.'
+b'Hang on. This is Hogwarts. And that\xc2\x85'
+b'No. Is that really...?'
+b'Dumbledore.'
+b'In his study.'
+b'Pacing.'
+b'Does that a lot.'
+b'So you mean this map shows...'
+b'Everyone.'
+b'Everyone?'
+b'Where they are.'
+b"What they're doing."
+b'Every minute.'
+b'Every day.'
+b'Brilliant! Where did you get it?'
+b"From Filch's office."
+b'First year.'
+b'There are seven secret passageways out of the castle.'
+b"We'd recommend this one."
+b'The One-Eyed Witch passageway.'
+b"Leads straight you to Honeyduke's."
+b'Hurry. Filch is heading this way.'
+b"Oh Harry and don't forget. When you're done, just give it a tap and say:"
+b'Mischief managed.'
+b'Otherwise, anyone can read it.'
+b'Now, how much do you want?'
+b'Delicious.'
+b"It's meant to be the most haunted building in Britain. Did I mention that?"
+b'Twice.'
+b'Do you want to move a bit closer?'
+b'To the Shrieking Shack?'
+b"Actually, I'm fine here."
+b"Well, well. Look who's here."
+b'You two shopping for your new dream home?'
+b"Bit grand for you, isn't it, Weasle-Bee?"
+b"Don't your family sleep in one room?"
+b'Shut your mouth, Malfoy.'
+b'Not very friendly.'
+b"Boys, I think it's time we teach Weasle-Bee how to respect his superiors."
+b"Hope you don't mean yourself."
+b'How dare you talk to me!'
+b'You filthy little mudblood!'
+b'Who is that?'
+b"Don't stand there! Do something!"
+b'What?'
+b"What's up, Malfoy? Lost your skis?"
+b'Get out of the way!'
+b'Move!'
+b'Malfoy! Wait! Wait!'
+b'Harry!'
+b'Bloody hell, Harry.'
+b'That was not funny.'
+b"Those weasels! Never told me about any Marauder's Map."
+b"He won't keep it. He'll turn it over to Professor McGonagall. Aren't you?"
+b'Sure. Along with his Invisibility Cloak.'
+b'Look who it is. Madam Rosmerta.'
+b'Ron fancies her.'
+b"That's not true!"
+b'Professor McGonagall!'
+b'Cornelius!'
+b'Allow me, minister.'
+b'Oh, Hagrid...'
+b'Sorry about that.'
+b'Rosmerta, my dear.'
+b'I hope business is good.'
+b"It'd be a lot better if the Ministry wasn't sending dementors into my pub every other night!"
+b'We have...We have a killer on the loose.'
+b'Sirius Black in Hogsmeade!'
+b'And what would bring him here?'
+b'Harry Potter.'
+b'Harry Potter?'
+b'Shh! Come.'
+b'Harry!'
+b'No underage wizards allowed in today!'
+b'Shut the damn door!'
+b'So rude.'
+b'Thick heads.'
+b'Thick heads?!'
+b'How dare they!'
+b'Who are they calling thick heads?'
+b'Young whippersnappers!'
+b"Nobody will come to a pub where they'll get scared out of their wits."
+b"Professor Dumbledore doesn't want dementors around the place."
+b'Tell me what this is all about.'
+b"Years ago, when Harry Potter's parents realized they were marked for death..."
+b'Remember? They hid.'
+b'Few knew where they were.'
+b'One who did was Sirius Black.'
+b'And he told You-Know-Who.'
+b'Not only did Black lead him to the Potters that night he also killed one of their friends Peter Pettigrew!'
+b'Peter Pettigrew?'
+b'Little lump of a boy.'
+b'Always trailing after Black.'
+b'I remember.'
+b'Never let James and Sirius out of his sight.'
+b'What happened?'
+b'Peter tried to warn the Potters and might have, had he not run into an old friend, Sirius Black.'
+b'Black was vicious.'
+b"He didn't kill Pettigrew. He destroyed him!"
+b"A finger. That's all that was left."
+b'A finger. Nothing else.'
+b"Yes, Sirius Black may not have put his hands to the Potters but he's the reason they're dead."
+b'And now he wants to finish what he started.'
+b"I don't believe it."
+b"That's not the worst of it."
+b'What could be worse?'
+b"This: Sirius Black was and remains to this day Harry Potter's godfather!"
+b'Ron, look!'
+b'Sorry. Sorry. Excuse me, excuse me.'
+b'Merry Christmas.'
+b'Harry, what happened?'
+b'He was their friend and he betrayed them.'
+b'He was their friend!'
+b'I hope he finds me.'
+b"Because when he does, I'm gonna be ready!"
+b"When he does, I'm gonna kill him!"
+b'Harry. There you are. You came.'
+b'Are you sure about this, Harry?'
+b'This is very advanced magic well beyond the Ordinary Wizarding Level.'
+b"I'm sure."
+b"Well, everything's prepared."
+b"The spell I'm going to try yo teach you is called the Patronus Charm."
+b'Did you ever hear of it?'
+b'No? Well...A Patronus is a positive force.'
+b'For the wizard who conjures one it works like a shield, with the dementor feeding on it rather than him.'
+b'But in order for it to work, you need to think of a memory.'
+b'Not just any memory, a very happy memory, a very powerful memory.'
+b'Can you do this?'
+b'Yes.'
+b'Very well. Close your eyes.'
+b'Concentrate.'
+b'Explore your past.'
+b'Do you have a memory?'
+b'Allow it to fill you up.'
+b'Lose yourself within it.'
+b'Then speak the incantation, Expecto Patronum.'
+b'Expecto Patronum.'
+b'Very good.'
+b'Shall we? Wand at the ready.'
+b'Expecto Patronum!'
+b'Expecto... Expecto...Expect...'
+b'Here we go. Come on.'
+b'Sit up. Deep breaths.'
+b"It's all right. I didn't expect you to do it the first time."
+b'That would have been remarkable.'
+b"Here, eat this. You'll feel better."
+b"That's one nasty dementor."
+b'Oh, no, no, no.'
+b'That was a boggart, Harry. A boggart.'
+b'The real thing would be worse.'
+b'Much, much worse.'
+b'As a matter of interest, what were you thinking?'
+b'Which memory did you choose?'
+b'The first time I rode a broom.'
+b"That's not good enough."
+b'Not nearly good enough.'
+b"There's another."
+b"It's not happy, exactly."
+b'Well, it is.'
+b"It's the happiest I've ever felt but it's complicated."
+b'Is it strong?'
+b"Then let's give it a try. You feel ready?"
+b'Just do it.'
+b'Expecto Patronum!'
+b'Expecto Patronum!'
+b'Yes! Well done, Harry. Well done!'
+b"I think I've had enough for today."
+b'Yes. Sit down. Here.'
+b'Eat this, it helps. It really helps.'
+b"And just so you know, Harry I think you'd have given your father a run for his money."
+b'And that is saying something.'
+b'I was thinking of him. And Mum.'
+b'Seeing their faces.'
+b'They were talking to me.'
+b'Just talking.'
+b"That's the memory I chose."
+b"I don't even know if it's real."
+b"But it's the best I have."
+b'Beautiful day.'
+b'Gorgeous.'
+b"Unless you've been ripped to pieces!"
+b'Ripped to pieces?'
+b'What are you talking about?'
+b'Ronald has lost his rat.'
+b"I haven't lost anything!"
+b'Your cat killed him!'
+b'Rubbish.'
+b"Harry, you've seen the way that bloodthirsty beast of hers is always lurking about."
+b'And Scabbers is gone.'
+b'Well, maybe you should learn to take better care of your pets!'
+b'Your cat killed him!'
+b'Did not.'
+b'Did.'
+b"Didn't."
+b'How did it go, Hagrid? The hearing?'
+b'Well, first off, the committee members took turns talking about why we were there.'
+b'I got up and did my piece.'
+b'Said how Buckbeak was a good hippogriff, always cleaned his feathers.'
+b'And then Lucius Malfoy got up.'
+b'Well, you can imagine.'
+b'He said Buckbeak was a deadly and dangerous creature who would kill you as soon as look at you.'
+b'And then?'
+b'And then he asked for the worst, did old Lucius.'
+b"They're not sacking you!"
+b"No, I'm not sacked."
+b"Buckbeak's been sentenced to death!"
+b"Spiders! There's... There's spiders."
+b'Spiders. They want me to tap-dance.'
+b"I don't wanna tap-dance!"
+b'Tell those spiders.'
+b"Right, yeah. Tell them. I'll tell them..."
+b'Peter Pettigrew?'
+b'Little lump of a boy.'
+b'Always trailing after Sirius Black.'
+b'Black was vicious.'
+b"He didn 't kill Pettigrew, he destroyed him!"
+b'Put that light out!'
+b'Sorry.'
+b'Watch it there, boy.'
+b"We're trying to sleep here!"
+b'Mischief managed. Nox.'
+b'Potter.'
+b'What are you doing wandering the corridors at night?'
+b'I was sleepwalking.'
+b'How extraordinarily like your father you are, Potter.'
+b'He, too, was exceedingly arrogant, strutting about the castle.'
+b"My dad didn't strut. And nor do I."
+b"If you don't mind, I would appreciate it if you could lower your wand."
+b'Turn out your pockets.'
+b'Turn out your pockets!'
+b"What's this?"
+b'Spare bit of parchment.'
+b'Really? Open it.'
+b'Reveal your secrets.'
+b'Read it.'
+b'Messrs. Moony, Wormtail, Padfoot, and Prongs offer their compliments to Professor Snape and...'
+b'Go on.'
+b"And request he keep his large nose out of other people's business."
+b'You insolent little...'
+b'Professor!'
+b'Well, well. Lupin.'
+b'Out for a little walk in the moonlight, are we?'
+b'Harry, are you all right?'
+b'That remains to be seen.'
+b'I have now just confiscated a rather curious artifact.'
+b'Take a look, Lupin.'
+b'Supposed to be your area of expertise.'
+b"Clearly, it's full of dark magic."
+b'I seriously doubt it, Severus.'
+b"It looks as though it's a parchment designed to insult anyone who tries to read it."
+b"I suspect it's a Zonko product."
+b'Nevertheless, I shall investigate any hidden qualities it may possess.'
+b'It is, after all, as you say, my area of expertise.'
+b'Harry, would you come with me, please? Professor, good night.'
+b'Are you deaf? Put that light out!'
+b'Come in.'
+b"I haven't the faintest idea how this map came to be in your possession but quite frankly, I am astounded that you didn't hand it in."
+b'Did it never occur to you that this, in the hands of Sirius Black is a map to you?'
+b'No.'
+b'No, sir.'
+b'Your father never set much store by the rules either.'
+b'But he and your mother gave their lives to save yours.'
+b'Gambling their sacrifice by wandering the castle unprotected with a killer on the loose seems to me a poor way to repay them!'
+b'Now, I will not cover up for you again.'
+b'Do you hear me?'
+b'Yes, sir.'
+b'I want you to return to your dormitory and stay there.'
+b"And don't take any detours."
+b'If you do, I shall know.'
+b"Professor, just so you know, I don't think that map always works."
+b'Earlier, it showed someone in the castle.'
+b'Someone I know to be dead.'
+b'Oh, really? And who might that be?'
+b'Peter Pettigrew.'
+b"That's not possible."
+b"It's just what I saw."
+b'Good night, professor.'
+b'Broaden your minds.'
+b'You must look beyond.'
+b'The art of crystal gazing is in the clearing of the Inner Eye.'
+b'Only then can you see. Try again.'
+b'Now, what do we have here?'
+b'Do you mind me trying?'
+b'The Grim, possibly.'
+b'My dear, from the first moment you stepped foot in my class I sensed that you did not possess the proper spirit for the noble art of Divination.'
+b'No, you see, there.'
+b"You may be young in years, but your heart is as shriveled as an old maid's, your soul as dry as the pages of the books to which you so desperately cleave."
+b'Have I said something?'
+b"She's gone mental, Hermione has."
+b"I mean, not that she wasn't always mental but now it's in the open for everyone to see."
+b'Hang on.'
+b'We better take this back.'
+b"I'm not going back."
+b'Fine. See you later.'
+b'See you.'
+b'Harry Potter'
+b'Professor Trelawney...'
+b'He will return tonight.'
+b'Sorry?'
+b'Tonight, he who betrayed his friends, whose heart rots with murder shall break free.'
+b'Innocent blood shall be spilt and servant and master shall be reunited once more.'
+b"I'm so sorry, dear boy."
+b'Did you say something?'
+b'No. Nothing.'
+b"I can't believe they're going to kill Buckbeak. It's just too horrible."
+b'It just got worse.'
+b"What did I say? Father said I can keep the hippogriff's head."
+b"I'll donate it to the Gryffindors' room."
+b'This is going to be rich.'
+b"Look who's here."
+b'Come to see the show?'
+b'You! You foul, loathsome, evil little cockroach!'
+b'Hermione, no!'
+b"He's not worth it."
+b'Malfoy, are you okay?'
+b"Let's go. Quick."
+b'Not a word to anyone, understood?'
+b'That felt good.'
+b'Not good, brilliant.'
+b'Look at him. Loves the smell of the trees when the wind blows through them.'
+b"Why don't we just set him free?"
+b"They'd know it was me, and then Dumbledore would get into trouble."
+b"He's coming down, Dumbledore."
+b'Says he wants to be with me when they...When it happens.'
+b'Great man, Dumbledore.'
+b'A great man.'
+b"We'll stay with you too."
+b"You'll do no such thing!"
+b'Think I want you seeing something like that? No.'
+b'You just drink your tea and be off.'
+b'Oh. Before you do, Ron...'
+b"Scabbers! You're alive!"
+b'Keep a closer eye on your pet.'
+b'I think you owe someone an apology.'
+b"Right. Next time I see Crookshanks, I'll let him know."
+b'I meant me!'
+b'Blimey. What was that?'
+b'Hagrid!'
+b'Oh, crikey.'
+b'No, minister. Over this way.'
+b"It's late. It's nearly dark."
+b"You shouldn't be here."
+b"Someone sees you outside this time of night, you'll be in trouble."
+b'Particularly you, Harry.'
+b'With you in a moment!'
+b'Quick. Quick!'
+b'Hagrid.'
+b"It'll be fine. It'll be okay."
+b'Go on, go on!'
+b"That's ling you see over there..."
+b'On the slope.'
+b'On the slope... Ah, Hagrid.'
+b'Professor Dumbledore.'
+b'Good evening.'
+b'Minister. Make your way through.'
+b'Have a tea, if you like.'
+b'No, Hagrid.'
+b'Gentlemen.'
+b"I'd like a cup of tea."
+b'Well, I think we should get down to our business, shall we?'
+b'Very well. It is the decision of the Committee for the Disposal of Dangerous Creatures that the hippogriff Buckbeak here in after called "the condemned," shall be executed this day at sundown.'
+b'Dear, dear...'
+b'Now, now, Hagrid. Now, come on.'
+b"All right. It'll be all right."
+b'The execution shall dispatch...'
+b'What?'
+b'I thought I just saw...Never mind.'
+b"Let's go!"
+b"Buckbeak didn't mean no harm."
+b'Oh, no.'
+b'He bit me. Scabbers.'
+b'Ron. Ron!'
+b'Ron!'
+b'Scabbers, come back.'
+b'Wait!'
+b'Scabbers, you bit me!'
+b'Harry, you do realize what tree this is?'
+b"That's not good. Ron, run!"
+b'Harry, Hermione, run!'
+b"It's the Grim!"
+b'Ah! Harry!'
+b'Ron! Ron, wait!'
+b'Harry!Help!'
+b'Ron!!'
+b'Ron!'
+b'Ron. Ron.'
+b'Ron!'
+b'Come on!'
+b'Move!'
+b'Duck!'
+b'Harry!'
+b"Oh, I'm sorry."
+b"Don't worry."
+b'Where do you suppose this goes?'
+b'I have a hunch.'
+b"I just hope I'm wrong."
+b"We're in the Shrieking Shack, aren't we?"
+b'Come on.'
+b'Ron.'
+b"Ron. You're okay."
+b'The dog. Where is it?'
+b"It's a trap. He's the dog."
+b"He's an Animagus."
+b'If you want to kill Harry, you have to kill us too!'
+b'No. Only one will die tonight.'
+b"Then it'll be you!"
+b'Are you going to kill me, Harry?'
+b'Expelliarmus!'
+b'Well, well, Sirius.'
+b"Looking rather ragged, aren't we?"
+b'Finally, the flesh reflects the madness within.'
+b"Well, you'd know all about the madness within, wouldn't you Remus?"
+b'I found him.'
+b'I know.'
+b"It's him."
+b'I understand.'
+b"Let's kill him!"
+b'No! I trusted you!'
+b"And all this time, you've been his friend."
+b"He's a werewolf!"
+b"That's why he's been missing classes."
+b'How long have you known?'
+b'Since Professor Snape set the essay.'
+b'Well, Hermione.'
+b"You are the brightest witch of your age I've ever met."
+b'Enough talk, Remus!'
+b"Come on, let's kill him!"
+b'Wait!'
+b'I did my waiting!'
+b'Twelve years of it! In Azkaban!'
+b'Very well. Kill him.'
+b'But wait one more minute.'
+b'Harry has the right to know why.'
+b'I know why.'
+b'You betrayed my parents.'
+b"You're the reason they're dead!"
+b"No, it wasn't him."
+b'Somebody did betray your parents somebody who, until quite recently, I believed to be dead!'
+b'Who was it, then?'
+b'Peter Pettigrew!'
+b"And he's in this room! Right now!"
+b'Come out, come out, Peter!'
+b'Come out, come out and play!'
+b'Expelliarmus!'
+b'Vengeance is sweet.'
+b"How I hoped I'd be the one to catch you."
+b'Severus...'
+b"I told Dumbledore you were helping a friend into the castle. Here's the proof."
+b'Brilliant, Snape.'
+b"Once again you've put your keen mind to the task and come to the wrong conclusion."
+b"If you'll excuse us, Remus and I have business to attend to."
+b'Give me a reason. I beg you!'
+b"Severus don't be a fool."
+b"He can't help it. It's habit."
+b'Sirius be quiet.'
+b'Be quiet yourself!'
+b'You two, quarrelling like an old married couple.'
+b"Why don't you run along and play with your chemistry set!"
+b'I could do it, you know.'
+b'But why deny the dementors?'
+b"They're so longing to see you."
+b'Do I detect a flicker of fear?'
+b"Oh, yes. A Dementor's Kiss. One can only imagine what that must be like."
+b"It's said to be nearly unbearable to witness, but I'll do my best."
+b'Severus, please.'
+b'After you.'
+b'Expelliarmus!'
+b'Harry! What did you just do?'
+b'You attacked a teacher!'
+b'Tell me about Peter.'
+b'He was at school with us.'
+b'We thought he was our friend!'
+b"No. Pettigrew's dead. You killed him!"
+b"No, he didn't."
+b'I thought so too, until you mentioned Pettigrew on the map!'
+b'The map was lying, then.'
+b'The map never lies!'
+b"Pettigrew's alive!"
+b"And he's right there!"
+b"Me?! He's mental!"
+b'Not you! Your rat!'
+b'Scabbers has been in my family for...'
+b'Twelve years?'
+b'Curiously long life for a common garden rat!'
+b"He's missing a toe, isn't he?"
+b'So what?'
+b'All they could find of Pettigrew was his...'
+b'Finger!'
+b'Dirty coward cut it off so everyone would think he was dead!'
+b'And then he transformed into a rat!'
+b'Show me.'
+b'Give it to him, Ron.'
+b'What are you trying to do to him?'
+b'Scabbers!'
+b'Leave him alone! Get off him!'
+b'What are you doing?'
+b'Remus? Sirius. My old friends!'
+b'Harry! Look at you.'
+b'You look so much like your father.'
+b'James. We were the best of friends...'
+b'How dare you speak to Harry!'
+b'How dare you talk about James in front of him!'
+b'You sold James and Lily to Voldemort!'
+b"I didn't mean to!"
+b'The Dark Lord. You have no idea the weapons he possesses!'
+b'Ask yourself, Sirius!'
+b'What would you have done?'
+b'What would you have done?'
+b"I'm gonna died, I'm gonna die rather than betray my friends!"
+b"James wouldn't have wanted me killed!"
+b'Your dad would have spared me!'
+b'He would have shown me mercy!'
+b"Should have realized if Voldemort didn't kill you, we would. Together!"
+b'No!'
+b'Harry, this man...'
+b'I know what he is.'
+b"But we'll take him to the castle."
+b'Bless you, boy. Bless you!'
+b'Get off!'
+b"I said we'd take you to the castle."
+b'After that, the dementors can have you.'
+b'Sorry about the bite.'
+b'I reckon that twinges a bit.'
+b'A bit? A bit?'
+b'You almost tore my leg off!'
+b'I was going for the rat.'
+b'Normally, I have a very sweet disposition as a dog.'
+b'More than once, James suggested that I make the change permanent.'
+b'The tail I could live with.'
+b"But the fleas, they're murder."
+b'Okay.'
+b'You better go.'
+b"No. Don't worry, okay?"
+b"It's fine. I'll stay."
+b"You go, I'll stay."
+b'You okay?'
+b"I'm fine. Go."
+b'That looks really painful.'
+b'So painful.'
+b'They might chop it.'
+b"I'm sure Madam Pomfrey will fix it in a heartbeat."
+b"It's too late. It's ruined."
+b"It'll have to be chopped off."
+b"It's beautiful, isn't it?"
+b"I'll never forget the first time I walked through those doors."
+b"It'll be nice to do it again as a free man."
+b'That was a noble thing you did back there.'
+b"He doesn't deserve it."
+b"I didn't think my dad would have wanted his best friends to become killers."
+b'Besides, dead, the truth dies with him.'
+b"Alive, you're free."
+b'Turn me into a flobberworm.'
+b'Anything but the dementors!'
+b"Ron! Haven't I been a good pet?"
+b"You won't let them give me to the dementors, will you?"
+b'I was your rat!'
+b"Sweet, clever girl! Surely you won't..."
+b'Get away from her!'
+b"I don't know if you know, Harry but when you were born, James and Lily made me your godfather."
+b'I know.'
+b'I can understand if you choose to stay with your aunt and uncle but if you ever wanted a different home...'
+b'What? Come and live with you?'
+b"It's just a thought."
+b"I can understand if you don't want to."
+b'Harry!'
+b'Remus, my old friend.'
+b'Have you taken your potion tonight?'
+b'You know the man you truly are, Remus!'
+b'This heart is where you truly live! Here!'
+b'This flesh is only flesh!'
+b'Expelliarmus!'
+b'Harry!'
+b'Remus! Remus!'
+b'Run! Run!'
+b'Come on.'
+b'Wait. Wait.'
+b'Hermione! Bad idea. Bad idea.'
+b'Professor? Professor Lupin?'
+b'Nice doggy. Nice doggy!'
+b'There you are, Potter!'
+b'Sirius!'
+b'Come back here, Potter!'
+b'Sirius!'
+b'No. Sirius!'
+b'Expecto Patronum!'
+b'Harry?'
+b'I saw my dad.'
+b'What?'
+b'He sent the dementors away.'
+b'I saw him across the lake.'
+b"Listen Harry, they've captured Sirius."
+b'Any minute the dementors are gonna perform the Kiss.'
+b"They're gonna kill him?"
+b"No. It's worse."
+b'Much worse.'
+b"They're going to suck out his soul."
+b"Headmaster, you've got to stop them."
+b"They've got the wrong man."
+b"It's true sir. Sirius is innocent."
+b"It's Scabbers who did it."
+b'Scabbers?'
+b"He's my rat, sir."
+b"He's not really a rat. He was a rat."
+b"He was my brother Percy's rat."
+b'But then they gave him an owl...'
+b'The point is, we know the truth.'
+b'Please believe us.'
+b'I do, Miss Granger.'
+b'But the word of three 13-year-old wizards will convince few others.'
+b"A child's voice, however honest and true is meaningless to those who have forgotten how to listen."
+b'Mysterious thing, time.'
+b'Powerful and when meddled with, dangerous.'
+b'Sirius Black is in the topmost cell of the Dark Tower.'
+b'You know the laws, Miss Granger'
+b'You must not be seen.'
+b'And you would do well, I feel, to return before this last chime.'
+b'If not, the consequences are too ghastly to discuss.'
+b'If you succeed tonight more than one innocent life may be spared.'
+b'Three turns should do it, I think.'
+b'Oh, and by the way.'
+b'When in doubt, I find retracing my steps to be a wise place to begin.'
+b'Good luck.'
+b'What the bloody hell was that all about?'
+b"Sorry, Ron, but seeing as you can't walk..."
+b'What just happened?'
+b"Where's Ron?"
+b'07:30. Where were we at 7:30?'
+b"I don't know. Going to Hagrid's?"
+b"Come on. And we can't be seen."
+b'Hermione!'
+b'Hermione! Hermione, wait.'
+b"Hermione, will you please tell me what it is we're doing?"
+b'Come to see the show?'
+b'You! You foul, loathsome,evil little cockroach!'
+b"That's us."
+b"Hermione, no! He's not worth it."
+b'This is not normal.'
+b'This is a Time-Turner, Harry.'
+b'McGonagall gave it to me first term.'
+b"This is how I've been getting to my lessons all year."
+b"You mean we've gone back in time?"
+b'Yes.'
+b'Dumbledore obviously wanted us to return to this moment.'
+b'Clearly, something happened he wants us to change.'
+b'Good punch.'
+b'Thanks.'
+b"Malfoy's coming."
+b'Run.'
+b'Not a word to anyone, understood?'
+b"I'm gonna get that jumped-up mudblood! Mark my words."
+b'That felt good.'
+b'Not good, brilliant.'
+b"Come on. We should be at Hagrid's."
+b"Look. Buckbeak's still alive."
+b'Of course.'
+b'Remember what Dumbledore said?'
+b'If we succeed, more than one innocent life could be spared.'
+b"Let's go."
+b"Here they come. I'd better hurry."
+b'Fudge has to see Buckbeak before we steal him.'
+b"Otherwise, he'll think Hagrid set him free."
+b"Scabbers, you're alive!"
+b'Keep a closer eye on your pet.'
+b"That's Pettigrew."
+b"Harry, you can't."
+b"Hermione that's the he betrayed my parents."
+b"You don't expect me to sit here."
+b'Yes, and you must!'
+b"Harry, you're in Hagrid's hut now."
+b"If you go bursting in, you'll think you've gone mad."
+b'Awful things happen to wizards who meddle with time Harry.'
+b"We can't be seen."
+b'Fudge is coming.'
+b"And we aren't leaving?"
+b"Why aren't we leaving?"
+b'Are you mad?'
+b'That hurt.'
+b'Sorry.'
+b"We're coming out the back door. Go!"
+b'Is that really what my hair looks like from the back?'
+b'What?'
+b'I thought I just saw\xc2\x85 Never mind.'
+b"Let's go."
+b'Okay, go, Harry. Go!'
+b'Get away. Get off.'
+b'Minister, I really think I should sign as well.'
+b'Yes, very well. Perhaps it would be...'
+b'Okay, Buckbeak. Come quickly. '
+b'Come with us now. Come on.'
+b'Keep trying. Come on. Quickly.'
+b'Buckbeak. Okay?'
+b'Quickly. Hurry up. Okay?'
+b'Your name only.'
+b"It's such a very long name..."
+b'Hurry up now, Buckbeak, okay?'
+b'Come on. Come on, Buckbeak.'
+b'Come and get the nice dead ferret.'
+b"Come on. It's here. Come on, Beaky."
+b'Here we are, minister. Follow me.'
+b'Now, look there.'
+b'Where?'
+b'Look beyond the rocks.'
+b'What am I supposed to see?'
+b'Professor Dippet had that ling planted when he was headmaster.'
+b'Oh, yes. Indeed, indeed.'
+b'And all the strawberries.'
+b'Come on, Buckbeak. Come on.'
+b'I see no strawberries.'
+b'Over there.'
+b'Where?'
+b'Over there.'
+b'This way.'
+b"Let's get this over, please."
+b'All right.'
+b'But where is it?'
+b'I saw the beast, just now.'
+b'Not a moment ago!'
+b'How extraordinary.'
+b'Buckbeak.'
+b'Come now, Dumbledore.'
+b"Someone's obviously released him."
+b'Hagrid?'
+b'Buckbeak.'
+b"I don't think the minister's suggesting you had anything to do with this."
+b'Afterall, How could you?'
+b"You've been with us all the time."
+b'Right.'
+b'Well, well.'
+b'We must search the grounds.'
+b'Well, search the skies, if you must, minister.'
+b"Meanwhile, I'd like a nice cup of tea or a large brandy."
+b'Oh, executioner, your services are no longer required.'
+b'Thank you.'
+b"You'll find no small glasses in this house, professor."
+b'Come on.'
+b'This way.'
+b'This way, now.'
+b'Now what?'
+b'We save Sirius.'
+b'How?'
+b'No idea.'
+b"Look. It's Lupin."
+b'Immobulus!'
+b"And Snape's coming."
+b'And now we wait.'
+b'And now we wait.'
+b"At least someone's enjoying himself."
+b'Yeah.'
+b'Hermione?'
+b'Yeah?'
+b'Before, down by the lake, when I was with Sirius I did see someone.'
+b'That someone made the dementors go away.'
+b'With a Patronus.'
+b'I heard Snape telling Dumbledore.'
+b'According to him only a really powerful wizard could have conjured it.'
+b'It was my dad.'
+b'It was my dad conjured the Patronus.'
+b"Harry, but your dad's..."
+b'Dead. I know.'
+b"I'm just telling you what I saw."
+b'Here we come.'
+b'You see Sirius talking to me there?'
+b"He's asking me to come live with him."
+b"That's great."
+b"When we free him, I'll never have to go back to the Dursleys'."
+b"It'll just be me and him."
+b'We could live in the country someplace you can see the sky.'
+b"He'll like that after all those years in Azkaban."
+b'Harry!'
+b'Run! Run!'
+b"Let's go."
+b'What are you doing?'
+b'Saving your life.'
+b'Thanks.'
+b"Great. Now he's coming for us."
+b"Yeah, I didn't think about that. Run!"
+b'That was so scary.'
+b"Poor Professor Lupin's having a really tough night."
+b'Sirius. Come on!'
+b'This is horrible.'
+b"Don't worry."
+b'My dad will come.'
+b"He'll conjure the Patronus."
+b'Any minute now.'
+b"Right there. You'll see."
+b'Harry, listen to me.'
+b"No one's coming."
+b"Don't worry, he will."
+b'He will come.'
+b'Sirius.'
+b"You're dying both of you."
+b'Harry!'
+b'Expecto Patronum!'
+b'You were right, Hermione.'
+b"It wasn't my dad I saw earlier. It was me!"
+b'I saw myself conjuring the Patronus before.'
+b'I knew I could do it this time because well, I had already done it.'
+b'Does that make sense?'
+b"No. But I don't like flying...!"
+b'Bombarda!'
+b"I'll be forever grateful for this to both of you."
+b'I want to go with you.'
+b'One day, perhaps.'
+b'For some time, my life will be too unpredictable.'
+b"And besides you're meant to be here."
+b"But you're innocent."
+b'And you know it.'
+b'And for now, that will do.'
+b"I expect you're tired of hearing this but you look so like your father."
+b'Except your eyes. You have...'
+b"My mother's eyes."
+b"It's cruel that I spent so much time with James and Lily, and you so little."
+b'But know this: The ones that love us never really leave us.'
+b'And you can always find them in here.'
+b'You really are the brightest witch of your age.'
+b'We have to go.'
+b'Well?'
+b"He's free. We did it."
+b'Did what?'
+b'Good night.'
+b'How did you get there?'
+b'I was talking to you there.'
+b"And now you're there."
+b"What's he talking about, Harry?"
+b"I don't know."
+b'Honestly, Ron. How can somebody be in two places at once?'
+b'Hello, Harry.'
+b'I saw you coming.'
+b"I've looked worse, believe me."
+b"You've been sacked."
+b'No. No. I resigned, actually.'
+b'Resigned? Why?'
+b'Well, it seems that somebody let slip the nature of my condition.'
+b'This time tomorrow, the owls will start arriving and parents will not want well, someone like me teaching their children.'
+b'But Dumbledore...'
+b'Dumbledore has already risked enough on my behalf.'
+b'Besides, people like me are...'
+b"Well, let's just say that I'm used to it by now."
+b'Why do you look so miserable, Harry?'
+b'None of it made any difference.'
+b'Pettigrew escaped.'
+b"Didn't make any difference?"
+b'Harry, It made all the difference in the world.'
+b'You uncovered the truth.'
+b'You saved an innocent man from a terrible fate.'
+b'It made a great deal of difference.'
+b'If I am proud of anything it is of how much you have learned this year.'
+b'Now, since I am no longer your teacher I feel no guilt whatsoever about giving this back to you.'
+b"So now I'll say goodbye, Harry."
+b"I feel sure we'll meet again sometime."
+b'Until then mischief managed.'
+b"Stand back, I said! Or I'll take it upstairs if you don't settle."
+b'Harry.'
+b'Wherever did you get it?'
+b'Can I have a go, Harry?'
+b'After you, of course.'
+b'What are you talking about?'
+b'Quiet.'
+b'Let the man through.'
+b"I didn't mean to open it, Harry."
+b'It was badly wrapped.'
+b'They made me do it.'
+b'Did not.'
+b"It's a Firebolt."
+b"It's the fastest broom in the world."
+b'For me?'
+b'But who sent it?'
+b'No one knows.'
+b'This came with it.'
+b'Go on, Harry!'
+b"Yeah, let's see."
+b'How fast is it, Harry?'
+b'Lumos.'
+b'I solemnly swear that I am up to no good.'
+b'Mischief managed.'
+b'Nox.'
